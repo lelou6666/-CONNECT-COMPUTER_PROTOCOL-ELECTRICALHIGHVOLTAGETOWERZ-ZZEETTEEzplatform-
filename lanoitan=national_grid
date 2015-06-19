@@ -1,0 +1,2834 @@
+Energy Efficiency in Pumping
+
+Note the sections in Red refer to: - 
+BS 5316 Part 1 (ISO 2548) Testing Rotodynamic Pumps
+BS 5316 Part 2 (ISO 3555) Testing Rotodynamic Pumps
+BS 5316 Part 3 (ISO 5198) Testing Rotodynamic Pumps
+ 
+which have since been superseded by: -
+BS EN ISO 9906 Rotodynamic Pumps Hydraulic Performance Acceoptance Tests Grade 1 & 2
+ 
+ 
+Energy Efficiency in Pumping
+
+1.	Basic Hydraulics
+•	Fluid Density (ρ)
+•	Specific Gravity (SG)
+•	Absolute Viscosity (μ)
+•	Kinematic Viscosity (υ)
+•	Pressure (P)
+•	Head (H)
+•	Pressure Gauge Corrections
+•	Saturation Vapour Pressure of Water
+•	Vapour Pressure
+•	Bernoulli’s Equation
+•	Continuity Equation
+•	Velocity Head (Hv)
+•	Pump Suction Head (Hs)
+•	Pump Discharge Head (Hd)
+•	Total Pump Head (H)
+•	Measuring Total Pump Head Rise (Centrifugal Relift Pumps)
+•	Measuring Total Pump Head Rise (Submersible Pumps)
+•	Types of Fluid Flow (Laminar & Turbulent)
+•	Reynolds Number (Re)
+
+
+2.	Pump Types & Characteristics
+•	Centrifugal Pumps
+•	Characteristics of Centrifugal Pumps 
+•	Centrifugal Pump Curve, Efficiency Curve & Power Curve
+•	Centrifugal Pump Types
+•	Positive Displacement Pumps
+•	Characteristics of Positive Displacement Pumps
+•	Positive Displacement Pump Curve & Power Curve
+•	Positive Displacement Pump Types
+•	The Pump Affinity Laws
+•	Variable Speed Pumping
+•	Work Done in Pumping (Pu)
+•	Pump & Motor Power Consumption (Pp & Pgr)
+•	Specific Speed (nω)
+•	Impeller Types
+•	Pump Efficiency
+•	Head Flow Characteristics
+•	Power Characteristics
+•	Efficiency Characteristics
+•	Solo Pumping
+•	Pumps Operating in Parallel
+•	Pumps Operating in Series
+
+ 
+
+3.	System Characteristics
+•	Pump Operating Point
+•	Components of a System Curve
+•	Typical Pump System
+•	System Head
+•	System Curve
+•	System Efficiency (ηsys)
+•	Pipe Friction Losses (D’Arcy formula)
+•	Estimating Pipe Head Loss
+•	Reynolds Number (Re)
+•	Friction Factor (f) (Poiseuille’s formula, Colebrooke & White formula, Blasius’s formula, etc)
+•	Pipe Roughness Values (k)
+•	Moody Chart
+•	Hazen & Williams Formula for Water
+•	Hazen & Williams Friction Factors
+•	The Importance of Pipe Diameter
+•	Estimating Fitting Losses
+•	Typical Loss Coefficients
+•	Economic Pipe Sizing
+•	Typical Suction Pipe Acceptable Mean Flow Velocities (m/s)
+•	Typical Discharge Pipe Acceptable Mean Flow Velocities (m/s)
+
+4.	Cavitation
+•	Cavitation
+•	Bernoulli’s Equation
+•	Vapour Pressure
+•	Pressure Distribution
+•	Cavitation
+•	Net Positive Suction Head Available (NPSHA)
+•	Net Positive Suction Head Required (NPSHR)
+•	Cavitation Free Performance
+•	Net Positive Suction Head Margin
+•	Typical NPSH Margins
+•	Cavitation and Pump Performance
+•	Cavitation and Pump Noise
+•	Maximum Lift
+•	Maximum Suction Lift
+•	Maximum elevation of a pump above an open water tank 
+•	Suction Specific Speed
+•	Estimating NPSHR
+•	Internal Recirculation
+•	Onset of Suction Recirculation
+•	Avoid Cavitation by Increasing NPSHA
+•	Avoid Cavitation by Decreasing NPSHR
+•	Comparing Single and Double Suction Impellers
+
+5.	Cost of Pumping
+•	The Cost of Pumping
+•	Some Facts and Figures
+•	Why Pumps are Expensive to Operate
+•	Power Consumed
+•	The Cost of Pumping
+•	The Whole Life Cost of a Pump
+•	Why Pumps are Expensive
+•	Energy Lost in Pumping
+•	Efficiency Deterioration
+•	Optimising Maintenance
+•	Savings from Pump Refurbishment
+•	The Effect of Oversizing Pumps
+•	Energy Wasted in Throttling Discharge Valves
+•	Energy Wasted in Throttling
+•	Operating Away from the Best Efficiency Point
+
+
+6.	Cost Effective Pumping Systems
+•	The Design Process
+•	The Supply Chain
+•	The Importance of Functional Specification
+•	The Functional Specification
+•	Function of a Typical Pump System
+•	Energy Losses
+•	Efficiency of Motors and Drives
+•	Pump Efficiency
+•	Pipework Losses
+•	An Example
+•	From Wire to Water
+•	Specific Power Consumption
+•	General Overview
+•	Polymer Coatings
+•	Some System Design Issues
+•	Effect of Entrained Air on Pump Performance
+•	Vortex Formation
+•	Pump Sump Design Guides to Avoid Vortex Formation
+•	Some Pump Selection Issues
+•	Pump Load Profiles
+•	Efficiency Characteristics
+•	Some Pump Selection Issues
+•	Pump Specification
+
+ 
+7.	Pump Performance Testing & Monitoring
+•	Pump Test Standards*
+•	Pump Testing to BS 5316*
+•	Acceptance Tests for Centrifugal Pumps*
+•	Conventional Pump Testing
+•	Centrifugal Pump Characteristic
+•	The Properties of Clean Cold Water
+•	Limits of Overall Errors BS 5316*
+•	Tolerance Zones BS 5316*
+•	Example of the Effect of Tolerance Zones*
+•	The Problems of Measuring Flow On-site
+•	On-site Measurements of Flowmeter Uncertainty
+•	Thermodynamic Pump Testing
+•	The Advantages of the Thermodynamic Technique
+•	Magnitude of Temperature rises in Thermodynamic pump testing
+•	On-site Pump Performance Testing
+
+* Note BS 5316 parts 1, 2 &3 has been superseded by BS EN ISO 9906
+
+8.	Pump Control & Scheduling
+•	Throttle Control
+•	Energy Loss in Throttling Fixed Speed Pumps
+•	Bypass Control
+•	Variable Speed Control
+•	The Pump Affinity Laws for Variable Speed Pumping
+•	Variable Speed - No Static Head
+•	Variable Speed – 60% Static Head
+•	Variable Speed Pumping
+•	Parallel Pumping
+•	Parallel Operation of Fixed Speed Pumps
+•	Operating Variable Speed Pumps in Parallel
+•	Variation in Impeller Forces with Pump Flow
+•	Series Pumping
+•	Operating Pumps in Series
+•	Pump Scheduling
+•	Identifying Cost Savings Opportunities
+•	Controlling Complex Systems
+
+
+ 
+Appendix 1 	Formulas
+•	Head
+•	Mean Flow Velocity
+•	Velocity Head
+•	Reynolds Number
+•	Pump Speed
+•	Hydraulic Power
+•	Pump Input Power
+•	Motor Input Power
+•	System Efficiency
+•	Specific Speed
+•	Head Loss in Pipes
+•	Head Loss In Fittings
+•	Friction Factor – Laminar Flow
+•	Friction Factor – Turbulent Flow
+•	Hazen & Williams Head Loss Formula for Water
+•	Net Positive Suction Head Available
+•	Maximum Suction Lift
+•	Suction Specific Speed
+•	Annual Cost of Pumping
+•	Annual Saving
+•	Specific Power Consumption
+•	Pump Affinity Laws
+
+
+Appendix 2		Definition of Symbols
+
+ 
+1.	Basic Hydraulics
+ 
+Fluid Density (ρ)
+
+ρ = mass / volume
+
+ 
+
+The mass of 1m³ of water is 1000 kg (1 tonne). 
+
+ρ for water = 1000kg/m³
+
+
+
+Specific Gravity (SG)
+
+Specific Gravity = density of fluid / density of water.
+
+
+Densities of some typical liquids
+
+Approximate densities at 20°C (kg/m³)
+
+Fluid	ρ (kg/m³)
+Petrol	750
+Pure Alcohol	790
+Mineral Oil	920
+Water	1000
+Nitric Acid	1500
+Mercury	13600
+
+
+ 
+Absolute Viscosity (μ)
+
+Viscosity is the resistance to fluid flow (shear)
+
+ 
+
+For a Newtonian fluid the shear stress is proportional to the rate of shear.
+τ = F/A   α   ∂u / ∂y	τ = μ ∂u / ∂y   
+
+μ is the absolute or dynamic viscosity measured in Ns/m2
+
+1 Ns/m2 = 1000cP
+ 
+1 poise (P) = 100 centipoise (cP)
+
+
+
+Absolute Viscosities of some typical liquids
+
+Approximate absolute viscosity at 20°C (cP)
+
+Liquid	Absolute Viscosity (cP)
+Petrol	0.4
+Water	1.0
+Mercury	1.5
+Crude Oil	60.0
+
+Note: Viscosity is very temperature dependant 
+Kinematic Viscosity (ν)
+
+Kinematic viscosity is the ratio of the viscous force to the inertial force. 
+
+Kinematic Viscosity ν = μ / ρ
+
+Kinematic viscosity = Absolute Viscosity / Density
+
+ν is the kinematic viscosity measured in m2/s
+
+1 m2/s = 106 cSt, 1 mm2/s = 1 cST 
+
+(1 stoke (St) = 100 centistokes (cSt)
+
+
+
+Kinematic Viscosities of some typical liquids
+
+Approximate kinematic viscosity at 20°C (cSt)
+
+Liquid	Kinematic Viscosity (cSt)
+Mercury	0.1
+Petrol	0.6
+Water	1.0
+Crude Oil	80.0
+
+Note: Centrifugal pumps become inefficient when pumping very viscous liquids.  Larger pumps suffer less. Positive displacement pumps are more suitable for pumping very viscous liquids 
+Pressure (P)
+Pabsolute = Pgauge + Patmospheric
+
+Standard atmospheric pressure = 1.01325 bar abs = 0 bar gauge
+
+1 bar = 105 N/m² = 10.2 m H2O = 750mm Hg 
+
+Note. Always compare like with like. Don’t use a mix of absolute and gauge pressures. For calculation purposes use absolute pressure.
+
+
+Head (H)
+Head (H) = P / ρg
+
+ρ = density of liquid kg/m³
+g = gravitational constant = 9.81m/s²
+
+
+Pressure and Head
+
+ 
+ 
+Pressure Gauge Corrections
+ 
+
+Allow for difference in height of a pressure gauge and the point at which you are measuring the pressure.
+
+ 
+Saturation Vapour Pressure of Water
+
+Temperature (°C)	Vapour Pressure (N/m2)
+0	615
+10	1230
+20	2340
+40	7400
+60	20000
+80	474000
+100	101500
+
+
+Vapour Pressure
+
+ 
+If you decrease pressure enough a liquid will boil (cavitation) 
+
+
+Saturation Vapour Pressures of typical liquids
+
+Approximate vapour pressures at 20°C (N/m2)
+
+Liquid	Vapour Pressure (N/m2) 
+Mercury	0.16
+Water	2340
+Kerosene	3300
+Ethyl Alcohol	5900
+Benzene	10000
+Methyl Alcohol	12500
+Petrol	30400
+ 
+Bernoulli’s Equation
+
+(P/ρg) + (V2/2g) + h = constant
+
+Pressure Energy + Kinetic Energy + Potential Energy = Constant
+
+ 
+
+Continuity Equation
+
+Mass flow rate = ρ A Vm      remains constant 
+
+Where:	A = flow area
+		Vm = mean flow velocity
+		ρ = density
+
+ 
+ 
+Velocity Head (Hv)
+Vm = Q/A = 4 x Q / π x d2
+
+ 
+
+
+Where: 	Hv = velocity head (m)
+		Q = volumetric flow rate (m3/s)
+		d = pipe bore (m)
+
+Pump Suction Head (Hs)
+ 
+ 
+
+Pump Discharge Head (Hd)
+
+ 
+Total Pump Head Rise (H)
+
+H = Hd - Hs
+
+ 
+Measuring Total Pump Head Rise (centrifugal relift pump)
+
+ 
+
+
+Total Pump Head Rise (centrifugal relift pump) 
+
+Head Rise (H) = ((Pd - Ps) / ρg) + ((Vd2 - Vs2) / 2g) + (hd – hs)
+
+ρ = density of fluid (kg/m3)
+g = gravitational constant (9.81m/s²)
+Vd = mean velocity in discharge pipe (m/s)
+Vs = mean velocity in suction pipe (m/s)
+Pd = discharge pressure (N/m2)
+Ps = suction pressure (N/m2)
+hd, hs = height above pump centreline (m)
+
+ 
+Measuring Total Pump Head Rise (submersible pump)
+
+ 
+
+
+Total Pump Head Rise (submersible pump)
+
+Head Rise (H) = (Pd / ρg) + (Vd2 / 2g) + h
+
+ρ = density of fluid (kg/m3)
+g = gravitational constant (9.81m/s²)
+Vd = mean velocity in discharge pipe (m/s)
+Pd = discharge pressure (N/m2)
+h = height above liquid level in wet well (m)
+ 
+Types of Fluid Flow
+
+Laminar Flow - Fluid flow in which adjacent layers do not mix except on the molecular scale 
+In laminar flow viscous forces dominate.
+
+Turbulent Flow - Fluid flow in which the particle motion at any point varies rapidly in magnitude and direction
+In Turbulent flow inertia forces dominate
+
+Reynolds Number (Re)
+
+The Reynolds number may be described as the ratio of inertial forces to viscous forces and, consequently, it quantifies the relative importance of these two types of forces for given flow conditions
+
+Re = ρ V d / μ = inertia forces / viscous forces
+
+ρ = density of fluid (kg/m3)
+μ = absolute or dynamic viscosity (Ns/m2)
+V = mean velocity (m/s)
+d = hydraulic diameter (m)
+dcircular pipe = 4 x cross sectional area / wetted perimeter
+(The wetted perimeter is the perimeter of the cross sectional area that is "wet" excluding any free surfaces where the liquid is not in contact with the pipe)
+
+ 
+The transition between laminar and turbulent flow in circular pipes is generally accepted to be at about Re = 2300. Avoid any pipe configuration within the range 2000 to 3000 to ensure the flow is either fully laminar or fully turbulent.
+
+
+2. Pump Types & Characteristics
+ 
+Centrifugal Pumps
+
+The rotating impeller of a centrifugal pump converts the shaft power of the motor into increased fluid velocity and hence kinetic energy of the liquid.  This kinetic energy is converted into pressure energy as the liquid passes through the pump casing.
+
+
+Characteristics of Centrifugal Pumps
+
+•	Relatively cheap, simple and very common.
+•	Capable of handling high flows
+•	Output strongly dependant on resistance to flow
+•	Compact for a given capacity
+•	Not self-priming
+•	Not suitable for high pressure or high viscosity applications
+
+
+Centrifugal Pump Characteristic 
+(Pump Curve, Efficiency Curve, Power Curve)
+
+ 
+Notes: 
+•	Curves are for specific liquids e.g. Water
+•	Power curve is typically pump shaft input power
+•	BEP is at maximum efficiency
+ 
+Centrifugal Pump Types
+
+ 
+
+ 
+Positive Displacement Pumps
+
+In a positive displacement pump either rotary or linear motion is used to force pockets of liquid through the pump casing.
+
+Positive displacement pumps will draw upon the available power to overcome resistance to flow.
+
+Characteristics of Positive Displacement Pumps
+
+•	Output largely independent of resistance to flow (suitable for accurate measurement)
+•	Suitable for high pressure and high viscosity applications
+•	Self-priming capability 
+•	Produce a pulsating flow
+•	Tend to be large and complex for their capacity
+
+
+ 
+Positive Displacement Pump Characteristic 
+(Pump Curve)
+
+ 
+
+
+Positive Displacement Pump Characteristic 
+(Power Curves)
+
+ 
+
+ 
+Positive Displacement Pump Types
+
+ 
+
+ 
+The Pump Affinity Laws
+
+
+The effect of changed impeller size and pump speed on flow
+
+Diameter Change		Speed Change	   Diameter & Speed Change
+(d1  d2) 			(N1  N2)		   (d1  d2) & (N1  N2)
+
+(Q2 / Q1) = (d2 / d1)		(Q2 / Q1) = (N2 / N1)	   (Q2 / Q1) = (d2 x N2/ d1 x N1)
+
+Q2 = Q1 x (d2 / d1)		Q2 = Q1 x (N2 / N1)	   Q2 = Q1 x (d2 x N2/ d1 x N1)
+
+
+Flow is directly proportional to diameter and speed.
+
+
+The effect of changed impeller size and pump speed on head
+
+
+Diameter Change		Speed Change	   Diameter & Speed Change
+(d1  d2) 			(N1  N2)		   (d1  d2) & (N1  N2)
+
+(H2 / H1) = (d2 / d1)2		(H2 / H1) = (N2 / N1)2	   (H2 / H1) = (d2 N2/ d1 N1)2
+
+H2 = H1 x (d2 / d1)2		H2 = H1 x (N2 / N1)2	   H2 = H1 x (d2 x N2/ d1 x N1)2
+
+Head is proportional to the square of diameter and speed.
+
+
+The effect of changed impeller size and pump speed on power
+
+
+Diameter Change		Speed Change	   Diameter & Speed Change
+(d1  d2) 			(N1  N2)		   (d1  d2) & (N1  N2)
+
+(P2 / P1) = (d2 / d1)3		(P2 / P1) = (N2 / N1)3	   (P2 / P1) = (d2 N2/ d1 N1)3
+
+P2 = P1 x (d2 / d1)3		P2 = P1 x (N2 / N1)3	   P2 = P1 x (d2 x N2/ d1 x N1)3
+
+Power (P) is proportional to the cube of diameter and speed.
+
+ 
+Variable Speed Pumping
+
+
+ 
+
+Work Done in Pumping – Hydraulic Power (Pu)
+
+Hydraulic Work Done (kW) = Pu = (ρgQH) / 1000
+
+ρ = density (kg/m³)
+g = gravitational constant = 9.81 (m/s²) 
+Q = volumetric flow rate (m3/s)
+H = Total head rise across the pump (m)
+
+
+Pump & Motor Power Consumption (Pp & Pgr)
+
+Input power to pump shaft: -
+
+Pp = ρgQH / ηp
+
+ηp = pump efficiency
+
+
+Input power to motor: -
+
+Pgr = ρgQH / ηp ηm
+
+ηm = motor efficiency
+ 
+
+Specific Speed (nω)
+
+Specific Speed is a number that relates pump speed, flow rate and head rise at the best efficiency operating condition of the pump to impeller geometry and hydraulic performance.
+
+nω = (ω x  Qbep) / (g x H bep)0.75
+ω = pump speed (rad/sec)
+Qbep = flowrate at best efficiency point (m3/s)
+H bep = Head rise at best efficiency point (m)
+g = gravitational constant = 9.81 (m/s²)
+
+Impeller Types
+
+ 
+Pump Efficiency
+ 
+ 
+Head Flow Characteristics
+ 
+Power characteristics
+ 
+Efficiency Characteristics
+ 
+ 
+Solo Pump Operation
+
+ 
+ 
+A fixed speed pump can only operate at head/flow combinations described by its pump curve. The pump curve is a characteristic of the pump. 
+
+A pumping main or system has a series of possible head/flow combinations described by its system curve. The system curve is a characteristic of the pumping main/system.
+
+When a fixed speed pump is pumping into a system, it will operate at the point at which its pump curve intersects the system curve.
+
+A pump that is designed to run solo is selected to have its best efficiency point at the solo operating point.
+
+Note: Not all pumps are designed to run solo. Pumps can also be designed to run in parallel and can be selected to have their best efficiency point at a parallel pumping operating point.
+
+ 
+Pumps Operating in Parallel
+ 
+
+ 
+
+When a pair of fixed speed pumps operate together in parallel their pump curves are added together to make a combined pump curve. The combined pump curve is a characteristic of the “pump pair” operating in parallel. 
+
+The pumping main / system head/flow system curve remains unchanged. 
+
+When the “pump pair” operates together parallel pumping into the system, they will operate at the point at which the combined pump curve intersects the system curve.
+
+Parallel pumping is generally used to increase flow rate. However, as the flowrate in the system increases, the friction element in the total head becomes more significant, so a system curve would need to be very flat indeed for parallel pumping achieve a (near) doubling of the solo flow rate.
+ 
+Pumps Operating in Series
+
+ 
+
+ 
+
+When a two fixed speed pumps operate together in series their pump curves are added together to make a series pump curve. The combined pump curve is a characteristic of the “pump pair” operating in series. 
+
+The pumping main / system head/flow system curve remains unchanged. 
+
+When the “pump pair” operates together in series pumping into the system, they will operate at the point at which the combined pump curve intersects the system curve.
+
+Series pumping is generally used to boost water pumped to a primary destination by the first pump, onward to a secondary higher destination. The second pump utilises the discharge pressure of the first pump as increased suction head.
+ 
+ 
+
+3. System Characteristics
+ 
+Pump Operating Point
+
+ 
+
+A fixed speed pump can only operate at head/flow combinations described by its pump curve. The pump curve is a characteristic of the pump. 
+
+A pumping main / system has a series of possible head/flow combinations described by its system curve. The system curve is a characteristic of the pumping main/system.
+
+When a fixed speed pump is pumping into a system, it will operate at the point at which its pump curve intersects the system curve.
+
+Components of a System Curve
+
+•	The difference in levels of the liquid surfaces in the suction and discharge vessels (static head).
+•	Difference in pressures on the liquid surfaces in the suction and discharge vessels.
+•	Friction losses in components and pipework
+•	Entrance and exit losses
+ 
+A Typical Pump System
+
+ 
+System Head
+
+H = Hs + Hd
+
+System Head = Static Head (Hs) + Dynamic Head (Hd)
+
+Static Head (Hs) is independent of flowrate
+
+Hs = ((Pd - Ps) / ρg) + h
+
+Note: Static head will change as the levels fall and rise in the suction and discharge vessels.
+
+Dynamic Head (Hd), also known as Friction Head, is proportional to the square of the flowrate.
+
+System Curve
+ 
+ 
+System Efficiency (ηsys)
+
+To minimise wasted energy the dynamic head should be as low as practicable.
+
+System Efficiency
+
+ηsys = Hs / Hs + Hd
+
+Note: A refurbished pump may deliver an increased flow which will increase the dynamic head thus consuming more energy to pump the same volume of water!  Be aware of the big picture.
+
+Pipe Friction Losses
+
+The D’Arcy formula is used to calculate pipe friction losses: -
+
+ΔH = 4fLV2 / 2dg		(European SI Based)
+
+ΔH = head loss (m)
+f = friction factor
+L = length of pipe (m)
+V = mean flow velocity (m/s)
+d = hydraulic diameter (m)
+dcircular pipe = 4 x cross sectional area / wetted perimeter
+
+(The wetted perimeter is the perimeter of the cross sectional area that is "wet", i.e in contact with the pipe)
+
+g = gravitational constant = 9.81 (m/s²)
+
+Note: the friction factor will need to be estimated (see below)
+
+In the USA a different form of the D’Arcy formula is used: -
+
+ΔH = fLV2 / 2dg		(USA Imperial Based)
+
+The reason for the difference is the type of friction factor used. It is essential that the right version of the D'Arcy equation be used with the selected friction factor. Matching the wrong equation to the wrong friction factor will result in a 400% error and it is therefore important that the correct combination of equation and friction factor is utilised.
+ 
+Estimating Pipe Head Loss
+
+Data Required: -
+•	Flow rate
+•	Pipe dimensions (bore, length, roughness)
+•	Properties of liquid (density, viscosity)
+
+Calculations: -
+•	Mean flow velocity (from flowrate & bore)
+•	Reynolds Number (from density, absolute viscosity, mean velocity & hydraulic diameter)
+•	Friction factor (from Reynolds number and roughness by chosen formulae or Moody Chart)
+•	Head loss (D’Arcy formula)
+
+Reynolds Number (Re)
+
+The Reynolds number may be described as the ratio of inertial forces to viscous forces and, consequently, it quantifies the relative importance of these two types of forces for given flow conditions
+
+Re = ρ V d / μ = inertia forces / viscous forces
+
+ρ = density of fluid (kg/m3)
+μ = absolute or dynamic viscosity (Ns/m2)
+V = mean velocity (m/s)
+d = hydraulic diameter (m)
+dcircular pipe = 4 x cross sectional area / wetted perimeter
+
+ 
+Friction Factor (f)
+
+The friction factor in the D’Arcy formula needs to be estimated. The friction factor depends on the Reynolds number (Re) of the flowing liquid and the relative roughness (k/d) of the inside of the pipe.
+
+For smooth pipes and liquids with low Reynolds number use Poiseuille’s formula for laminar flow: -
+
+f = 16 / Re		(Re <2100)
+
+For liquids with high Reynolds number you can try the Colebrooke & White formula for turbulent flow: -
+
+1 /  f = -4log10 (( k / 3.7d ) + ( 1.255 / Re  f))	(Re >3000)
+
+k = the average height of the roughness projections
+
+Blasius’s formula for smooth pipe turbulent flow: -
+
+f = 0.079 / Re0.25
+
+Estimation of friction factor for turbulent flow: -
+
+f = 0.0625 / (log10 ((k / 3.7d) + (5.74 / Re0.9))) 2
+
+Pipe Roughness Values (k)
+
+k = the average height of the roughness projections
+
+Pipe Material / Condition	Roughness (k (mm)) 
+Drawn brass, copper	0.0025
+Glass, Perspex, fibreglass	0.0025
+New smooth steel pipe	0.025
+Cast iron	0.15
+Light rust	0.25
+Water mains with tuberculations	1.2
+Mature foul sewer	3.0
+Pre-cast concrete	0.25
+Corrugated plastic	3.5
+
+ 
+Moody Chart
+
+The Moody Chart is used for estimating the friction factor from the Reynolds number and relative roughness (pipe roughness / pipe bore).
+Moody Chart (ΔH = 4fLV2 / 2dg)
+ 
+
+Note: The Moody Chart comes in two different versions. Make sure you know if a Moody Chart is for the formula with or without the 4.
+
+For the European D’Arcy formula: -
+
+ΔH = 4fLV2 / 2dg		(European SI Based)
+
+For the USA D’Arcy formula: -
+
+ΔH = fLV2 / 2dg		(USA Imperial Based)
+Hazen & Williams Formula for Water
+
+A useful method to estimate pipe friction losses is the Hazen & Williams formula for water: -
+
+ΔH = 1214.6 L (100/Chw)1.852 x (Q1.852 / d1.852)
+
+ΔH = Straight pipe pressure loss (m)
+Chw = Hazen & Williams friction factor
+Q = Volumetric Flowrate (l/min)
+d = Pipe bore (mm)
+L = Pipe length (m)
+
+The empirical nature of the friction factor (Chw) makes the Hazen & Williams formula unsuitable for accurate prediction of head loss.
+Note: The Hazen & Williams friction factor (Chw) bears no relation to friction factor (f) associated with the D’Arcy formula above.
+
+
+Hazen & Williams Friction Factors (Chw)
+
+
+Pipe Material	Friction Factor (Chw)
+Smooth unlined cast iron	130
+Asphalted cast iron	140
+Very smooth cement	130-140
+Ordinary cement	110-120
+Drawn steel or wrought iron	130-140
+Riveted steel	90-110
+
+ 
+The Importance of Pipe Diameter
+
+Head loss is highly susceptible to pipe diameter:  H α d5
+
+ 
+Estimating Fitting Losses
+
+Pipe configuration, fixtures and fittings will result in head loss.
+
+ΔH = K (V2 / 2g) = K x Hv
+
+K = fitting loss coefficient
+Hv = velocity head (m)
+V = mean velocity upstream of the fitting (m/s)
+
+Typical Loss Coefficients
+
+Typical loss coefficients at a 150mm nominal pipe size: -
+
+Configuration, fixture or fitting	Loss Coefficient
+Globe valve	5.1
+Gate valve	0.12
+Butterfly valve	0.68
+Swing type check valve	0.75
+Foot valve	1.1
+Standard 90° elbow	0.45
+Long radius 90° elbow	0.24
+Sharp edged pipe entrance	0.5
+Bellmouth pipe entrance	0.15
+Pipe exit (loss of inflow kinetic energy)	1.0
+Economic Pipe Sizing
+
+ 
+
+Typical Suction Pipe Acceptable Mean Flow Velocities (m/s)
+
+Bore (mm)	Water	Boiling Liquids	Viscous Liquids
+25	0.5	0.3	0.3
+50	0.5	0.3	0.33
+75	0.5	0.3	0.375
+100	0.55	0.3	0.4
+150	0.6	0.35	0.425
+200	0.75	0.375	0.45
+250	0.9	0.45	0.5
+300	1.4	0.45	0.5
+
+Typical Discharge Pipe Acceptable Mean Flow Velocities (m/s)
+
+Bore (mm)	Water	Boiling Liquids	Viscous Liquids
+25	1.0	1.0	1.0
+50	1.1	1.1	1.1
+75	1.15	1.15	1.1
+100	1.25	1.25	1.15
+150	1.5	1.5	1.2
+200	1.75	1.75	1.2
+250	2.0	2.0	1.3
+300	2.65	2.0	1.4
+
+Suction pipework of larger diameter than discharge pipework should be chosen to avoid cavitation.
+ 
+4. Cavitation
+ 
+Cavitation
+
+•	Cavitation is the boiling of liquid at low pressures and normal temperatures to form bubbles of vapour. It occurs when when the local pressure falls sufficiently far below the saturated vapor pressure of the liquid.
+•	The bubbles of vapour resulting from the liquid boiling will eventually collapse to a minute fraction of their original size, at which point the gas within dissipates into the surrounding liquid via a rather violent mechanism, which releases a significant amount of energy largely in the form of an acoustic shock-wave but also in part as visible light. 
+•	Although the collapse of bubbles is a relatively low energy event, highly localized collapses can erode metals, such as steel, over time. At the point of total collapse, the temperature of the vapor within the bubble may be several thousand degrees kelvin, and the pressure several hundred atmospheres. The pitting caused by the collapse of bubbles produces great wear on components and can dramatically shorten a pump's lifetime.
+•	Cavitation causes: -
+o	Mechanical Damage
+o	Performance deterioration
+o	Noise and vibration
+
+Bernoulli’s Equation
+
+(P/ρg) + (V2/2g) + h = constant
+
+Pressure Energy + Kinetic Energy + Potential Energy = Constant
+
+In a centrifugal pump liquid is drawn in through the suction manifold. The rotating impeller converts the shaft power of the motor into increased fluid velocity, reaching a maximum velocity, and hence maximum kinetic energy of the liquid, at the rim of the impeller.  Much of this kinetic energy is then converted into pressure energy as the liquid passes through the pump casing.
+
+As the kinetic energy of the liquid increases in the pump, its pressure falls, only to increase again as the kinetic energy is converted to pressure as the liquid leaves the pump.
+ 
+Vapour Pressure
+
+ 
+If you decrease pressure enough a liquid will boil.
+
+
+Pressure Distribution
+
+
+ 
+If Pmin falls below the vapour pressure of the liquid it will boil causing cavitation.
+ 
+Cavitation
+ 
+Bubbles created as the liquid boils under low pressure at the inlet get carried along by the flow and collapse implosively as the pressure increases at the outlet.  Vapour volume is 150,000 times the same liquid volume (water), so efficiency is greatly reduced.
+
+Net Positive Suction Head Available (NPSHA)
+
+ 
+
+NPSHA = (PS – PV /ρg) – hs - hs loss
+
+PV = Vapour Pressure of the pumped fluid at the operating temperature
+
+NPSHA is a function of the pumping system and should be designed to be as large as possible.
+ 
+Net Positive Suction Head Required (NPSHR)
+NPSHR is a function of the design of the pump.  For a pump to work properly, NPSHA must be greater than NPSHR: you must have more suction head available in the system than required by the pump.
+When NPSHA is less than NPSHR, the pump will either cavitate and operate at a reduced performance condition, or the pump will not operate at all.
+
+Onset of Cavitation as NPSHA falls below NPSHR (NPSH-3)  
+ 
+NPSHR (NPSH-3) is the suction pressure limit at which the pump's total differential head performance is reduced by 3% due to cavitation. It's important to note that cavitation occurs at suction pressure levels above the NPSH-3 level and pump damage can occur from cavitation even though the pump may continue to provide the expected hydraulic performance.
+ 
+Cavitation Free Performance
+ 
+To ensure pump performance is cavitation free, NPSHA must be maintained well above NPSHR (NPSH-3).
+
+NPSH Margin
+The difference between NPSHA and NPSHR is known as the NPSH Margin.
+ 
+ 
+Typical NPSH Margins
+
+Application	NPSH Margin (% of NPSHR) 
+Cold Water	35 - 50
+Hydrocarbons	10
+Small Boiler Feed Pumps	50 [1]
+High Energy Pumps	100 – 200 [2]
+[1]	Pumps up to 1850kW and 3600 rpm
+[2]	Where the impeller inlet peripheral velocity is greater than 25 m/s
+Cavitation and Pump Performance
+ 
+The onset of cavitation is marked by a rapid decrease in developed head. This is accompanied by a rapid decrease in pump efficiency.
+ 
+Cavitation and Pump Noise
+ 
+Cavitation usually produces noise. The noise is generated by the implosion of the vapour bubbles. This can sound like gravel passing through the pump. In extreme cases cavitation can be almost silent due to the sound insulation properties of the vapour bubbles cushioning the noise of the implosions.
+ 
+Maximum Lift
+As a pump is positioned higher above an open suction tank the NPSHA reduces until cavitation occurs. The maximum lift is dependant on atmospheric pressure and vapour pressure of the fluid.
+ 
+Maximum Suction Lift
+
+NPSHA = (PS – PV /ρg) – hs - hs loss
+
+PV = Vapour Pressure of the pumped fluid at the operating temperature
+
+hs = (PS – PV /ρg) - hs loss – NPSHA 
+
+NPSHA = NPSHR + Margin 
+
+hs = (PS – PV /ρg) - hs loss – (NPSHR + Margin)
+The real maximum lift possible is only about four meters. 
+Maximum elevation of a pump above an open water tank 
+The maximum elevation or suction head for an open tank will depend on atmospheric pressure (which in general can be regarded as constant) and the vapour pressure of the fluid (which will vary with temperature, especially for water).
+he = Patm / ρg – PV / ρg
+
+Patm = Atmospheric Pressure 
+ρ = density of liquid kg/m³
+g = gravitational constant = 9.81m/s
+PV = Absolute vapour pressure of Water
+The absolute vapour pressure of water at 20°C is 2.3kN/m2, and Atmospheric pressure is 101.33kN/m2, therefore the maximum theoretical elevation height is: -
+he = (101.33) / (1000 x 9.81) - (2.3) / (1000 x 9.81) = 10.1 m
+This theoretical value will vary significantly with temperature due to the temperature dependence of the vapour pressure of water.
+ 
+The maximum theoretical elevation of a pump above an open water tank at different temperatures can be found in the following table: - 
+Temperature (°C)	Vapour Pressure (kN/m2)	Maximum Elevation (m)
+0	0.6	10.3
+5	0.9	10.2
+10	1.2	10.2
+15	1.7	10.2
+20	2.3	10.1
+25	3.2	10
+30	4.3	9.9
+35	5.6	9.8
+40	7.7	9.5
+45	9.6	9.4
+50	12.5	9.1
+55	15.7	8.7
+60	20	8.3
+65	25	7.8
+70	32.1	7.1
+75	38.6	6.4
+80	47.5	5.5
+85	57.8	4.4
+90	70	3.2
+95	84.5	1.7
+100	101.33	0
+
+Due to the head losses in suction pipework and the local conditions inside the pump the practical maximum elevation is significantly less than these theoretical values.  The practical maximum lift possible at 20°C is only about four meters. 
+Suction Specific Speed
+Sω = (ω x  Qbep) / (g x NPSHR bep)0.75
+
+ω = pump speed (rad/sec)
+Qbep = flowrate at best efficiency point (m3/s)
+NPSHR bep = Net Positive Suction Head Required at best efficiency point (m)
+g = gravitational constant = 9.81 (m/s²)
+Suction Specific Speed is generally between 2.5 and 4, typically 2.8, but with an Inducer fitted can be up to 8. An Inducer is a small impeller mounted on the eye of the main impeller to speed up input.
+Estimating NPSHR
+ 
+
+NPSHR can be estimated for pumps running at given rotational speeds and flow rates at a fixed specific speed.
+ 
+Internal Recirculation
+
+ 
+
+When the capacity of a pump is reduced by throttling (or by an increase in system head) recirculation can occur. Recirculation is a flow reversal at the suction and/or discharge tips if the impeller vanes. All impellers have a critical capacity at which recirculation occurs. Recirculation commonly occurs briefly as a pump is shut-off.
+
+Suction recirculation is a reversal of flow at the impeller eye.  A rotating annulus of liquid is formed upstream of the impeller inlet. The axial flow corresponding to the output of the pump passes through the core of this annulus. The high shear rate between the annulus and axial flow creates vortices that form and collapse resulting in cavitation and noise. Suction recirculation produces a loud crackling noise about the suction end of a pump (louder than low NPSHA cavitation) and can be very damaging if it occurs during continuous operation of the pump.
+
+Discharge recirculation is a reversal of flow at the discharge tips of the impeller vanes. The high shear rate between the inward and outward flows produces vortices that cause cavitation that attacks the pressure side of the vanes.  Discharge recirculation produces the same characteristic crackling noise about the discharge end of the pump and can be very damaging if it occurs during continuous operation of the pump.
+
+Onset of Suction Recirculation 
+
+ 
+
+The capacity at which suction recirculation occurs is directly related to the design suction specific speed of the pump. The higher the suction specific speed, the closer the onset of recirculation to the capacity at best efficiency.
+
+Where recirculation during continuous pump operation occurs a number of possible corrective measures are available: -
+
+•	Increase the output capacity of the pump
+•	Install a bypass between the discharge and suction ends
+•	Bleed air into the pump suction to reduce effects
+•	Replace the impeller with one made of a harder material to reduce damage
+ 
+Avoid Cavitation by Increasing NPSHA
+
+The following corrective measures will increase NPSHA
+
+•	Raise the level of liquid in the supply vessel
+•	Lower the pump
+•	Reduce the suction pipework losses (increase diameter)
+•	Install a booster pump
+•	Reduce the vapour pressure of the liquid by cooling it prior to pumping
+
+Avoid Cavitation by Increasing NPSHR
+
+The following corrective measures will increase NPSHR
+
+•	Use a slower speed pump
+•	Use a double suction impeller
+•	Fit an impellor with a larger eye (beware of recirculation)
+•	Use an oversize pump
+•	Fit an inducer
+•	Use several pumps operating in parallel
+
+Comparing Single and Double Suction Impellers
+
+Sω = (ω x  Qbep) / (g x NPSHR bep) 0.75
+
+ω = pump speed (rad/sec)
+Qbep = flowrate at best efficiency point (m3/s)
+NPSHR bep = Net Positive Suction Head Required at best efficiency point (m)
+g = gravitational constant = 9.81 (m/s²)
+
+If Q2 = 0.5 x Q1
+
+NPSHR2 = NPSHR1 ( 0.5 x Q1 /  Q1) 1.333
+
+NPSHR2 = 0.63 x NPSHR1
+
+So by using a double suction impeller a reduction of 27% NPSHR is achieved
+ 
+
+ 
+5.	Costs of Pumping
+ 
+The Cost of Pumping
+
+The capital cost of a pump may seem high but it is quite small compared to the whole lifetime cost of the pump.
+
+Some Facts and Figures
+
+•	The initial capital cost of a pump is typically less than 5% of its total whole life costs
+•	About 70% of all electric motors produced are used to drive pumps fans and compressors
+•	There are over 10,000,000 electric motors in the UK and about 3,000 new motors are purchased every day
+•	An electric motor consumes its own value in energy costs running for less than 30 days
+•	The cost of the electricity used to drive pump motors in the UK is over £2,000 million a year
+
+Why Pumps are Expensive to Operate
+
+•	Pumps are normally powered by electric motors
+•	Pumps often run in excess of 5,000 hours per year
+•	Pumps wear in service reducing their operating efficiency
+•	Pumps operating with reduced efficiency can still perform without any obvious problems
+•	Pump duties are often over specified at the design stage of a scheme which can result in over-specified pumps that must operate some way below their best efficiency points
+•	Pumps are often throttled to meet operational requirements
+•	Variations in operational requirements can result in inefficient pumping regimes
+•	Operating pumps inefficiently increases running wear and maintenance costs
+
+ 
+Power Consumed in Pumping
+
+Pgr = ρgQH / 1000 ηp ηm
+
+Pgr = electrical power consumed (kW)
+ρ = density of fluid (kg/m³)
+g = gravitational constant = 9.81 (m/s²) 
+Q = volumetric flow rate (m3/s)
+H = head developed by the pump (m)
+ηp = pump efficiency (decimal)
+ηm = motor efficiency (decimal)
+
+The Cost of Pumping
+
+Annual Cost (£) = Pgr ntr / 100
+
+Pgr = electrical power consumed (kW)
+n = hours run per year (hrs) 
+tr = tariff rate (p/kWh)
+
+Annual Cost (£) = ρgQHntr / ηp ηm 105
+Example
+
+What is the annual cost of running a 100kW pump continuously for a year (8760 hours) at 8p/kWh?
+
+Cost = 100 x 8760 x 8 / 100 = £ 70,080 (about £192 a day)
+
+The Whole Lifetime Cost of a Pump
+
+ 
+ 
+Why Pumps are Expensive
+
+Energy Savings of 10 – 15% can typically be made by improving the efficiency of pumps
+
+Energy Savings of 30-40% can typically be made by considering the performance of complete pumping systems
+
+Energy Lost in Pumping
+
+ 
+
+ 
+Efficiency Deterioration
+
+ 
+Starting and stopping pumps is the cause of most deterioration.
+
+Optimising Maintenance
+ 
+
+ 
+Savings from Pump Refurbishment
+
+P (kW) = (ρgQH / 1000) x (1 / η1 - 1 / η2)
+
+Annual Saving (£) = (ρgQHntr / 105) x (1 / η1 - 1 / η2)
+
+η1 = ηp1 x ηm1 = overall efficiency before refurbishment
+
+η2 = ηp2 x ηm2 = overall efficiency after refurbishment
+
+P = electrical power consumed (kW)
+ρ = density of fluid (kg/m³)
+g = gravitational constant = 9.81 (m/s²) 
+Q = volumetric flow rate (m3/s)
+H = head developed by the pump (m)
+n = hours run per year (hrs) 
+tr = tariff rate (p/kWh)
+ηp = pump efficiency (decimal)
+ηm = motor efficiency (decimal)
+
+
+Savings from Pump Refurbishment
+
+Assumptions: -
+
+Q = 0.102 m3/s (= 8.81 Ml/d)
+H = 100m
+ρ = 1000 kg/m³ (water)
+n = 8760 hrs (continuous running) 
+tr = 8 p/kWh
+η1 = 0.65
+η2 = 0.75
+
+Hydraulic Power = 100kW
+
+Savings (£) = 100 x 8760 x 0.08 (1 / 0.65 - 1 / 0.75) = £14,716.80
+
+ 
+The Effect of Oversizing Pumps
+
+ 
+Pgr = ρgQH / ηp ηm
+
+H = Hs + Hd 
+&  
+Hd α Q2
+
+H = Hs + aQ2 where a = constant
+
+Pgr = ρgQ (Hs + aQ2) / ηp ηm
+
+Pgr = ρgQHs + aρgQ3 / ηp ηm
+
+So power is strongly flow dependent.
+
+The Effect of Oversizing Pumps
+
+•	Power consumption and operating costs are significantly increased
+
+•	Pump operates to the right of the best efficiency flow rate
+
+•	Increased risk of high flow cavitation
+o	NPSHA reduces with flow, NPSHR increases with flow
+
+•	Increased risk of overloading pump motor
+ 
+Energy Wasted in Throttling Discharge Valves
+
+ 
+Energy Wasted in Throttling
+ 
+Operating Away from the Best Efficiency Point
+ 
+ 
+6. Cost Effective Pumping Systems
+ 
+The Design Process
+
+ 
+
+The Supply Chain
+
+ 
+The Clients message about running costs has to get to the equipment supplier, so the Specification has to be very good.
+
+ 
+The Importance of Functional Specification
+
+ 
+
+The Functional Specification
+
+•	What is to be pumped and why?
+•	Where is it to be pumped?
+•	Where is it pumping from and where is it pumping to?
+•	How will it interact with other existing or proposed installations?
+•	Who will operate and maintain it?
+•	How are any of these requirements likely to change?
+ 
+Function of a Typical Pump System
+ 
+
+ρ = density of liquid (kg/m³)
+g = gravitational constant = 9.81m/s²
+Q = volumetric flow rate (m3/s)
+Hs = Static Head (m)
+
+Energy Losses
+
+•	Transformer and cable losses
+o	2% – 4% for a well designed system
+•	Variable speed drive losses
+o	about 5% for a modern drive
+•	Motor losses
+o	4% - 10% depending on size and design
+•	Pump losses
+o	10% - 40% depending on design and duty
+•	Pipework losses
+
+ 
+Efficiency of Motors and Drives
+ 
+Motor and Inverter drive efficiency is fairly flat except at low loads.
+
+Pump Efficiency
+ 
+Pump efficiency is strongly flow dependent and falls off sharply moving away from maximum efficiency point.
+
+Pipework Losses
+ 
+
+An Example
+
+Flowrate	0.102 m3/s
+Static Head	80 m
+Dynamic Head	20 m
+Fluid Density (water)	1000 kg/m3
+Pump Efficiency	80%
+Motor Efficiency	93%
+Variable Speed Drive Efficiency 	95%
+Transformer and Cable Efficiency	98%
+
+A good pumping station, well designed system reasonable components having good values.  
+
+From Wire to Water
+
+	kW	%
+Useful work done	80	56
+Pipework losses	20	14
+Pump losses	25	17
+Motor losses	9	6
+Drive losses	7	5
+Transmission and cable losses	3	2
+Total energy input	144	100
+
+A well designed system with reasonable components having good values, yet still only 56 percent of power input ends up as useful work.
+ 
+Specific Power Consumption (PS) (don’t confused with suction pressure)
+
+PS = P/Q = ρ.g.HS/ηgr = Ws/m3 (watt seconds per cubic metre)
+
+PS = ρ.g.HS/3600.ηgr = kWh/Ml
+
+PS = specific power consumption (kWh/Ml)
+ρ = density of fluid (kg/m³)
+g = gravitational constant = 9.81 (m/s²) 
+HS = static head (m)
+ηgr = product of overall component efficiencies
+
+This measure uses system static head, and so doesn’t include the variation in total pumping head that arises from friction losses. 
+
+Specific Power Consumption (PS) Example
+
+Using figures for the example above: -
+
+PS = ρ.g.HS/3600.ηgr = (1000 x 9.81 x 80) / (3600 x 0.56)
+
+PS = 389 kWh/Ml
+
+Another very useful measure is Specific power consumption per metre of static head that can be used to compare the performance of competing designs: -
+
+PS/Hs = kWh/Ml/m
+
+Using figures for the example above: -
+
+PS/Hs =389/80 = 4.9 kWh/Ml/m
+
+ 
+General Overview
+
+•	It is very important to evaluate the whole life costs of competing designs
+•	Select appropriate equipment (it’s a no brainer)
+o	high efficiency motors, efficiency enhancing coatings for pump internals
+•	Minimise installation effects and hydraulic losses
+•	Develop an effective system of operation, control and monitoring
+
+Polymer Coatings
+ 
+Efficiency derived from polymer coatings will last providing cavitation is avoided.
+
+Some System Design Issues
+
+Most apparent pump problems are in fact system problems and the majority of these are related to suction conditions.
+•	allow generous suction pipework diameters with a minimum of bends and fittings
+•	suction pipework should rise continuously into the pump suction end to avoid creating air pockets
+•	sumps and suction tanks should be designed to avoid vortex formation
+
+ 
+Effect of Entrained Air on Pump Performance
+ 
+Increasing quantities of entrained air will progressively reduce pump performance.
+
+Vortex Formation
+ 
+Pump Sump Design Guides to Avoid Vortex Formation
+ 
+Some Pump Selection Issues
+
+Compare the power consumption across the operating range of each pump.
+•	it may be more cost effective to sacrifice peak efficiency at the design flow for improved performance at lower flows
+•	information is required on the range of flows required and the period of time spent at each flowrate.
+
+Pump Load Profiles
+
+ 
+Efficiency Characteristics
+
+ 
+Radial flow pumps hold their efficiency over a wider range of design flows.
+
+Some Pump Selection Issues
+
+Do not oversize pumps to meet an anticipated increase in demand or system head which may never occur.
+•	it is often more cost effective to replace the pump or fit a larger impeller when required
+•	variable speed drives should not be used to accommodate short-comings in the design process
+
+Sometimes optimum energy efficiency may have to be balanced against long term reliability.
+•	for example, sewage pumps inevitably have to sacrifice some hydraulic efficiency for solids handling capability
+•	the efficiency of multi-stage pumps can be increased by selecting a higher specific speed model but this leads to a lower head per stage, more stages, longer shafts and larger deflections
+
+Pump Specification
+
+The pump specification determines the capital cost and subsequent lifetime operating and maintenance expenditure. To minimise lifetime operating and maintenance costs, pump users, pump manufacturers and component & service suppliers must work closely together.
+
+ 
+Pump Specification
+
+Water Industry Mechanical and Electrical Specifications (WIMES) 1.01 to 1.11 cover a variety of pump type specifications that include standard data sheets.  These specifications typically include a large quantities of performance data.
+
+•	General Performance Specification
+o	mode of operation - solo, parallel, series
+o	type of operation - fixed speed, dual speed, variable speed
+o	asset life (years)
+o	utilisation (%)
+•	Detailed Performance Specification 
+o	operating speed - maximum (rpm), actual at duty point(s) (rpm)
+o	hydraulic performance at guaranteed duty point (GDP) at operating speed - flowrate (l/s), static head (m), dynamic head (station) (m), dynamic head (main) (m)
+o	system data - maximum static head (m), minimum static head (m)
+o	pump curve [head (m) vs. flowrate (l/s)] - supplier curve (no.)
+o	limit (80% & 105%) flowrates at operating speed as percentage of best efficiency point (BEP) flowrate (Q (GDP)/Q (BEP)) - upper limit (%), lower limit (%)
+o	pump efficiency at operating speed (uncoated/coated) - at GDP (%), at maximum flow (%)
+o	 absorbed power (bare shaft) at operating speed (uncoated/coated) – at GDP (kW), at maximum flow (kW), at maximum power (kW)
+o	maximum flowrate at operating speed (l/s)
+o	minimum flowrate at operating speed (l/s)
+o	ability to discharge into empty main (y/n)
+o	closed valve performance at operating speed - head (m), maximum operating time (s)
+o	required NPSHA at operating speed - at GDP (m), at maximum flow (m)
+o	actual NPSHA at operating speed - at GDP (m), at maximum flow (m)
+o	actual NPSH margin at operating speed - at maximum flowrate (%NPSHR)
+o	multi-stage pumps - number of stages
+ 
+7. Pump Performance Testing & Monitoring
+ 
+
+
+Pump Test Standards*
+
+API 610	Centrifugal pumps
+API 674	Reciprocating pumps
+API 675	Metering and dosing pumps
+API RP 11S2	Rotary positive displacement pumps
+ASME PTC 7,7.1,8.2,18.1	Rotodynamic pumps
+BS5316 Part 1 = ISO 2548	Rotodynamic pumps
+BS5316 Part 2 = ISO 3555	Rotodynamic pumps
+BS5316 Part 3 = ISO 5198	Rotodynamic pumps
+BS 5860 = IEC 607	Very large pumps / turbines
+DIN 1944	Centrifugal pumps
+DIN 14410	Portable fire pumps
+DIN 14420	Fire pumps
+DIN 19670	Effluent pumps
+Hydraulic Institute 1.6	Centrifugal pumps
+Hydraulic Institute 6.6	Reciprocating pumps
+VDMA 24284	Positive displacement pumps
+
+Pump Testing to BS 5316*
+
+Testing under BS 5316 is carried out to guarantee one or more of the following: -
+•	Outlet flow
+•	Total head developed
+•	Power input or efficiency
+•	NPSH
+Testing is carried out using “clean cold water” (see below)
+
+Acceptance Tests for Centrifugal Pumps*
+
+BS 5316: Acceptance tests for centrifugal mixed flow and axial flow pumps
+•	BS5316 Part 1 - ISO 2548 - Class C
+•	BS5316 Part 2 - ISO 3555 - Class B
+•	BS5316 Part 3 - Precision Class - Class A
+Pumps >50kW should be tested to Class B (not Class C)
+
+* Note BS 5316 parts 1, 2 &3 has been superseded by BS EN ISO 9906
+ 
+Conventional Pump Testing
+
+ 
+
+In a conventional pump testing setup, pressure monitoring is used to measure both the suction and discharge pressure of the pump. A flowmeter is used to measure the pumped flowrate. 
+Power metering is setup to measure the pump motor input power.  
+
+The pump is run at operational speed and the discharge valve is progressively closed in steps to record measurements at a series of test points.  
+
+ 
+ 
+The suction and discharge pressure measurements are used to calculate the head rise across the pump in meters at each test point.  
+
+The pumped flowrate measurements are used to calculate the volumetric flowrate through the pump in litres per second at each test point. 
+
+Pump curve: -
+Head rise across pump (m) Vs. Flowrate through pump (l/s)
+
+The pump motor input power measurements are used to calculate the pump shaft input power in kW at each test point (the motor efficiency will be required for this).
+Pp = Pgr / ηm
+
+Pp = Input power to pump shaft (kW)
+Pgr = Input power to motor (kW)
+ηm = motor efficiency
+
+Power curve: -
+Pump shaft input power (kW) Vs. Flowrate through pump (l/s)
+
+The calculated volumetric flowrate through the pump, the calculated head rise across the pump, the pump motor input power and the motor efficiency are used to calculate the pump efficiency for each test point 
+ηp = ρgQH / Pgr ηm
+
+ηp = pump efficiency (decimal)
+ρ = density (kg/m³)
+g = gravitational constant = 9.81 (m/s²) 
+Q = volumetric flow rate (m3/s)
+H = Total head rise across the pump (m)
+Pgr = Input power to motor (kW) 
+ηm = motor efficiency (decimal)
+
+Efficiency curve: -
+Pump efficiency ηp (%) Vs. Flowrate through pump (l/s)
+
+ 
+Centrifugal Pump Characteristic
+
+ 
+
+The Properties of Clean Cold Water
+
+Characteristic	Maximum Value
+Temperature	40ºC
+Kinematic Viscosity	1.75 x 10-6 m2/s
+Density	1100 kg/m3
+Free Solid Content	2.5 kg/m3
+Dissolved Solid Content	50 kg/m3
+
+The defining properties of “clean cold water” have an enormous leeway, and it can actually be quite hot and dirty.
+ 
+
+ 
+Limits of Overall Errors BS 5316*
+
+Measure	Class A 
+(+/- %)	Class B 
+(+/- %)	Class C 
+(+/- %)
+Rate of Flow	1.5	2.0	3.5
+Pump total head	1.0	1.5	3.5
+Pump input power	1.0	1.5	3.5
+Electrical input power	1.0	1.5	3.5
+Speed of rotation	0.2	0.5	2.0
+Overall efficiency	2.0	2.5	4.5
+Pump efficiency	2.25	2.8	5.0
+
+Tolerance Zones BS 5316*
+
+ 
+
+If
+[HG XH /ΔH] 2 + [QG XQ /ΔQ] 2
+
+is greater than or equal to unity then the guarantee condition has been met.
+
+	Class A	Class B	Class C
+XH	0.02	0.02	0.04
+XQ	0.02	0.04	0.07
+
+Tolerance Zones BS 5316*
+
+[HG XH /ΔH] 2 + [QG XQ /ΔQ] 2 = 1
+
+This equation defines an elliptical tolerance zone. Knowing the slope of the pump curve at the GDP: -
+
+S = ΔH / ΔQ
+
+it is possible to calculate the tolerances for a given GDP
+
+ 
+
+Example of the Effect of Tolerance Zones*
+
+ 
+* Note BS 5316 parts 1, 2 &3 has been superseded by BS EN ISO 9906
+The Problems of Measuring Flow On-site
+
+•	A flowmeter may not be installed
+•	If a flowmeter is installed it may not be calibrated
+•	The flowmeter may be sized to measure the output of a number of pumps
+•	The pipework configuration may be far from ideal
+
+On-site Measurements of Flowmeter Uncertainty
+
+% of Flowmeter Population	Uncertainty
+25%	<5%
+50%	5% to 10%
+25%	>10%
+
+In-service flowmeter tests show widespread inaccuracy. 
+
+Thermodynamic Pump Testing
+
+Efficiency = work out / work in
+
+work in = work out + losses
+
+work out = ρgQH
+ρ = density (kg/m³)
+g = gravitational constant = 9.81 (m/s²) 
+Q = volumetric flow rate (m3/s)
+H = total head rise across the pump (m)
+
+Once the pumping system has reached thermal equilibrium, the energy losses from the system are almost exclusively in the guise of a temperature rise in the pumped liquid.
+
+losses = ρQCpΔT
+ρ = density (kg/m³)
+Q = volumetric flow rate (m3/s)
+Cp = specific heat capacity at constant pressure (J/kg.K)
+ΔT = temperature rise across the pump
+
+Efficiency = 1 / ((1 + CpΔT) / (gH))
+
+Efficiency can therefore be calculated by measuring the head rise and temperature rise across the pump. This method of efficiency measurement does not rely on measuring the pumped flowrate. 
+Thermodynamic Pump Testing
+ 
+
+In a thermodynamic pump test setup, pressure monitoring is used to measure both the suction and discharge pressure of the pump. Accurate thermocouples are used to measure the difference between the suction and discharge temperatures of the pumped liquid. Power metering is setup to measure the pump motor input power.  
+
+As in conventional testing the pump is run at operational speed and the discharge valve is progressively closed in steps to record measurements at a series of test points.  
+ 
+The true flowrate at each point can be back-calculated from the pump head, temperature rise, power readings and known motor efficiency. In practice, readings are also normally taken from the site flowmeter at each test point that can be used to determine its accuracy.
+
+The Advantages of the Thermodynamic Technique
+
+•	Pump efficiency and performance can be accurately determined on-site
+•	Accuracy is not sensitive to pipework configuration (accurate flow metering is sensitive to pipework configuration)
+•	Portable testing equipment can be easily installed
+•	Test work can be carried out with the minimum disruption to operations
+•	Testing does not rely in existing installed flow metering equipment of variable accuracy
+
+Magnitude of Temperature rise in Thermodynamic pump testing
+ 
+On-site Pump Performance Testing
+
+•	detect loss in performance and aid optimisation of maintenance intervals
+•	assess the effectiveness of refurbishment work
+o	it is economically viable to refurbish one out of every  three pump tested
+o	paybacks on refurbishment are generally less than 2 years
+•	optimise operating schedules to minimise operating costs
+•	evaluate system losses and condition
+•	assess fitness for purpose
+•	calibrate permanently installed flowmeters
+ 
+
+8.	Pump Control & Scheduling
+ 
+Throttle Control
+
+ 
+
+Energy Loss in Throttling Fixed Speed Pumps
+
+ 
+
+ 
+Bypass Control
+
+ 
+
+ 
+Variable Speed Control
+
+ 
+
+The Pump Affinity Laws for Variable Speed Pumping
+
+For a Speed Change (N1  N2)
+
+Q2 = Q1 (N2 / N1)
+
+Flowrate (Q) is directly proportional to speed.
+
+H2 = H1 (N2 / N1)2
+
+Head (H) is proportional to the square of speed.
+
+P2 = P1 (N2 / N1)3
+
+Power (P) is proportional to the cube of speed.
+
+NPSHR2 = NPSHR1 (N2 / N1)2
+
+Net Positive Suction Head Required (NPSHR) is proportional to the square of speed.
+ 
+Variable Speed - No Static Head
+ 
+Where there is no static head, the variable speed pump control will produce flow at all motor speeds.
+
+Variable Speed – 60% Static Head
+ 
+With significant static head contribution, operating points move to the left.  At slower speeds the pump doesn’t produce enough head to overcome static head and ‘hydraulic shut-off’ occurs.
+
+Variable Speed Pumping
+
+•	Variable speed control becomes less attractive as static head contribution increases
+o	the pump operating point moves to the left of bep
+o	flow becomes increasingly sensitive to small speed changes
+•	Other options should be considered when static head exceeds 60% of total head required
+ 
+Parallel Pumping
+ 
+In a parallel pumping arrangement individual pumps have their own suction and discharge valves. 
+
+Parallel Operation of Fixed Speed Pumps
+ 
+Parallel Operation of Fixed Speed Pumps
+ 
+If static head contribution is low, there is a danger of cavitation if one pump fails as flow through the remaining pump increases.
+ 
+
+Parallel Operation of Fixed Speed Pumps
+
+If one or more pumps fail in a parallel pumping arrangement, flow through the remaining pump(s) increases.
+•	The effect becomes more significant as the static head contribution decreases.
+•	If the operating point moves to the right of the bep efficiency is reduced and there is a risk of overloading the motor and a risk of high flow cavitation occurring.
+
+Operating Variable Speed Pumps in Parallel
+
+•	The characteristics of pumps operating in parallel must be carefully matched to prevent ‘hydraulic shut-off’
+o	leading to overheating, high shaft forces and premature bearing and seal failure
+•	Operating pumps running in parallel at different speeds is the easiest way to mismatch their characteristics
+
+ 
+Variation in Impeller Forces with Pump Flow
+
+ 
+Axial flow centrifugal pumps have a propeller type impeller.  
+Volute casings are used for high head applications. The volute that surrounds the impeller periphery is a curved funnel that increases in cross-sectional area towards the discharge manifold.  As the area of the cross-section increases, the volute reduces the speed and increases the pressure of the liquid. 
+One of the main purposes of a volute casing is to help balance the hydraulic pressure on the shaft of the pump. Balancing is maximised at the bep. Running volute-style pumps at a lower capacity than the bep can put lateral stress on the shaft of the pump, increasing wear-and-tear on the seals and bearings, and on the shaft itself.  Double-volute casings are used where radial thrusts become significant at reduced capacities
+Circular casings are used for low head high capacity applications. Circular casing have stationary diffusion vanes surrounding the impeller periphery that convert velocity energy to pressure energy
+
+ 
+Series Pumping
+
+ 
+
+Operating Pumps in Series
+
+•	The suction pressure of the second pump is equal to the discharge pressure of the first pump
+•	If the first pump fails or cannot provide sufficient flow the second pump may cavitate
+•	problems can occur when series pumping stations are remote from each other and not under common control
+
+Pump Scheduling
+
+•	There are often savings to be made from pump scheduling where there is
+o	over-capacity
+o	variable demand
+o	sufficient storage capacity
+o	variable energy tariffs
+•	The selection of operating schedules are often based on minimal or out of date information
+
+
+•	Compare the specific power consumption of installations and individual plant items
+•	Obtain current pump and system operating characteristics
+•	Review the operating schedules to identify cost saving opportunities
+•	Implement revised operating schedules and train operators
+
+ 
+Identifying Cost Savings Opportunities
+
+ 
+
+Controlling Complex Systems
+
+For energy intensive and complex systems with a high degree of interaction between individual assets continuous monitoring may be required to maintain efficiency
+
+•	data accessed and analysed remotely.
+•	provision of information, not just data.
+•	customised control software 
+ 
+Appendix 1. Formulas
+ 
+Head (H)
+
+H = P/ρg
+
+H = head (m)
+P = pressure (N/m2)
+ρ = density of liquid (kg/m³)
+g = gravitational constant = 9.81m/s²
+
+Mean Flow Velocity (Vm)
+
+Vm = Q/A = 4Q/πd2
+
+Vm = mean flow velocity (m/s)
+Q = volumetric flow rate (m3/s)
+A = flow area (m2)
+d = pipe bore – internal diameter (m)
+
+Velocity Head (Hv)
+
+Velocity Head Hv = V2/2g
+
+Hv = velocity head (m)
+V = mean velocity (m/s)
+g = gravitational constant = 9.81m/s²
+
+Reynolds Number (Re)
+
+Re = ρVd/μ = inertia forces / viscous forces = Vd/ν
+
+Re = reynolds number (non-dimensional)
+ρ = density of fluid (kg/m3)
+V = mean velocity (m/s)
+μ = absolute or dynamic viscosity (Ns/m2)
+d = hydraulic diameter (m)
+d (circular pipe) = 4 x cross sectional area / wetted perimeter
+ν = kinematic viscosity (m2/s)
+
+Pump Speed (ω)
+
+ω = 2πN/60
+
+ω = pump speed (rad/sec)
+N = speed (rpm)
+
+
+Hydraulic Power (Pu)
+
+Pu = (ρgQH)/1000
+
+Pu = hydraulic power (kW)
+ρ = density (kg/m³)
+g = gravitational constant = 9.81 (m/s²) 
+Q = volumetric flow rate (m3/s)
+H = total head rise across the pump (m)
+
+Pump Input Power (Pp)
+
+Pp = ρgQH/ηp
+
+Pp = pump input power (kW)
+ρ = density (kg/m³)
+g = gravitational constant = 9.81 (m/s²) 
+Q = volumetric flow rate (m3/s)
+H = total head rise across the pump (m)
+ηp = pump efficiency (decimal)
+
+Motor Input Power (Pgr)
+
+Pgr = ρgQH/ηpηm
+
+Pgr = motor input power (kW)
+ρ = density (kg/m³)
+g = gravitational constant = 9.81 (m/s²) 
+Q = volumetric flow rate (m3/s)
+H = total head rise across the pump (m)
+ηp = pump efficiency (decimal)
+ηm = motor efficiency (decimal)
+
+System Efficiency (ηsys)
+
+ηsys = Hs/(Hs+Hd)
+
+ηsys = system efficiency (decimal)
+Hd =dynamic head (m)
+Hs =static head (m)
+
+ 
+Specific Speed (nω)
+
+nω = (ω Qbep)/(gH bep)0.75
+
+nω = specific speed (non-dimensional)
+ω = pump speed (rad/sec)
+Qbep = flowrate at best efficiency point (m3/s)
+H bep = head rise at best efficiency point (m)
+g = gravitational constant = 9.81 (m/s²)
+
+Head Loss in Pipes(ΔH)
+
+The D’Arcy formula: -
+
+ΔH = 4fLV2/2dg		(European SI Based)
+
+ΔH = fLV2/2dg		(USA Imperial Based)
+
+ΔH = head loss (m)
+f = friction factor (non-dimensional)
+L = length of pipe (m)
+V = mean flow velocity (m/s)
+d = hydraulic diameter (m)
+d (circular pipe) = 4 x cross sectional area / wetted perimeter
+ (The wetted perimeter is the perimeter of the cross sectional area that is "wet", i.e in contact with the pipe)
+g = gravitational constant = 9.81 (m/s²)
+
+Head Loss In Fittings(ΔH)
+
+ΔH = K (V2/2g) = KHv
+
+ΔH = head loss (m)
+K = fitting loss coefficient (non-dimensional)
+V = mean velocity upstream of the fitting (m/s)
+g = gravitational constant = 9.81 (m/s²)
+Hv = velocity head (m)
+
+ 
+Friction Factor (f) – Laminar Flow
+
+Poiseuille’s formula: -
+
+f = 16/Re		(Re<2100)
+
+f = friction factor (non-dimensional)
+Re = reynolds number (non-dimensional)
+
+
+Friction Factor (f) – Turbulent Flow
+
+Colebrooke & White formula for turbulent flow: -
+
+1/ f = -4log10((k/3.7d)+(1.255/Re f))	(Re>3000)
+
+f = friction factor (non-dimensional)
+k = the average height of the roughness projections (m)
+d = hydraulic diameter (m)
+d (circular pipe) = 4 x cross sectional area / wetted perimeter
+ (The wetted perimeter is the perimeter of the cross sectional area that is "wet", i.e in contact with the pipe)
+Re = reynolds number (non-dimensional)
+
+Friction Factor (f) – Smooth Pipe Turbulent Flow
+
+Blasius’s formula for smooth pipe turbulent flow: -
+
+f = 0.079/Re0.25
+
+f = friction factor (non-dimensional)
+Re = reynolds number (non-dimensional)
+
+Friction Factor (f) – Turbulent Flow
+
+f = 0.0625 / (log10 (k/3.7d) + (5.74/Re0.9)) 2
+
+f = friction factor (non-dimensional)
+k = the average height of the roughness projections (m)
+d = hydraulic diameter (m)
+d (circular pipe) = 4 x cross sectional area / wetted perimeter
+ (The wetted perimeter is the perimeter of the cross sectional area that is "wet", i.e in contact with the pipe)
+Re = reynolds number (non-dimensional)
+
+ 
+Hazen & Williams Head Loss (ΔH) Formula for Water
+
+Hazen & Williams formula for water: -
+
+ΔH = 1214.6L (100/Chw) 1.852 (Q1.852/d1.852)
+
+ΔH = straight pipe pressure loss (m)
+L = Pipe length (m)
+Chw = Hazen & Williams friction factor (non-dimensional)
+Q = volumetric flowrate (l/min)*
+d = pipe bore (mm)*
+* Only for use these units in the Hazen & Williams formula
+
+Net Positive Suction Head Available (NPSHA)
+
+NPSHA = (PS – PV/ρg) – hs - hs loss
+
+NPSHA = net positive suction head available (m)
+PS = static suction pressure (N/m2)
+PV = vapour pressure of the pumped fluid at the operating temperature (N/m2)
+ρ = density of liquid (kg/m³)
+g = gravitational constant = 9.81m/s²
+hs = suction lift (m)
+hs loss = suction head loss (m)
+
+Maximum Suction Lift (hs)
+
+hs = (PS – PV/ρg)-hs loss – (NPSHR + Margin)
+
+hs = suction lift (m)
+PS = static suction pressure (N/m2)
+PV = vapour pressure of the pumped fluid at the operating temperature (N/m2)
+ρ = density of liquid (kg/m³)
+g = gravitational constant = 9.81m/s²
+hs loss = suction head loss (m)
+NPSHR = net positive suction head required (m)
+
+Suction Specific Speed (Sω)
+
+Sω = (ω Qbep) / (gNPSHR bep) 0.75
+
+Sω = suction specific speed (non-dimensional)
+ω = pump speed (rad/sec)
+Qbep = flowrate at best efficiency point (m3/s)
+NPSHR bep = net positive suction head required at best efficiency point (m)
+g = gravitational constant = 9.81 (m/s²)
+Annual Cost of Pumping
+
+Annual Cost (£) = Pgrntr/100
+
+Pgr = electrical power consumed (kW)
+n = hours run per year (hrs) 
+tr = tariff rate (p/kWh)
+
+Annual Cost (£) = ρgQHntr/ηpηm105
+
+ρ = density of fluid (kg/m³)
+g = gravitational constant = 9.81 (m/s²) 
+Q = volumetric flow rate (m3/s)
+H = head developed by the pump (m)
+n = hours run per year (hrs) 
+tr = tariff rate (p/kWh)
+ηp = pump efficiency (decimal)
+ηm = motor efficiency (decimal)
+
+ 
+Annual Savings from Refurbishment
+
+P = (ρgQH/1000) (1/η1 - 1/η2)
+
+P = electrical power consumed (kW)
+ρ = density of fluid (kg/m³)
+g = gravitational constant = 9.81 (m/s²) 
+Q = volumetric flow rate (m3/s)
+H = head developed by the pump (m)
+ηp = pump efficiency (decimal)
+ηm = motor efficiency (decimal)
+η1 = ηp1 x ηm1 = overall efficiency before refurbishment
+η2 = ηp2 x ηm2 = overall efficiency after refurbishment
+
+Annual Saving (£) = (ρgQHntr/105) (1/η1 - 1/η2)
+
+ρ = density of fluid (kg/m³)
+g = gravitational constant = 9.81 (m/s²) 
+Q = volumetric flow rate (m3/s)
+H = head developed by the pump (m)
+n = hours run per year (hrs) 
+tr = tariff rate (p/kWh)
+ηp = pump efficiency (decimal)
+ηm = motor efficiency (decimal)
+η1 = ηp1 x ηm1 = overall efficiency before refurbishment
+η2 = ηp2 x ηm2 = overall efficiency after refurbishment
+
+Annual Saving (£) = (Puntr/100) (1/η1 - 1/η2)
+
+Pu = hydraulic power (kW)
+n = hours run per year (hrs) 
+tr = tariff rate (p/kWh)
+ηp = pump efficiency (decimal)
+ηm = motor efficiency (decimal)
+η1 = ηp1 x ηm1 = overall efficiency before refurbishment
+η2 = ηp2 x ηm2 = overall efficiency after refurbishment
+
+ 
+Specific Power Consumption
+
+PS = ρ.g.HS/3600.ηgr
+
+PS = specific power consumption (kWh/Ml)
+ρ = density of fluid (kg/m³)
+g = gravitational constant = 9.81 (m/s²) 
+HS = static head (m)
+ηgr = overall pump efficiency
+
+
+Pump Affinity Laws
+
+Flow is directly proportional to impeller diameter and pump speed: -
+
+Q2 = Q1 (N2D2/N1D1)
+
+Q1 = old volumetric flowrate (m3/s)
+N1 = old pump speed (rpm)
+D1 = old impeller diameter (m)
+Q2 = new volumetric flowrate (m3/s)
+N2 = new pump speed (rpm)
+D2 = new impeller diameter (m)
+
+Head is proportional to the square of impeller diameter and pump speed: -
+
+H2 = H1 (N2D2/N1D1)2
+
+H1 = old head (m)
+N1 = old pump speed (rpm)
+D1 = old impeller diameter (m)
+H2 = new head (m)
+N2 = new pump speed (rpm)
+D2 = new impeller diameter (m)
+
+Power is proportional to the cube of impeller diameter and pump speed: -
+
+P2 = P1 (N2D2/N1D1)3
+
+P1 = old power (kW)
+N1 = old pump speed (rpm)
+D1 = old impeller diameter (m)
+P2 = new power (kW)
+N2 = new pump speed (rpm)
+D2 = new impeller diameter (m)
+ 
+ 
+Appendix 2. Definition of Symbols
+ 
+
+
+Symbol	Definition	=Value (Units)
+A	flow area	(m2)
+C	Hazen & Williams friction factor	-
+d	internal diameter	(m)
+D	impeller outside diameter	(m)
+f	friction factor	-
+g	gravitational constant	= 9.81 (m/s²)
+H	head	(m)
+Hbep	best efficiency head rise	(m)
+Hd	dynamic head	(m)
+hloss	suction head loss 	(m)
+Hs	static head	(m)
+hS	suction lift	(m)
+Hv	velocity head	(m)
+K	fitting loss coefficient	-
+k	average height of surface projections	(m)
+Margin	required difference between NPSHA & NPSHR	(m)
+N	speed	(rpm)
+n	number of hour operation per year	-
+NPSHA	net positive suction head available	(m)
+NPSHR	net positive suction head required	(m)
+NPSHRbep	net positive suction head required at best efficiency flow	(m)
+nω	specific speed	-
+P	pressure	(N/m2)
+Pgr	motor input power	(kW)
+Pp	pump input power	(kW)
+PS	static pressure at suction end	(N/m2)
+PS	specific power consumption	(kWh/Ml)
+Pu	hydraulic power	(kW)
+PV	vapour pressure	(N/m2)
+Q	volumetric flowrate	(m³/s)
+Qbep	best efficiency flowrate	(m³/s)
+Re	Reynolds Number	-
+Sω	suction specific speed	-
+tr	tariff rate	(p/kWh)
+V	mean velocity	(m/s)
+ΔH	head loss	(m)
+η1	overall efficiency before refurbishment	decimal
+η2	overall efficiency after refurbishment	decimal
+ηgr	overall pump efficiency	decimal
+ηm	motor efficiency	(decimal)
+ηp	pump efficiency	(decimal)
+ηs	system efficiency	(decimal)
+μ	absolute viscosity	(Ns/m2)
+ν	kinematic viscosity	(m2/s)
+ρ	density	(kg/m³)
+ω	speed	(rads/s)
+
+
+BS 5316-1:1976, ISO 2548:1973 - Specification for ...
+
+
+shop.bsigroup.com/ProductDetail/?pid=000000000000046820
+
+Purchase your copy of BS 5316-1:1976, ISO 2548:1973 as a PDF download or hard ... BS EN ISO 9906 ... measurement), Performance testing, Water pumps ...
+.
+
+[DOC]
+Energy Efficiency in Pumping in the context of Wessex ...
+
+
+www.claverton-energy.com/download/309 · Web view
+
+... (ISO 2548) Testing Rotodynamic Pumps. BS 5316 ... pumps BS5316 Part 1 = ISO 2548 Rotodynamic pumps BS5316 ... Energy Efficiency in Pumping in the context ...
+.
+
+[PDF]
+Rotodynamic pumps Hydraulic performance acceptance …
+
+
+down.40777.cn/stardard/17/BS EN ISO 9906-2000 Rotodynamic...
+
+BRITISH STANDARD BS EN ISO 9906:2000 Incorporating Corrigenda Nos. 1 and 2 Rotodynamic pumps Hydraulic performance acceptance tests
+.
+
+BS 5316-1-1976 specification for acceptance tests for ...
+
+
+www.freestd.us/soft1/553809.htm
+
+... for acceptance tests for centrifugal, mixed ... 1-1976 specification for acceptance tests for ... BS EN ISO 17637-2011 non-destructive testing of ...
+.
+
+BS EN ISO 9906: 2000 Rotodynamic pumps - Hydraulic ...
+
+
+www.twirpx.com/file/1296817
+
+BS EN ISO 9906: 2000 Rotodynamic pumps - Hydraulic Performance Acceptance Tests - Grades 1 and 2 PDF
+.
+
+[PDF]
+VOLUME: TECHNICAL SPECIFICATION SECTION: …
+
+
+bhelpem.com/Documents/VendorSection/TechnicalSpec/M13.pdf
+
+VOLUME: TECHNICAL SPECIFICATION SECTION: HORIZONTAL CENTRIFUGAL PUMPS REV. ... BS 5316/1976 Part 1 ... completion of performance test, all pumps …
+.
+
+Index [www.bhelhyderabad.com]
+
+
+www.bhelhyderabad.com/pumpstest.html
+
+facility for testing of booster pumps upto 1500m3 / hr flow and 25 bar discahrge pressure. ... 5316 part - 1 (also iso -2548) bs ...
+.
+
+Download Iso 9906 | Download s
+
+
+n5n.org/search/download-iso-9906
+
+... Part 1: Reference ... Iso 9906 pdf free download Iso 9906 Rotodynamic pumps ... 2 and 3 Pump Testing Requirement. BS 5316-1:1976, ISO 2548:1973 ...
+
+
+BS EN ISO 5198-1999 Centrifugal, mixed flow and axial ...
+
+
+www.freestd.us/soft/39417.htm
+
+... Code for hydraulic performance tests - Precision class ... Rotary pumps, Pumps, Fluid equipment, Performance testing, ... 1438-1; ISO 2186; ISO 2548; ISO 2975-1; ...
+.
+
+[PDF]
+ENGINEERING AND PROJECTS (MATERIALS) BHARAT …
+
+
+www.bharatpetroleum.com/.../UplodedFiles/T000004483_FileName_pumps.pdf
+
+... Acceptance Tes t for Centrifugal mixed flow and axial Pumps. '5316, Part -2 &ODVVµ %¶W HVWV 2.01.07 ISO 2548/BS ... rated RPM of the pump. Test pr ...
+.
+
+BS-5316-1-1976 ISO-2548-1973 - 道客巴巴
+
+
+www.doc88.com/p-396948433039.htmlTranslate this page
+
+内容提示： BS-5316-1-1976 ISO-2548-1973 国际 ... pumps —Part 1: ... Y Check listAppendix Z Pump test sheetFigure 1 — Test of a centrifugal ...
+.
+
+[PDF]
+QCS Section 9 Part 2 Submersible Pumps Page 1 2 ...
+
+
+www.webdeyerim.com/abozturk/main.php?g2_view=core.DownloadItem&g2...
+
+QCS Section 9 Part 2 Submersible Pumps Page 1 2. SUBMERSIBLE PUMPS ... BS 5316, (ISO 2548) ... QCS Section 9 Part 2 Submersible Pumps Page 3 (v) ...
+.
+
+[PDF]
+CORRIGE NDUN NO.3 DATE :14.12 - Bharat Petroleum
+
+
+bharatpetroleum.com/Admin/TenderRooms/UplodedFiles/T000003965...
+
+... for rotodynamic special purpose pumps. ... mixed flow and axial Pumps. '5316, Part-2 Class ‘B’ tests. 2.01.07 ISO 2548/BS- -do- Class ‘C’ test ...
+.
+
+[PDF]
+QCS Section 9 Part 3 Centrifugal Pumps Page 1 3 ...
+
+
+www.webdeyerim.com/abozturk/main.php?g2_view=core.DownloadItem&g2...
+
+BS 5316, (ISO 2548) Acceptance tests ... pumps Part 1 Class C tests BS 5512, (ISO 281) ... testing in the manuals 3.2 PRODUCTS 3.2.1 General
+.
+
+Category: Pumps - British Standards
+
+
+standardsdevelopment.bsigroup.com/Home/Category/cat_23.080?type=m&...
+
+... Method of test: Accepted: BS EN /TC 137 N 847 Workplace exposure ... Safety requirements Part 2: Vacuum pump: Idea: BS EN 12013 Plastics and rubber …
+.
+
+Standards New Zealand :: Automatic fire sprinkler systems
+
+
+shop.standards.co.nz/catalog/4541%3A2003(NZS)/view
+
+... Low temperature bend test; BS 5514-1:1987 ... BS 5316-1:1976 Acceptance tests for centrifugal mixed flow and axial pumps - Part 1 Class C tests (ISO 2548 ...
+.
+
+[PDF]
+Loss Prevention Standard - Еврокодовете
+
+
+sivrieva-zlatarova.com/informatzia/redbooks/LPSb/LPS1131-1.1.pdf
+
+Any party wishing to use or reproduce this Loss Prevention Standard to offer testing, ... 1.1 Loss Prevention Standard . ... BS 5316 : Part 1 : 1976 (ISO 2548). A ...
+.
+
+[PDF]
+Loss Prevention Standard - RedBook Live
+
+
+www.redbooklive.com/download/pdf/LPS1131.pdf
+
+party wishing to use or reproduce this Loss Prevention Standard to offer testing, ... Issue 1.2 LOSS PREVENTION STANDARD ... BS 5316 : Part 1 : 1976 (ISO 2548). A ...
+.
+
+BS-5316-2-1977 ISO-3555-1977 - 道客巴巴
+
+
+www.doc88.com/p-864119937634.htmlTranslate this page
+
+... Uncontrolled Copy, (c) BSI BS 5316-2:1977 This British Standard, ... as “pumps”.2) ISO 2548 ... testing purposes and taken as forming part of ...
+.
+
+Boiler Water Circulation Pumps - SlideShare
+
+
+www.slideshare.net/GerardBHawkins/boiler-water-circulation-pumps
+
+Oct 16, 2013 · Boiler Water Circulation Pumps 1 SCOPE 2 CHOICE OF TYPE ... given in BS 5316 Class C (ISO 2548) ... specimens in accordance with BS 2634 Part 1 ...
+.
+
+Поиск по сайту - Twirpx.com
+
+
+www.twirpx.com/about/search/?text=BS&page=1
+
+BS EN ISO 9906: 2000 Rotodynamic pumps Hydraulic Performance Acceptance Tests Grades 1 and 2 PDF. This International Standard combines and replaces the former ...
+.
+
+Applicable codes and standards in Industies
+
+
+www.slideshare.net/EbrahimKhayer/applicable-codes-and-standards-in...
+
+Sep 23, 2014 · ... Acceptance Tests ISO 2548 ... ISO 9906 Rotodynamic pumps ... Standards BS 476 Part 7 Method of Test to Determine the ...
+
+
+Applicable codes and standards in Industies
+
+
+www.slideshare.net/EbrahimKhayer/applicable-codes-and-standards-in...
+
+Sep 23, 2014 · ... Acceptance Tests ISO 2548 ... ISO 9906 Rotodynamic pumps ... Standards BS 476 Part 7 Method of Test to Determine the ...
+.
+
+Read GS134-4 - CENTRIFUGAL PUMPS TO API 610
+
+
+www.readbag.com/igs-nigc-ir-igs-bp-gs134-4
+
+The requirements for head rise should consider the impact of allowable tolerances during pump testing. 2.1 ... ISO 2548 (identical to BS 5316 Pt. 1) ... pumps. Part 1
+.
+
+Sell: BSI Standards page 56 In the Cheapest | ASTM,ISO,IEC ...
+
+
+www.standard-for-self.blog.com/2009/07/30/sell-bsi-standards-page...
+
+BS 3544:1962 BS 3544:1962. Methods of test for polyvinyl acetate adhesives for wood ... Part 5:1980, ISO 3385-1975 BS 4443:Part 5:1980, ISO 3385-1975.
+.
+
+ASTM,ISO,IEC, BSI, DIN,EN,VDE,JIS,SAE,NFPA,IEEE,QT ...
+
+
+standard-for-self.blog.com/page/20
+
+... DIN,EN,VDE,JIS,SAE,NFPA,IEEE,QT Standard In PDF For Selling. ... ISO 2548:1973 BS 5316-1 ... Part 2:1967 BS 1673:Part 2:1967. Methods of test for raw rubber and ...
+.
+
+Find standards In PDF:: Cheapest & Latest BSI Standard ...
+
+
+find-standards.blogspot.co.uk/2009/09/cheapest-latest-bsi-standard...
+
+... (dynamic strain test) BS 903:Part A47:1982, ISO 6133 ... BS 5316-1:1976, ISO 2548:1973 ... mixed flow and axial pumps. Class C tests BS 5316-2:1977, ISO 3555 ...
+.
+
+Acceptance Test tolerance : 네이버 블로그
+
+
+blog.naver.com/PostView.nhn?blogId=flashjeong&...Translate this page
+
+Dec 17, 2008 · Acceptance Test tolerance ... BS 5316 Part 1 ... * In BS and ISO 2548/ 3555, ...
+.
+
+BSENISO99062000文献.pdf 全文 文档投稿网
+
+
+max.book118.com/html/2015/0107/11178554.shtm · Translate this page
+
+... y p o C d Rotodynamic pumps ― e l l o r t ... BS 5316-1:1976 and BS 5316-2:1977 ... International Standards ISO 2548 and/or ISO 3555 ...
+.
+
+NORMSERVIS s.r.o. - Neue Normen BS
+
+
+https://www.mystandards.biz/rss/bs.rss
+
+BS ISO 12653-1 BS ISO 12653-2 BS ISO 14620-2 ... ISO/IEC Directives Part 1 BIP 0008-1 ... Test equipment, Testing conditions, Chemical analysis and testing, ...
+.
+
+GS134-4 - Scribd
+
+
+https://www.scribd.com/doc/150542636/GS134-4
+
+2.1) GS134-4 CENTRIFUGAL PUMPS TO API 610 PAGE 11 .No casting shall contain a weight of ... ISO 2548 (identical to BS 5316 Pt. ... ISO 1940 (BS 6861 Pt. Part 1 : ...
+.
+
+Скачать текст ISO 2548:1973 (465 Кб) Насосы центр
+
+
+rossert.narod.ru/alldoc/info/2z46/g33167.htmlTranslate this page
+
+bs 5316 part 1 -1976, eqv*nbn e 44 ... neq*nf x10-601-1974, eqv*sfs 4448 iso 2548 ... flow performance power pumps symbols test equipment testing testing conditions ...
+.
+
+ISSUU - BPMA Directory & Buyers Guide 2012/13 by Michael …
+
+
+issuu.com/thinroad/docs/bpma_2012-13
+
+BPMA Directory & Buyers Guide 2012/13. The official publication of the British Pump Industry Association (BPMA), containing UK pump market data, and details of the ...
+.
+
+气体贮罐-BS EN 1473-1997 Installation and equipment for ...
+
+
+www.docin.com/p-23616408.htmlTranslate this page
+
+... BRITISH STANDARD BS ... EN 571-1 Non-destructive testing Ð Penetrant testing Ð Part 1: ... ISO 9906 Rotodynamic pumps Ð Code for hydraulic ...
+.
+
+BS EN 1473-1997 INSTALLATION AND EQUIPMENT FOR …
+
+
+www.docin.com/p-413645420.htmlTranslate this page
+
+... BRITISH STANDARD BS ... EN 571-1 Non-destructive testing Ð Penetrant testing Ð Part 1: ... ISO 9906 Rotodynamic pumps Ð Code for hydraulic ...
+.
+
+ISSUU - Bpma Directory & Buyers Guide 2013/14 by Michael …
+
+
+issuu.com/thinroad/docs/bpma_2013_for_issuu
+
+Bpma Directory & Buyers Guide 2013/14. adrian.orozco.jimenez.acosta.gamez. Be the first ... The official Directory & Buyers Guide for the British Pump Industry Association ...
+
+
+Standard Description of IS codes - Civil Engineer
+
+
+civilengineer.co.in/indian-standard-codes/standard-description...
+
+Standard Description of All Indian Standard Codes with their years of releases. Bureau of Indian Standards : Code of Practices :
+.
+
+[DOC]
+www.sfs.fi
+
+
+www.sfs.fi/files/6128/Vuoden_2005_alun_jalkeen_kumotut_SFS.doc · Web view
+
+... ISO/IEC 27001:fi. BS 7850: ... Part 1: Test methods for characterisation of WPC materials and products. Ryhmät: ... Rotodynamic pumps ...
+.
+
+mega coletanea normas handbooks - Normas e Handbooks
+
+
+www.nbrnormas.com/normas-coletanea-normas-tecnicas...Translate this page
+
+... Part 1- Cylindrical Gears Tangential Measurements- ... -Centrifugal pumps for petroleum heavy duty chemical and gas industries services.PDF ... NBR NM-ISO 3310-1 ...
+.
+
+[XLS]
+www.asro.ro
+
+
+www.asro.ro/romana/standard/2013/Propunere%20PSN... · Web view
+
+... Part 1: General test method (ISO ... Minimum required efficiency of rotodynamic water pumps prEN ISO ... prEN ISO 13137 Workplace atmospheres - Pumps for ...
+.
+
+ABNT Normas Técnicas Asme Abnt Astm Awwa Aws Agma …
+
+
+https://www.scribd.com/doc/105423750/ABNT-Normas-Tecnicas-Asme...
+
+ABNT Normas Técnicas Asme Abnt Astm Awwa Aws Agma ... Test s for Weldments-Arc-Part-1-2004.pdf BS EN ... pumps.Part 1 Steels.pdf .pdf BS EN ISO ...
+.
+
+[XLS]
+z3950.ksu.ru
+
+
+z3950.ksu.ru/ebook_el.xls · Web view
+
+Human Hypothalamus: Basic and Clinical Aspects, Part 1 D. F. Swaab 9780444514905 Human Hypothalamus: ... Acute Toxicology Testing Shayne Gad/Christopher Chengelis
+.
+
+[XLS]
+download.clib.psu.ac.th
+
+
+download.clib.psu.ac.th/datawebclib/pr/ebooks_list.xls · Web view
+
+WarDriving and Wireless Penetration Testing 978-1-59749 ... Human Hypothalamus: Basic and Clinical Aspects, Part 1 ... The Manager's Handbook for ISO 14001 ...
+
+
+BS EN 1473-1997 INSTALLATION AND EQUIPMENT FOR …
+
+
+www.docin.com/p-413645420.htmlTranslate this page
+
+... BRITISH STANDARD BS ... EN 571-1 Non-destructive testing Ð Penetrant testing Ð Part 1: ... ISO 9906 Rotodynamic pumps Ð Code for hydraulic ...
+.
+
+ISSUU - Bpma Directory & Buyers Guide 2013/14 by Michael …
+
+
+issuu.com/thinroad/docs/bpma_2013_for_issuu
+
+Bpma Directory & Buyers Guide 2013/14. Michael Lane Follow publisher. Be the first ... The official Directory & Buyers Guide for the British Pump Industry Association ...
+.
+
+Popular pdfs in Japan on 15-04-2010 - PDFQueen
+
+
+www.pdfqueen.com/country/Japan/15-04-2010.html
+
+the nokia flexi base station family for 2g and ... international standard iso 2548; ... australian naplan test papers for year 3; mcom part 1 exam time table 2010 ...
+.
+
+HANDBOOK OF FIRE AND EXPLOSION PROTECTION …
+
+
+www.docstoc.com/docs/149190124/HANDBOOK-OF-FIRE-AND-EXPLOSION...
+
+handbook of fire and explosion protection engineering principles for oil_ gas_ chemical_and related facilities by badreddine.biskri ...
+.
+
+ISO|国家标准数据库查询免费下载|中国标准信息网
+
+
+www.chinaios.com/BZ-shuju/standview-isotwo-ISO-950.htmlTranslate this page
+
+Rotodynamic pumps - Hydraulic ... Rapid-deformation (impact resistance) tests - Part 1: Falling-weight test, large-area indenter: UNI UNI EN ISO 6272-1-2013 : Camping ...
+
+http://www.bing.com/videos/search?q=los+alegres+del+barranco+corridos&FORM=VIRE9#view=detail&mid=643B484FE4CD4B4B8FB8643B484FE4CD4B4B8FB8.nationalgrid
+[XLS]
+download.clib.psu.ac.th
+
+
+download.clib.psu.ac.th/datawebclib/e_form/pulinet/ebooks_list... · Web view
+
+BS cell CGBF Chem Citadel clinicsyen ... Electrical Submersible Pumps Manual 978-1-85617-557-9 ... Basic and Clinical Aspects, Part 1 Handbook of Clinical Neurology D ...
+.
+
+[XLS]
+web.karaelmas.edu.tr
+
+
+web.karaelmas.edu.tr/kutuphane/files/2011/12/Elsevier-Ebooks-Full... · Web view
+
+Agricultural and Biological Sciences 2007 ... Handbook of Pumps and Pumping ... Part I Studies in Computational Mathematics
+.
+
+clasp.ngo
+
+
+clasp.ngo/en/Tools/Tools/SL_Search/SL_SearchResults?excel=1
+
+... (ISO 13256-1). Note that water loop heat pumps are not exempt and these are covered by AS/NZS 3823.1.3. ... AS/NZS 4864.1 Part 1: Test methods—Energy performance
+.
+
+Institution:Mopani District Office
+
+
+www.ldrt.gov.za/wp-content/uploads/2013/10/ldrtportal2013local15.sql
+
+... (3, 15, '525be6bc4f721.pdf', 0, 0, 'app-2010-2013--part-1 ... 40, '525d03874093e.pdf', 0, 0, 'launch-of-the-computerized-learneraas-license-testing ...
+.
+
+[XLS]
+Anexa6_1.xls - ASRO versiunea in limba romana
+
+
+www.asro.ro/romana/standard/standarde2007/Anexa6_1.xls · Web view
+
+Fire hazard testing -- Part 1-30: ... Amendment 1 (ISO 14557:2002/FDAM 1:2007) ... Fire-fighting centrifugal pumps with primer - Part 1: ...
+.
+
+Handbook of Mechanical Works Inspection - Course Hero
+
+
+www.coursehero.com › Institut Teknologi Bandung
+
+Handbook of mechanical works inspection Home. Institut Teknologi Bandung. ME. ME ME78212. Handbook of Mechanical Works Inspection Download Document. Showing pages : 1 ...
+.
+
+Full text of "University Program Management Information ...
+
+
+www.archive.org/stream/nasa_techdoc_20010046481/20010046481_djvu.txt
+
+Radio Programs Spirituality & Religion Music for the Mountain Liquid Frequency Test. Featured ... Full text of "University Program Management Information System"
+.
+
+SON BIR YILDA ADAPTE EDILEN STANDARDLAR - Docstoc.com
+
+
+www.docstoc.com/docs/95116400
+
+SON BIR YILDA ADAPTE EDILEN STANDARDLAR.pdf Download legal documents . Browse . Documents; Certified docstoc; Customizable; Packages; User generated. …
+.
+
+[DOC]
+TT
+
+
+uphcm.edu.vn/uploads/thuvien/EBOOKS-HINARI.doc · Web view
+
+cỘng hÒa xÃ hỘi chỦ nghĨa viỆt nam khoa dƯỢc ...
+.
+
+Patent US8748420 - Pyridinylcarboxylic acid derivatives as ...
+
+
+www.google.com.ar/patents/US8748420
+
+Patent US8748420 - Pyridinylcarboxylic acid derivatives as ...
+.
+
+Full text of "Statistical Register of the Colony of ...
+
+
+archive.org/stream/statisticalregi02offigoog/statisticalregi02...
+
+Radio Programs Spirituality & Religion Music for the Mountain Liquid Frequency Test. Featured
+.
+
+www.stdbook.org
+
+
+www.stdbook.org/bdown.asp?Cls=2414&FFID=6Translate this page
+
+BS ISO 500-1-2014: 农用拖拉机. 1 ... Reciprocating positive displacement pumps and centrifugal pumps - Test methods: 正常: IX-ISO 24631-6 ... Part 1: Test ...
+.
+
+[XLS]
+XLS … Doc Viewer – Biblioteka Główna UMCS
+
+
+www.bg.umcs.lublin.pl/nowa/docs/eBooks.xls · Web view
+
+Agricultural and Biological Sciences Biochemistry, ... Part A 978-1-55938-835-1 ... The Manager's Handbook for ISO 14001 and Pollution Prevention
+.
+
+[XLS]
+Agriculture, Forestry, Fishing and Food
+
+
+www.standards.org.au/StandardsDevelopment/Developing_Standards/... · Web view
+
+... Element 3.1.1: Flexible Work Practices - Regular Part-time Employment ... Rotodynamic pumps ... Vickers hardness test - Test methods (ISO 6507-1:1997- MOD)
+.
+Some results have been removed.
+
+
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+<copyright
+[XLS]
+Agriculture, Forestry, Fishing and Food
+
+
+www.standards.org.au/StandardsDevelopment/Developing_Standards/... · Web view
+
+... Element 3.1.1: Flexible Work Practices - Regular Part-time Employment ... Rotodynamic pumps ... Vickers hardness test - Test methods (ISO 6507-1:1997- MOD)
+.
+
+標準関係情報集 中国国家標準(GB規格)番号順一覧 GB 03xxx
+
+
+www2u.biglobe.ne.jp/~standard/bdlist/gb/gb03.htmTranslate this page
+
+Ships and marine technology-Identification colours for the content of piping systems-Part 1: ... Part 3：Test of ... 1级和2级: Rotodynamic pumps ...
+.
+
+[XLS]
+www.uwotc.org
+
+
+www.uwotc.org/files/uwdscatalog.xls · Web view
+
+Document Wallet Purple Office Depot String Envelopes ... 1 Part 2 Glass Shlv 40x 24x 24 40 x 24 x 24 1/2 ... ISO conference table
+.
+
+Items where Faculty is "Faculty of Science, Engineering ...
+
+
+eprints.kingston.ac.uk/view/divisions/fsec.html
+
+... (2012) Geometry-invariant GRIN lens: iso ... , pp. 5303-5316 ... Structural Biology and Crystallization Communications, 61(Part 1 ...
+.
+
+[DOC]
+Doc No
+
+
+www.defstand.gov.in/search/index/Bis.doc · Web view
+
+Doc No
+.
+
+List of BIS Indian IS Standards codes - [BIS IS] Codes ...
+
+
+boxue58.com/thread-161415-1-1.htmlTranslate this page
+Last updated: Jun 10, 2015 · 
+2 posts · 
+First post: Jun 10, 2014
+
+... 1989 Handbook of Textile Testing – Part 1; ... 1979 Functional requirements for 680-1/min trailer pump ... IS 1403 Part 1;1993/ISO 7799;1985 Mechanical testing ...
+.
+
+How Do I Treat Toenail Fungus With Tea Tree Oil
+
+
+ufdc.ufl.edu/UF00028423/00058
+
+... in whole or in part, ... test pumps on an engine outside the station. ... 6,259.69 5,316.87 Taipei +46.88 +46.88 +13.52 +.23 +.23
+.
+
+dianzishu: 6480 Technical & Engineering Books Free Download
+
+
+dianzishu4y.blogspot.com/2011/08/6480-technical-engineering-books...
+
+Aug 20, 2011 · 6480 Technical & Engineering Books Free ... Concrete Technology 4 Testing Quality Advanced ... in Applied Sciences and Engineering Part 1.pdf
+.
+
+www.tkl.iis.u-tokyo.ac.jp
+
+
+www.tkl.iis.u-tokyo.ac.jp/~reddy/comm/L1.html
+
+Related Water National Service Forecast Office Seattle Sources Meteorological Data FAQ Part 1 2 ... Info Software Pumps ... international organizations ...
+.
+
+[XLS]
+knihovna.tul.cz
+
+
+knihovna.tul.cz/download/Elsevier1N08.xls · Web view
+
+knihovna.tul.cz
+.
+
+DeLand Weekly News - University of Florida
+
+
+ufdc.ufl.edu/UF00075897/00155
+
+DeLand Weekly News Portion of title: ... or any other part. 1%ith all area cooittlaete with the cheap labor of cedin g Ut) ... e dho r iso Iro.
+.
+
+[XLS]
+ewarga4.ukm.my
+
+
+ewarga4.ukm.my/ewarga/pdf/082007/13-29-1.xls · Web view
+
+... The Latest Innovations and Industrial Applications of Sealless Pumps. 978-0-88415-801-1 ... (Part D) 978-0-444-50606-1 ... BS Standard Handbook of ...
+.
+
+TTK TPA All India Hospital List
+
+
+https://id.scribd.com/doc/125073813/TTK-TPA-All-India-Hospital-List
+
+TTK TPA All India Hospital List by shreesigma in Types > Instruction manuals
+.
+
+www.itu.se
+
+
+www.itu.se/teknik/ports.txt
+
+... Port numbers ----- ///// Part 1: PROTOCOL NUMBERS In the Internet Protocol version 4 (IPv4 ... ISO-TP4 ISO Transport ... Easdaq Test ismaeasdaqtest ...
+
+(c)1981 adrian.orozco.jimenez.acosta.gamez>
+
