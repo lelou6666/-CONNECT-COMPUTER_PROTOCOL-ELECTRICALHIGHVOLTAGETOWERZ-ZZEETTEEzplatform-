@@ -1,0 +1,624 @@
+Click here to Skip to main content 
+
+
+× 
+Not quite what you are looking for? You may want to try:•A powerful function parser
+•Unmanaged Vista Power
+
+highlights off 
+
+
+
+
+11,623,925 members (64,315 online)
+
+
+
+  Sign in 
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+--------------------------------------------------------------------------------
+ 
+
+
+Home
+ 
+
+
+Click here to Skip to main content 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+home
+articlesChapters and Sections>
+loading 
+
+
+Search
+Latest Articles
+Latest Tips/Tricks
+Top Articles
+Beginner Articles
+Technical Blogs
+Posting/Update Guidelines
+Article Help Forum
+Article Competition
+ Submit an article or tip 
+ Post your Blog 
+
+
+quick answers  Ask a Question about this article
+ Ask a Question
+View Unanswered Questions
+View All Questions...
+Linux questions
+C# questions
+ASP.NET questions
+C#5 questions
+SQL questions
+
+
+discussions All Message Boards...
+Application Lifecycle>Running a Business
+Sales / Marketing
+Collaboration / Beta Testing
+Work Issues
+
+Design and Architecture
+ASP.NET
+JavaScript
+C / C++ / MFC>ATL / WTL / STL
+Managed C++/CLI
+
+C#
+Free Tools
+Objective-C and Swift
+Database
+Hardware & Devices>System Admin
+
+Hosting and Servers
+Java
+.NET Framework
+Android
+iOS
+Mobile
+Sharepoint
+Silverlight / WPF
+Visual Basic
+Web Development
+Site Bugs / Suggestions
+
+
+featuresCompetitions
+News
+The Insider Newsletter
+The Daily Build Newsletter
+Newsletter archive
+Surveys
+Product Showcase
+Research Library
+CodeProject Stuff
+
+
+community Who's Who
+Most Valuable Professionals
+The Lounge  
+The Insider News
+The Weird & The Wonderful
+The Soapbox
+Press Releases
+Non-English Language >General Indian Topics
+General Chinese Topics
+
+
+
+helpWhat is 'CodeProject'?
+General FAQ
+Ask a Question
+Bugs and Suggestions
+Article Help Forum
+Site Map
+Advertise with us
+Employment Opportunities
+About Us
+
+
+
+
+
+
+
+
+Articles » Languages » C# » General
+
+
+
+  
+
+    
+
+
+
+
+
+Article
+
+Browse Code
+
+Stats
+
+Revisions
+
+Alternatives
+
+Comments (8) 
+
+
+Tagged as
+
+.NET1.0
+
+.NET1.1
+
+C#
+
+Windows
+
+Visual-Studio
+
+Dev
+
+Intermediate
+   
+
+
+
+ 
+
+ 
+
+  
+
+Enums powered by Reflection
+
+
+
+XoseLluis,  25 Apr 2003  84.7K 827 25
+ 
+  
+
+ 
+
+ 
+     2.93 (14 votes)  
+
+
+
+
+
+5 votes, 35.7%
+  
+4 votes, 28.6%
+ 
+3 votes, 21.4%
+ 
+2 votes, 14.3%
+ 
+
+
+
+
+
+
+
+
+
+ loading...  
+Rate this:   
+vote 1vote 2vote 3vote 4vote 5
+   
+ 
+
+
+
+
+
+An article about building enums in runtime by means of System.Reflection.Emit
+	
+Download source files - 6 Kb 
+<!-- Article image --> 
+Sample Image - enumsReflection.jpg
+<!-- Add the rest of your HTML here --> 
+Introduction
+
+C# enums are a quite powerful element of the C# language. Because of its metadata stored in the assembly they provide us with much more info than their equivalent in C++. What´s more, using System.Reflection.Emit we can delay the creation of an enum till runtime. 
+
+Using the code
+
+In C# (as in C++) every instance of an enum type takes 4 bytes in memory (only the integer value associated to the string value is stored), you can use sizeof to verify this, so it´s a really storage efficient data structure. The great thing in C# is that for every enum class in our code the string values are stored in the assembly as metadata, so we can access to it in our code. We can use for it methods like Enum.GetNames(). Here´s a little sample: 
+
+Hide   Copy Code
+enum Language
+{
+    CSharp,MCpp,VBNet,JScript,IL
+}
+class App
+{
+    public static void Main()
+    {
+        Console.WriteLine("Write the number of the selected Language");
+        string[] langAr=Enum.GetNames(Type.GetType("Language"));
+        for(int i=0;i<langAr.Length;i++)
+        {
+            Console.WriteLine(i + "." + langAr[i]);
+        }
+        Language myLang=(Language)Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Your Language of choice is: " + myLang);
+    }
+}
+
+Another great thing about C# enums is that we can create an enum class in runtime, after the users have fed our program with data. In the following sample we want an enum with the months that our business offers to our employees to choose as holidays month. The problem is that we don´t know till runtime which months we are going to offer to our employees. System.Reflection.Emit comes in our help. First we fill a string with the source code for the new enum (Holidays), then we write it to disk and compile it. Finally we load the new assembly. Since that moment we can work with the new enum we´ve coded, and we can create instances of that new enum. One useful method we need to assign values to the instances of our new enum class is Enum.parse Here it´s how it works: 
+Hide   Copy Code
+Employee emp=new Employee();
+Console.WriteLine("Insert Employee data");
+Console.WriteLine("Name");
+emp.Name=Console.ReadLine();
+Console.WriteLine("HolidayMonth");
+string hm=Console.ReadLine();
+//Create an instance of our dynamic enum (Holidays)
+emp.HolidayMonth=(Enum)(a.CreateInstance("Holidays"));
+try
+{
+    //assign the right value to the enum instance
+    emp.HolidayMonth=(Enum)(Enum.Parse(emp.HolidayMonth.GetType(),hm));
+}
+
+For this sample I make use of a small, incomplete and untested Library (ReflectiveTools) that I´ve coded to make easier some of the most common reflection operations (saving dynamic code to disk and compiling it). This library is included in the zip file. Well, I think you have to download the source code to really understand the purpose of this article. 
+Conclusion
+
+I hope this article to be an example of how useful C# enums can be.
+
+I really can´t understand why languages like Java have excluded enums of the language. One last thing, some of the comments in the source code are written in Spanish, I´m sorry, but that´s my native language. Anyway I don´t think those comments are too important. 
+
+  
+
+History
+•04/04/2003: This article is submitted to CodeProject 
+
+
+
+
+License
+
+
+This article has no explicit license attached to it but may contain usage terms in the article text or the download files themselves. If in doubt please contact the author via the discussion board below.
+
+A list of licenses authors might use can be found here
+
+Share
+
+  email 
+  twitter 
+   
+   
+  
+   
+ 
+About the Author
+
+
+ 
+
+XoseLluis 
+ 
+Web Developer  
+ 
+Spain Spain  
+
+My name is Jose Luis Sampayo Aller, I´m from Xixón-Asturies-Spain.
+ I´ve got a degree in Computer Science by University of Oviedo.
+ I´ve been having fun with .Net since April 2002.
+ My main current interests are: .Net and Mono, OOP (mainly C# and C++), IA-32 assembler (hope someday I´ll learn it), OS Internals (mainly Nt family). Outside computer world I´m really interested in Neuroscience, Science in general, Science Fiction... 
+
+
+
+
+
+
+
+
+You may also be interested in...
+
+
+
+
+
+Radio Power
+ 
+
+
+
+The Power of Delegates in C#
+ 
+
+
+
+
+A powerful function parser
+ 
+
+
+
+Expanding active decision-making: The power of integrating business rules and events
+ 
+
+
+
+
+Unmanaged Vista Power
+ 
+
+
+
+Understanding the Need for a Single Code Base in Enterprise Mobile App Development
+ 
+
+Comments and Discussions
+ 
+  
+You must Sign In to use this message board. 
+
+
+
+
+Search Comments   
+. 
+ 
+
+Profile popups    SpacingRelaxedCompactTight   NoiseVery HighHighMediumLowVery Low   LayoutNormalOpen TopicsOpen AllThread View   Per page102550     
+ 
+ 
+ 
+  First Prev Next 
+ 
+ 
+ 
+  
+General can't read enum in other assembly using reflection
+ 
+member Do.It 5-Jul-07 21:50  
+ 
+
+
+
+ 
+
+I can't read an enum in other assembly using reflection.
+
+ as 
+ string[] str2Array = Enum.GetNames(Type.GetType("ZedEx.MyEnum"));
+
+ ther error message is:
+
+ Value cannot be null.
+ Parameter name: enumType
+
+ help please.
+
+
+ 
+Sign In·View Thread·Permalink  
+ 
+ 
+ 
+  
+Answer Re: can't read enum in other assembly using reflection
+ 
+member LazyTarget 15-May-13 7:37  
+ 
+
+
+
+ 
+
+
+
+Make sure the assembly is referenced.
+
+ You can also write:
+
+Hide   Copy Code
+string[] str2Array = Enum.GetNames(typeof(ZedEx.MyEnum));
+
+ 
+Sign In·View Thread·Permalink  
+ 
+ 
+ 
+  
+General Good article but I have a question
+ 
+member mrsnipey 11-Sep-06 0:12  
+ 
+
+
+
+ 
+
+What is 'a' referring to when you use it in the following code:
+
+ a.CreateInstance("Holidays")
+
+ I couldn't see 'a' defined anywhere and am curious as this is
+ exactly what I have been looking for. 
+ 
+Sign In·View Thread·Permalink 5.00/5 (2 votes) 
+ 
+ 
+ 
+  
+General Dynamic Enums without writing to file
+ 
+member nlgarvey 21-Jun-06 4:59  
+ 
+
+
+
+ 
+
+I am trying to find a workaround to some limitations in our system. Creating Enums on the fly seems to a possibility. However, I need to build these in memory only and cannot persist them to disk.
+
+ Is there a way to build these using Reflection.Emit TypeBuilder? 
+ 
+Sign In·View Thread·Permalink 1.00/5 (1 vote) 
+ 
+ 
+ 
+  
+General Item count
+ 
+member AlainT 21-Sep-05 4:33  
+ 
+
+
+
+ 
+
+I'd like to know How I can retrieve the number of items in a static enum. I know I can use Enum.GetValues(typeof(EColors)).Length but I'd prefer a faster way. Like Enum.GetCount(typeof(EColors)) which doesn't exist;
+
+ enum EColors {Red,Green,Blue};
+
+ I do not want to use sentinel like:
+ enum EColors {Red,Green,Blue,Sentinel=999};
+
+ Regards,
+
+ Alain 
+ 
+Sign In·View Thread·Permalink  
+ 
+ 
+ 
+  
+General simple to understand but example could be better
+ 
+member dog_spawn 26-Apr-03 12:51  
+ 
+
+
+
+ 
+
+This article shows a simple example of reflection which is a good thing. 
+
+ But I don't think it's a good idea to use reflection to convert user text input into an enum instance. It does not seem very efficient and is not very realistic - when would a user ever need to type in one of many choices? - surely a list box or radio buttons would be better.
+
+ Try to find a better example (I'll try to think of one also). 
+ 
+Sign In·View Thread·Permalink  
+ 
+ 
+ 
+  
+General Re: simple to understand but example could be better
+ 
+member Lennin 9-Nov-03 23:55  
+ 
+
+
+
+ 
+
+
+
+Actually I've used it for parsing some textfiles and XMLs I have. Definitely not for direct user input.WTF | :WTF: 
+ 
+Sign In·View Thread·Permalink 1.00/5 (1 vote) 
+ 
+ 
+ 
+  
+General Enums can be 1, 2, 4, or 8 bytes long
+ 
+member Wesner Moise 26-Apr-03 11:07  
+ 
+
+
+
+ 
+
+An enum is not limited to being 4 bytes in size.
+
+ Each enum has an underlying integral data type which could be a byte, int16, int32, or int64--either signed or unsigned.
+
+ To declare an enum to have an underlying data type different from an int.
+
+ use
+
+ enum Name : long (or byte, short, ...)
+ {
+ } 
+ 
+Sign In·View Thread·Permalink  
+ 
+ 
+ 
+   
+ 
+ 
+Last Visit: 31-Dec-99 18:00     Last Update: 24-Jul-15 9:26 Refresh 1 
+ 
+ 
+General General    News News    Suggestion Suggestion    Question Question    Bug Bug    Answer Answer    Joke Joke    Rant Rant    Admin Admin    
+ 
+
+
+Info
+
+ 
+First Posted  25 Apr 1981
+
+
+
+
+Go to top 
+ 
+
+
+
+
+Permalink | Advertise  | Privacy | Terms of Use | Mobile 
+ Web02 | 2.8.150723.1 | Last Updated 26 Apr 1981 
+
+
+Article Copyright 1981 by ADRIAN.OROZCO.JIMENEZ.ACOSTA.GAMEZ.
+ 
+
+Layout:  fluid 
+
+
+
+       
