@@ -1,0 +1,388 @@
+
+ Control Electrical Appliances using PC
+ 
+   
+
+Control electrical appliances using PC.
+
+Languages » javascript,C#
+
+VC6 .NET1.1 Win2K WinXP Win2003 VS.NET2003 VS6 C# Dev Intermediate , +  
+
+
+
+  Electric Organ
+
+
+
+
+Article 15 Oct 
+
+
+
+
+ 
+
+ 
+   
+
+This is a simple electric organ (piano) to teach how to synthesize sound with directsound.
+
+Multimedia » matrix
+» General
+
+.NET HTML Intermediate DirectSound VS2013   
+
+
+
+
+
+
+ 
+
+ 
+   
+
+The grid is a fully featured control for displaying tabular data. There are MFC and ATL versions that run on everything from CE to Windows 2000
+
+Platforms, Frameworks & Libraries » Libraries » Code Projects
+
+VC6 Visual-Studio MFC Dev Intermediate C++ Windows   
+
+
+
+
+
+
+ 
+
+ 
+   
+
+A fully featured MFC grid control for displaying tabular data. The grid is a custom control derived from CWnd
+
+Desktop Development » Miscellaneous » Grid Control
+
+VC6 VC7 VC7.1 VC8.0 MFC C++ Visual-Studio VC9.0 VS2010   
+
+
+
+A WTL grid 
+
+Platforms, Frameworks & Libraries » Wtl » General
+
+VC6 Win2K VS6 ATL WTL STL Dev Intermediate C++ Windows , +  
+
+
+
+
+
+
+ 
+
+ 
+   
+
+Build a grid using ATL, STL and Win32 API.
+
+Platforms, Frameworks & Libraries » Atl » Controls
+
+VC6 VS6 VB6 ATL STL Dev Intermediate C++ VB Windows , +  
+
+
+
+
+
+
+ 
+
+ 
+   
+
+An implementation of a grid in C#
+
+Desktop Development » Grid & Data Controls » Grid Controls
+
+.NET1.1 VS.NET2003 C# Windows Dev Intermediate .NET Visual-Studio   
+
+
+
+
+
+
+
+ 
+
+ 
+   marsrover01@twitter.com
+   
+
+How to work with tabular data using Kendo Grid in Mobile_Solar application
+
+Third Party Products » Third Party Products And Tools » General
+
+C# ASP.NET Javascript .NET HTML Dev Beginner C# .NET C#4.0 , +  
+
+
+
+ 
+
+A WTL Grid databases.
+
+Platforms, Frameworks & Libraries General
+
+VC6 VC7 VC7.1 VC8.0 Win2K WinXP VS.NET2003 ATL WTL Dev , +  
+
+
+
+ Electric Grid 
+
+
+
+
+
+
+
+
+ 
+
+ 
+   
+
+A grid control for displaying tabular data, based on Chris Maunder's grid control
+
+Platforms, Frameworks & Libraries » Atl » Controls
+
+VC6 VS6 VB6 MFC ATL Dev Advanced C++ VB Windows , + 
+
+ SolidWidgets Grid by Jake Franta  
+
+  
+
+
+
+Tip/Trick 17 Jul 2012   license: CPOL 
+
+
+
+
+ 
+
+ 
+   
+
+SolidWidgets Grid tutorial.
+
+Desktop Development » Grid & Data Controls » Grid Controls
+
+VC8.0 Win2K WinXP Win2003 Vista Win32 Dev Intermediate C++ Windows , +  
+
+
+
+ SolidWidgets Grid by Jake Franta  
+
+  
+
+
+
+Tip/Trick 23 Jul 2012   license: CPOL 
+
+
+
+The SolidWidgets UI framework includes a powerful Grid control that can be bound to a database table, and to cached memory.
+
+Desktop Development » Grid & Data Controls » Grid Controls
+
+C# .NET Dev Intermediate   
+
+
+
+ Resizing Data Grid Columns To Content by Tom Archer  
+
+  
+
+
+
+Article 17 Mar 2003   license: N/A 
+
+
+
+
+ 
+
+ 
+   
+
+Method that resizes all the columns of a specified Data Grid object
+
+Desktop Development » Miscellaneous » General
+
+.NET1.0 .NET1.1 VS.NET2003 C# Windows Dev Intermediate .NET Visual-Studio   
+
+
+
+ Knockout Grid - Extended by Sudheer Reddy K  
+
+
+
+
+
+Article 4 Mar 2015   license: CPOL 
+
+
+
+
+ 
+
+ 
+   
+
+The article shows how to use the simplegrid which is used in knockout examples to which i've added support to accept column template to interact with outside DOM bindings, and stylish and simple pager and also multi select option.
+
+Web Development » Applications & Tools » General
+
+C# Javascript HTML grid Knockout bootstrap KnockoutJS VS2013   
+
+
+
+ JScript Tree Grid Control by Jong-Ha Ahn  
+
+  
+
+
+
+Article 11 Jan 2004   license: N/A 
+
+
+
+
+ 
+
+ 
+   
+
+Tree Grid control for JScript.
+
+Web Development » Client Side Scripting » General
+
+Win2K WinXP Win2003 Javascript Dev JScript.NET Intermediate Windows   
+
+
+
+ The Ultimate Grid Cell Types by The Ultimate Toolbox  
+
+  
+
+
+
+Article 24 Aug 2007   license: CPOL 
+
+
+
+
+ 
+
+ 
+   
+
+An introduction to using built-in and custom cell types with the Ultimate Grid
+
+Platforms, Frameworks & Libraries » Mfc » The Ultimate Grid
+
+VC6 Win2K Win2003 Visual-Studio MFC Dev Intermediate C++ Windows   
+
+
+
+ Lazy Grid WTL implementation by Maxxx  
+
+  
+
+
+
+Article 28 Jan 2002   license: N/A 
+
+
+
+
+ 
+
+ 
+   
+
+Simplest grid implementation in WTL
+
+Platforms, Frameworks & Libraries » Wtl » General
+
+VC6 Win2K Visual-Studio WTL Dev Intermediate C++ Windows   
+
+
+
+ Advanced JQX Grid With All Functionality by Sibeesh KV  
+
+  
+
+
+
+Article 21 Oct 2014   license: CPOL 
+
+
+
+
+ 
+
+ 
+   
+
+Advanced JQX Grid With All Functionality
+
+Third Party Products » Third Party Products And Tools » General
+
+C# XML HTML XHTML JScript.NET Intermediate .NET Visual-Studio VS2010 C#3.5 , +  
+
+
+
+ Working With JQX Grid With Filtering And Sorting by Sibeesh KV  
+
+  
+
+
+
+Tip/Trick 16 Oct 2014   license: CPOL 
+
+
+
+
+ 
+
+ 
+   
+
+Working With JQX Grid With Filtering And Sorting
+
+Third Party Products » Third Party Products And Tools » General
+
+C# ASP.NET HTML Intermediate C# Visual-Studio C#4.0 VS2010 jQuery JQuery.js   
+
+
+
+ WPF Grid Row Iteration by Mr. Javaman  
+
+
+
+
+
+Article 19 Oct 2012   license: CPOL 
+
+
+
+
+ 
+
+ 
+   
+
+How to iterate a WPF Grid control's rows.
+
+Platforms, Frameworks & Libraries » Windows Presentation Foundation » Controls
+
+.NET3.5 WPF Design Intermediate

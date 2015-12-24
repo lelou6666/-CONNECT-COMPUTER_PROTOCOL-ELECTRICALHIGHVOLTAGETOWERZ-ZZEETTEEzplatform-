@@ -1,0 +1,174 @@
+{Code Search Cross Reference: usb.hxref: /CyanogenMod/android/external/bluetooth/bluedroid/hci/include/usb.h 
+HomeHistoryAnnotateLine#NavigateDownload  only in usb.h 
+1*
+18 ******************************************************************************/
+19
+20/******************************************************************************
+21 *
+22 *  Filename:      usb.h
+23 *
+24 *  Description:   Contains definitions used for usb serial port controls
+25 *
+26 ******************************************************************************/
+27
+28#ifndef USB_H
+29#define USB_H
+30
+31/******************************************************************************
+32**  Constants & Macros
+33******************************************************************************/
+34/*
+35 * Below are the interfaces to usb driver. At present, either USB is supported
+36 * or UART is supported.
+37 */
+38#define usb_init            userial_init
+39#define usb_open            userial_open
+40#define usb_write           userial_write
+41#define usb_read            userial_read
+42#define usb_close           userial_close
+43#define usb_ioctl           userial_ioctl
+44#define usb_ioctl_op_t      userial_ioctl_op_t
+45
+46#define BT_USB_DEVICE_INFO(cl, sc, pr) \
+47        .bDevClass = (cl), \
+48        .bDevSubClass = (sc), \
+49        .bDevProtocol = (pr)
+50
+51typedef enum {
+52   USERIAL_OP_INIT,
+53   USERIAL_OP_RXFLOW_ON,
+54   USERIAL_OP_RXFLOW_OFF,
+55} userial_ioctl_op_t;
+56
+57/******************************************************************************
+58**  Type definitions
+59******************************************************************************/
+60
+61struct bt_usb_device {
+62    uint8_t    bDevClass;
+63    uint8_t    bDevSubClass;
+64    uint8_t    bDevProtocol;
+65};
+66
+67/******************************************************************************
+68**  Functions
+69******************************************************************************/
+70
+71/*******************************************************************************
+72**
+73** Function        usb_init
+74**
+75** Description     Initializes the usb driver
+76**
+77** Returns         TRUE/FALSE
+78**
+79*******************************************************************************/
+80typedef uint8_t (*tUSERIAL_INIT)(void);
+81
+82/*******************************************************************************
+83**
+84** Function        usb_open
+85**
+86** Description     Open Bluetooth device with the port ID
+87**
+88** Returns         TRUE/FALSE
+89**
+90*******************************************************************************/
+91typedef uint8_t (*tUSERIAL_OPEN)(uint8_t port);
+92
+93/*******************************************************************************
+94**
+95** Function        usb_read
+96**
+97** Description     Read data from the usb port
+98**
+99** Returns         Number of bytes actually read from the usb port and
+100**                 copied into p_data.  This may be less than len.
+101**
+102*******************************************************************************/
+103typedef uint16_t (*tUSERIAL_READ)(uint16_t msg_id, uint8_t *p_buffer, uint16_t len);
+104
+105/*******************************************************************************
+106**
+107** Function        usb_write
+108**
+109** Description     Write data to the usb port
+110**
+111** Returns         Number of bytes actually written to the usb port. This
+112**                 may be less than len.
+113**
+114*******************************************************************************/
+115typedef uint16_t (*tUSERIAL_WRITE)(uint16_t msg_id, uint8_t *p_data, uint16_t len);
+116
+117/*******************************************************************************
+118**
+119** Function        usb_close
+120**
+121** Description     Close the usb port
+122**
+123** Returns         None
+124**
+125*******************************************************************************/
+126typedef void (*tUSERIAL_CLOSE)(void);
+127
+128/*******************************************************************************
+129**
+130** Function        usb_ioctl
+131**
+132** Description     ioctl inteface
+133**
+134** Returns         None
+135**
+136*******************************************************************************/
+137typedef void (*tUSERIAL_IOCTL)(userial_ioctl_op_t op, void *p_data);
+138
+139typedef struct {
+140    tUSERIAL_INIT init;
+141    tUSERIAL_OPEN open;
+142    tUSERIAL_READ read;
+143    tUSERIAL_WRITE write;
+144    tUSERIAL_CLOSE close;
+145    tUSERIAL_IOCTL ioctl;
+146} tUSERIAL_IF;
+147
+148#marsrover
+marsrover01@twitter.com
+ electra_cf.c 175 static struct pccard_operations electra_cf_ops = { variable in typeref:struct:pccard_operations 
+288 cf->socket.ops = &electra_cf_ops;
+ 
+/drivers/pcmcia/ 
+H A D electra_cf.c 176 static struct pccard_operations electra_cf_ops = { variable in typeref:struct:pccard_operations 
+288 cf->socket.ops = &electra_cf_ops;
+ 
+ 
+H A D electra_cf.c 176 static struct pccard_operations electra_cf_ops = { variable in typeref:struct:pccard_operations 
+289 cf->socket.ops = &electra_cf_ops;
+ 
+ 
+H A D electra_cf.c 178 static struct pccard_operations electra_cf_ops = { variable in typeref:struct:pccard_operations 
+292 cf->socket.ops = &electra_cf_ops;
+ 
+
+H A D electra_cf.c 175 static struct pccard_operations electra_cf_ops = { variable in typeref:struct:pccard_operations 
+288 cf->socket.ops = &electra_cf_ops;
+ 
+ 
+H A D electra_cf.c 175 static struct pccard_operations electra_cf_ops = { variable in typeref:struct:pccard_operations 
+288 cf->socket.ops = &electra_cf_ops;
+ 
+ 
+H A D electra_cf.c 174 static struct pccard_operations electra_cf_ops = { variable in typeref:struct:pccard_operations 
+287 cf->socket.ops = &electra_cf_ops;
+ mt623x/drivers/pcmcia/ 
+
+-H A D electra_cf.c 176 static struct pccard_operations electra_cf_ops = { variable in typeref:struct:pccard_operations 
+289 cf->socket.ops = &electra_cf_ops;
+ 
+/raspberrypi/linux/drivers/pcmcia/ 
+H A D electra_cf.c 176 static struct pccard_operations electra_cf_ops = { variable in typeref:struct:pccard_operations 
+288 cf->socket.ops = &electra_cf_ops;
+ 
+
+Completed in 2700 milliseconds
+
+
