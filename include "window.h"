@@ -1,0 +1,483 @@
+include "window.h" 
+
+42
+ 
+
+43
+#include <private/qguiapplication_p.h> 
+
+44
+ 
+
+45
+#include <QBackingStore> 
+
+46
+#include <QPainter> 
+
+47
+ 
+
+48
+static int colorIndexId = 0; 
+
+49
+ 
+
+50
+QColor colorTable[] = 
+
+51
+{ 
+
+52
+    QColor("#f09f8f"), 
+
+53
+    QColor("#a2bff2"), 
+
+54
+    QColor("#c0ef8f") 
+
+55
+}; 
+
+56
+ 
+
+57
+Window::Window(QScreen *screen) 
+
+58
+    : QWindow(screen) 
+
+59
+    , m_backgroundColorIndex(colorIndexId++) 
+
+60
+{ 
+
+61
+    initialize(); 
+
+62
+} 
+
+63
+ 
+
+64
+Window::Window(QWindow *parent) 
+
+65
+    : QWindow(parent) 
+
+66
+    , m_backgroundColorIndex(colorIndexId++) 
+
+67
+{ 
+
+68
+    initialize(); 
+
+69
+} 
+
+70
+ 
+
+71
+void Window::initialize() 
+
+72
+{ 
+
+73
+    if (parent()) 
+
+74
+        setGeometry(QRect(160, 120, 320, 240)); 
+
+75
+    else { 
+
+76
+        setFlags(flags() | Qt::WindowTitleHint | Qt::WindowSystemMenuHint 
+
+77
+                       | Qt::WindowMinMaxButtonsHint | Qt::WindowCloseButtonHint); 
+
+78
+        const QSize baseSize = QSize(640, 480); 
+
+79
+        setGeometry(QRect(geometry().topLeft(), baseSize)); 
+
+80
+ 
+
+81
+        setSizeIncrement(QSize(10, 10)); 
+
+82
+        setBaseSize(baseSize); 
+
+83
+        setMinimumSize(QSize(240, 160)); 
+
+84
+        setMaximumSize(QSize(800, 600)); 
+
+85
+    } 
+
+86
+ 
+
+87
+    create(); 
+
+88
+    m_backingStore = new QBackingStore(this); 
+
+89
+ 
+
+90
+    m_image = QImage(geometry().size(), QImage::Format_RGB32); 
+
+91
+    m_image.fill(colorTable[m_backgroundColorIndex % (sizeof(colorTable) / sizeof(colorTable[0]))].rgba()); 
+
+92
+ 
+
+93
+    m_lastPos = QPoint(-1, -1); 
+
+94
+    m_renderTimer = 0; 
+
+95
+} 
+
+96
+ 
+
+97
+void Window::mousePressEvent(QMouseEvent *event) 
+
+98
+{ 
+
+99
+    m_lastPos = event->pos(); 
+
+100
+} 
+
+101
+ 
+
+102
+void Window::mouseMoveEvent(QMouseEvent *event) 
+
+103
+{ 
+
+104
+    if (m_lastPos != QPoint(-1, -1)) { 
+
+105
+        QPainter p(&m_image); 
+
+106
+        p.setRenderHint(QPainter::Antialiasing); 
+
+107
+        p.drawLine(m_lastPos, event->pos()); 
+
+108
+        m_lastPos = event->pos(); 
+
+109
+ 
+
+110
+        scheduleRender(); 
+
+111
+    } 
+
+112
+} 
+
+113
+ 
+
+114
+void Window::mouseReleaseEvent(QMouseEvent *event) 
+
+115
+{ 
+
+116
+    if (m_lastPos != QPoint(-1, -1)) { 
+
+117
+        QPainter p(&m_image); 
+
+118
+        p.setRenderHint(QPainter::Antialiasing); 
+
+119
+        p.drawLine(m_lastPos, event->pos()); 
+
+120
+        m_lastPos = QPoint(-1, -1); 
+
+121
+ 
+
+122
+        scheduleRender(); 
+
+123
+    } 
+
+124
+} 
+
+125
+ 
+
+126
+void Window::exposeEvent(QExposeEvent *) 
+
+127
+{ 
+
+128
+    scheduleRender(); 
+
+129
+} 
+
+130
+ 
+
+131
+void Window::resizeEvent(QResizeEvent *) 
+
+132
+{ 
+
+133
+    QImage old = m_image; 
+
+134
+ 
+
+135
+    int width = qMax(geometry().width(), old.width()); 
+
+136
+    int height = qMax(geometry().height(), old.height()); 
+
+137
+ 
+
+138
+    if (width > old.width() || height > old.height()) { 
+
+139
+        m_image = QImage(width, height, QImage::Format_RGB32); 
+
+140
+        m_image.fill(colorTable[(m_backgroundColorIndex) % (sizeof(colorTable) / sizeof(colorTable[0]))].rgba()); 
+
+141
+ 
+
+142
+        QPainter p(&m_image); 
+
+143
+        p.drawImage(0, 0, old); 
+
+144
+    } 
+
+145
+    scheduleRender(); 
+
+146
+} 
+
+147
+ 
+
+148
+void Window::keyPressEvent(QKeyEvent *event) 
+
+149
+{ 
+
+150
+    switch (event->key()) { 
+
+151
+    case Qt::Key_Backspace: 
+
+152
+        m_text.chop(1); 
+
+153
+        break; 
+
+154
+    case Qt::Key_Enter: 
+
+155
+    case Qt::Key_Return: 
+
+156
+        m_text.append('\n'); 
+
+157
+        break; 
+
+158
+    default: 
+
+159
+        m_text.append(event->text()); 
+
+160
+        break; 
+
+161
+    } 
+
+162
+    scheduleRender(); 
+
+163
+} 
+
+164
+ 
+
+165
+void Window::scheduleRender() 
+
+166
+{ 
+
+167
+    if (!m_renderTimer) 
+
+168
+        m_renderTimer = startTimer(1); 
+
+169
+} 
+
+170
+ 
+
+171
+void Window::timerEvent(QTimerEvent *) 
+
+172
+{ 
+
+173
+    if (isExposed()) 
+
+174
+        render(); 
+
+175
+    killTimer(m_renderTimer); 
+
+176
+    m_renderTimer = 0; 
+
+177
+} 
+
+178
+ 
+
+179
+void Window::render() 
+
+180
+{ 
+
+181
+    QRect rect(QPoint(), geometry().size()); 
+
+182
+    m_backingStore->resize(rect.size()); 
+
+183
+ 
+
+184
+    m_backingStore->beginPaint(rect); 
+
+185
+ 
+
+186
+    QPaintDevice *device = m_backingStore->paintDevice(); 
+
+187
+ 
+
+188
+    QPainter p(device); 
+
+189
+    p.drawImage(0, 0, m_image); 
+
+190
+ 
+
+191
+    QFont font; 
+
+192
+    font.setPixelSize(32); 
+
+193
+ 
+
+194
+    p.setFont(font); 
+
+195
+    p.drawText(rect, 0, m_text); 
+
+196
+ 
+
+197
+    m_backingStore->endPaint(); 
+
+198
+    m_backingStore->flush(rect); 
+
+199
+} 
+
+200
+ 
+
+201
+ 
+
+202
