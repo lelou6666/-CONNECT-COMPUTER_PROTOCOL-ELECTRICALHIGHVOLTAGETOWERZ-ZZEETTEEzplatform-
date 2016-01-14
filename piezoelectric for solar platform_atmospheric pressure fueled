@@ -1,0 +1,4346 @@
+Sensor Technologies
+& Instrumentation
+Sensors for Acceleration, Acoustics, Force, Load, Pressure, Shock,
+Strain, Torque & Vibration
+WWW.PCB.COM
+Helping You
+Make Better
+Measurements
+With Quality, Innovative
+Instruments.
+PCB Piezotronics, Inc. manufactures accelerometers, force sensors, load cells,
+microphones, pressure transducers and transmitters, strain sensors, torque
+sensors, signal conditioners, cables, and accessories. This instrumentation is
+used for test, measurement, monitoring, and feedback control requirements in
+automotive, aerospace, industrial, R&D, military, educational, commercial, and
+OEM applications.
+This catalog provides an overview of the products and services made available
+to you by PCB Piezotronics and its divisions. The sampling of products featured
+are intended to introduce our capabilities and core competencies. For a more
+complete product offering with detailed specifications, drawings, photographs,
+and technical information, please visit:
+www.pcb.com
+www.imi-sensors.com
+www.larsondavis.com
+USA Toll-Free Customer Service:
+800-828-8840
+International Customers:
+716-684-0001
+Fax:
+716-684-0987
+E-mail:
+info@pcb.com
+PCB® Web Site:
+www.pcb.com
+PCB® 24-Hour SensorLineSM:
+716-684-0001
+In the interest of continuing product improvement,
+catalog specifications are subject to change without notice.
+PCB, IMI with associated logo, ICP, Modally Tuned, Swiveler,
+Spindler and TORKDISC are registered trademarks
+of PCB Group, Inc. SoundTrack LxT, Spark and Blaze are
+registered trademarks of PCB Piezotronics. SensorLine is
+a service mark of PCB Group, Inc. All other trademarks are
+property of their respective owners.
+PCB-STC-0509
+© 2009 PCB Group, Inc.
+PCB is ISO 9001 Certified
+A2LA Accredited to ISO 17025
+AS9100 Certified
+PCB is an EOE/AAP Employer
+Printed in USA
+Table of Contents
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 1
+About PCB Piezotronics ............................................................................2-3
+Manufacturing Capabilities ......................................................................4
+Vibration, Shock & Acceleration ................................................................6
+Accelerometers for test, measurement, research & development
+Industrial Vibration Monitoring ..............................................................14
+Rugged sensors and instrumentation for continuous vibration
+monitoring, predictive maintenance & machinery protection
+Acoustics, Sound & Noise ........................................................................22
+Sound level meters, noise dosimeters, microphones, software,
+and accessories for precision acoustic measurements, analysis,
+troubleshooting & noise exposure monitoring
+Pressure Sensors & Transmitters ............................................................28
+For test, measurement, monitoring, research & development
+Force, Load & Strain ..................................................................................32
+Sensors for testing, process monitoring, research & development
+Torque Sensors ..........................................................................................36
+For test, measurement, research & development
+Signal Conditioners, Cables & Accessories ..............................................38
+Calibration Test Services & Equipment ....................................................40
+Services & Qualifications ..........................................................................45
+2 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+About
+PCB Piezotronics, Inc.
+www.pcb.com
+■ PCB Piezotronics, Inc.
+■ In-house Manufacturing Capabilities
+■ 24-hour Customer Service
+(SensorLineSM)
+■ Representation in More
+than 60 Countries
+■ ISO 9001 Certified
+■ A2LA Accredited to ISO 17025
+■ AS9100 Certified
+Highlights
+PCB Piezotronics was founded in 1967 as a manufacturer of piezoelectric quartz
+sensors, accelerometers, and associated electronics for the measurement of
+dynamic pressure, force, and vibration. The unique expertise of the company
+was the incorporation of microelectronic signal conditioning circuitry within the
+sensors to make them easier to use and more environmentally compatible.
+These piezoelectric ICP® sensors gained wide popularity and became the
+foundation for the company's success.
+Subsequent growth and steady investment in facilities, machinery, and
+equipment permit a constant broadening of the product offering. Expanded
+measurement capabilities include piezoceramic, tourmaline, capacitive,
+piezoresistive, and strain gage sensing technologies. Ensuing products
+include industrial and DC response accelerometers, load cells, Modally Tuned®
+impact hammers, torque sensors, microphones, pressure transmitters and
+calibration equipment.
+The backbone of the company is its mission statement: Total Customer
+Satisfaction. This mission is not only supported by products that offer great
+value, but also by an unconditional warranty. Factory applications engineering
+and a worldwide network of sales offices and representatives are readily
+available 24-hours per day, seven daysaweek, to assist with customer requests.
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 3
+About PCB Piezotronics, Inc.
+With more than 40 years of products, innovation and customer service, PCB Piezotronics is a global leader
+in the design and manufacture of force, torque, load, strain, pressure, acoustic, shock and vibration
+sensors, as well as the pioneer of ICP® technology. Core competencies include ICP® and charge output
+piezoelectric, piezoresistive, strain gage, MEMS and capacitive sensors and instrumentation.
+To address the growing need for sensors and related instrumentation in the target market areas of test &
+measurement, industrial vibration, automotive, aerospace & defense, environmental noise monitoring and
+industrial hygiene, PCB® has established a series of focused divisions, with dedicated sales, marketing,
+engineering, and customer service resource support tailored to the needs of customers in these very
+specific areas. PCB® divisions and their core competencies include:
+PCB® Aerospace & Defense specializes in products and programs developed exclusively for the global
+aerospace, civil and military aviation, defense, homeland security, nuclear, and test and measurement
+markets. Products include space-rated high temperature and high-g shock accelerometers; spacequalified
+hardware; sensors and instrumentation for Health and Usage Monitoring Systems (HUMS), for
+UAV's, helicopters, fixed wing aircraft and ground vehicles; system electronics; combustion monitoring
+pressure sensors; high temperature engine vibration monitoring sensors; launch and separation shock
+sensors; Active Noise Cancellation products; and aircraft hydraulic pressure sensors, among others.
+Typical applications include vibration and fatigue testing; qualification testing; aircraft and engine
+ground, flutter and flight testing; blast pressure and hydraulic system pressure measurements; structural
+dynamics; engine vibration monitoring; launch and separation shock studies; pressure, wind tunnel and
+aerodynamic studies; aircraft and ground vehicle prognostics; and noise cancellation applications. Tollfree
+in the USA 1-866-816-8892; email: aerosales@pcb.com.
+PCB® Automotive Sensors is a dedicated sales and technical support facility, located in Novi, Michigan,
+devoted to the testing and instrumentation needs of the global automotive test market. This new team is
+focused on development and application of sensors and related instrumentation technologies for specific
+vehicle development test programs, in the areas of modal and structural analysis, vehicle and component
+NVH characterization, powertrain testing, vehicle and component durability, vehicle dynamics, safety and
+regulatory testing, component and system level performance, driveability, road load, and crash, among
+others. PCB® designs and manufactures sensors for automotive testing, including vibration, acoustic,
+pressure, force, load, dynamic strain and torque sensing technologies. These robust sensors are designed
+to excel in a variety of automotive applications. Toll-free in the USA 1-888-684-0014; email:
+automotivesales@pcb.com
+IMI Sensors designs and manufactures a full line of accelerometers, sensors, vibration switches,
+vibration transmitters, cables and accessories for predictive maintenance, continuous vibration
+monitoring, and machinery and equipment protection. Products include rugged industrial ICP®
+accelerometers; 4-20 mA industrial vibration sensors and transmitters for 24/7 monitoring; electronic and
+mechanical vibration switches; the patented Bearing Fault Detector, for early warning of rolling element
+bearing faults; high temperature accelerometers to +900 °F (+482 °C) for the power generation market; 2-
+wire Smart Vibration Switch, with MAVTTM technology, which automatically sets trip level; and the
+patented Reciprocating Machinery Protector, which outperforms conventional impact transmitters. CE
+approved and intrinsically safe versions are available for most products. Toll-free 1-800-959-4464; email:
+imi@pcb.com; www.imi-sensors.com; order online at www.imi-sensors.com
+Larson Davis Environmental Noise Monitoring and Industrial Hygiene offers a full line of Noise and
+Vibration measurement instrumentation, including Type 1 sound level meters, personal noise dosimeters,
+octave band, audiometric calibration systems, microphones and preamplifiers, hearing conservation
+software, and Human Vibration Exposure Monitor for Hand-Arm/Whole Body Vibration for evaluating
+human exposures to ISO 2631 and 5349, as well as to help ensure compliancy with a number of ANSI and
+OSHA and other related industrial hygiene standards, as well as for measurement of building acoustics,
+community and environmental noise monitoring, as well as supporting various automotive, aerospace and
+industrial applications. Toll-free 1-888-258-3222; email: sales@larsondavis.com; www.larsondavis.com
+PCB Piezotronics Test & Measurement Products supports the application of traditional sensor
+technologies of acoustics, pressure, force, load, strain, torque, acceleration, shock, vibration, electronics
+and signal conditioning within product design and development, consumer product testing, quality
+assurance, civil structure monitoring, research and development, education and engineering application
+areas. Email: info@pcb.com
+Visit www.pcb.com for more details
+PCB Piezotronics
+PCB Piezotronics corporate headquarters,
+located at 3425 Walden Avenue, Depew, NY, USA
+4 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+About PCB Piezotronics, Inc.
+In-house
+Machining Capabilities
+■ Precision CNC Turning&Milling
+■ Wire EDM
+■ Sheet Metal Fabrication
+■ Grinding
+■ Lapping and Finishing
+■ Microscopic Deburring
+■ Tool Room
+Crystals Manufacturing
+■ Raw ceramic & quartz crystals
+■ Fully equipped mixing, firing &
+polling facilities
+■ Ensures quality, expedited delivery
+& reduced cost
+Precision Component Manufacturing & Machining
+PCB® has a long history of sensor manufacturing and has invested heavily in facilities and equipment to ensure high quality standards and
+availability of key components. A vertically integrated manufacturing approach keeps PCB® in control of critical parts, processes, and
+procedures surrounding sensor assembly and testing to meet customer needs. A quality system based on ISO 9001 and AS9100:2004
+requirements ensures any non-conforming product or process is addressed in a timely manner for continuous quality improvement. In
+addition to our 100,000 square foot Sensor Technology Center in Depew, New York, additional manufacturing operations in Lackawanna,
+New York; Roanoke Rapids, North Carolina; Virginia Beach, Virginia; Provo, Utah; and Cincinnati, Ohio provide manufacturing support.
+Approximately 125,000 individual parts per month are machined in-house using
+the latest CNC machinery
+Lapping and finishing machines provide
+product finishes down to four micro inches
+& flatness of three light bands or better;
+microscoping deburring is available for the
+most demanding part applications
+Skilled machinists create low-volume
+parts for customized products
+& engineering prototypes
+Raw ceramic materials are mixed, fired Quartz crystal used in piezoelectric sensors
+& polled into a piezoelectric state
+Specialized Machining Components
+In addition to PCB® manufacturing capabilities shown here,
+sister company PCB Machining Solutions, Inc., located in Lackawanna,
+New York, specializes in precision machined components for the
+Industrial, Aerospace, Defense and Medical industries. PCB Machining
+Solutions offers an additional 25,000 square feet of machining
+capability, on state-of-the-art equipment, in their ISO 9001:2000
+certified facility. Production runs range from single specialty prototypes
+to production runs of more than 10,000 pieces. For more information on
+available services, please visit www.pcbmsi.com.
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 5
+About PCB Piezotronics, Inc.
+Sensor Microfabrication, Finishing & Housing Capabilities
+As part of PCB®’s commitment to quality, in-house sensor finishing capabilities include precision etching of sensors and sensor housing,
+laser welding, microelectronics fabrication; and hermetic connectorsmanufacturing and assembly. These processes are internally managed,
+according to industry standards and our ISO 9001 quality system. With these capabilities, the development of sensors, cables and
+connectors are molded, manufactured and assembled to fit.
+Microelectronics Fabrication
+& Assembly
+■ Controlled clean room environment
+ensures quality
+■ Sensors are meticulously assembled
+under scope
+■ All technicians highly trained in micro
+assembly procedures
+■ Rigorous testing of sensors &
+components before delivery
+Laser Welding/Etching
+■ Precision parts marking without
+damage to housing
+■ State-of-the-art marking machines
+with fiber optic beam delivery system
+■ Single units to high volume runs may
+be accommodated
+Cables & Connector
+Manufacturing
+■ Injector molded connectors
+■ Hermetically sealed electrical connectors
+■ Specialty cables & connectors to meet
+specific customer requests
+Electrical connectors with glass-to-metal
+fused hermetic sealing are processed
+in a conveyor furnace
+Injection molding for watertight sealing
+of submersible integral cables, cable strain
+relieving boots & sensor accessories
+Laser welding fuses metal parts together
+without excessive heat, which could be
+damaging to internal electronics
+Glove box handling with laser welding
+permits inert gas to be added
+within the sensor
+Precision sensor assembly under microscope Microelectronic circuit fabrication is
+conducted in a clean room environment
+Electronics assembly utilizes lean
+manufacturing techniques
+Electronic devices are meticulously tested
+& calibrated to ensure proper performance
+6 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Vibration, Shock
+& Acceleration
+Accelerometers for Test, Measurement & Research & Development
+Product Testing
+■ Appliance Design
+■ Drop Testing
+■ Modal Analysis
+■ Package Testing
+■ Quality Assurance
+■ Shaker Control
+■ Sporting Equipment
+■ Structural Testing
+■ Vibration Control
+■ Vibration Stress Screening
+Automotive & Transportation
+■ Balancing
+■ Body-in-white
+■ Crash Testing
+■ Drive Train Performance
+■ Dynamometer Testing
+■ NVH Studies
+■ Ride Simulation
+■ Road Response
+■ Squeak & Rattle Detection
+Aerospace & Aviation
+■ Flight Flutter
+■ Flight Testing
+■ Ground Vibration Testing (GVT)
+■ HUMS
+■ Jet Engine Testing
+■ Landing Gear Response
+■ Launch Vehicle Monitoring
+■ Simulated Pyroshock
+Research & Education
+■ Animal Studies
+■ Environmental Simulation
+■ Impact & Penetration Studies
+■ Seismic Monitoring
+Typical Applications
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 7
+Vibration, Shock & Acceleration
+General Purpose ICP® Accelerometers
+■ Lightweight titanium or aluminum construction
+■ Shear mode sensing geometry
+■ Resistant to base strain & thermal transient effects
+■ Laser-welded
+■ Hermetically sealed (most models)
+■ Adhesive & stud mount styles
+Vibration, Shock & Acceleration
+PCB® offers a vast selection of accelerometers to accommodate anything from routine measurement tasks to extraordinary testing
+requirements. Whether it’s a cell phone quality assurance test or continuous monitoring of an aircraft engine, we can help, with sensors
+which are off-the-shelf or custom designed for a specific application.
+What are ICP® sensors?
+Integrated Circuit Piezoelectric (ICP®) sensors contain built-in microelectronic signal conditioning circuitry – yet operate over just
+two wires. This circuitry requires constant current excitation and serves to convert the high-impedance charge signal generated
+by the piezoelectric crystal into a low-impedance voltage signal, for ease of signal transmission and analysis. Low-cost coaxial
+or two-wire cables may be utilized with ICP® sensors. Signal fidelity is relatively unaffected by contamination or moisture.
+ICP® sensors offer trouble-free operation in dirty, industrial environments or submerged in liquids.
+Generally, ICP® sensors are more cost effective and easier to use than charge output piezoelectric sensors; however, their
+temperature range is limited by the survivability of the built-in microelectronic circuitry.
+Model 352C23
+■ 5 mV/g
+■ 0.51 mV/(m/s2)
+■ 1.5 to 15k Hz
+■ 0.2 gm
+■ 3-56 coaxial connector
+Model 352C22
+■ 10 mV/g
+■ 1.0 mV/(m/s2)
+■ 0.7 to 13k Hz
+■ 0.5 gm
+■ 3-56 coaxial connector
+Model 353B17
+■ 10 mV/g
+■ 1.0 mV/(m/s2)
+■ 0.7 to 20k Hz
+■ 1.7 gm
+■ Integral cable
+Model 352C65
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.3 to 12k Hz
+■ 2.0 gm
+■ 5-44 coaxial connector
+Model 352A21
+■ 10 mV/g
+■ 1.0 mV/(m/s2)
+■ 0.7 to 13k Hz
+■ 0.6 gm
+■ 3-56 coaxial connector
+Model 353B33
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.7 to 6500 Hz
+■ 27 gm
+■ 10-32 coaxial connector
+Model 352C33
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.3 to 15k Hz
+■ 5.8 gm
+■ 10-32 coaxial connector
+Model 352C44
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.5 to 10k Hz
+■ 3.0 gm
+■ 10-32 coaxial connector
+Model 355B03
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.6 to 12k Hz
+■ 10 gm
+■ 10-32 coaxial connector
+2x Actual Size
+2x Actual Size 2x Actual Size Actual Size
+Actual Size Actual Size Actual Size
+Model 352A73
+■ 5 mV/g
+■ 0.51 mV/(m/s2)
+■ 1.5 to 25k Hz
+■ 0.3 gm
+■ Attached cable
+2x Actual Size
+Actual Size
+Actual Size
+8 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Vibration, Shock & Acceleration
+Model 356B21
+■ 10 mV/g
+■ 1.02 mV/(m/s2)
+■ 2 to 10k Hz
+■ 4 gm
+■ 8-36, 4-pin connector
+Model 356A01
+■ 5 mV/g
+■ 0.51 mV/(m/s2)
+■ 2 to 8000 Hz
+■ 1.0 gm
+■ Integral cable
+Model 356A34
+■ 50 mV/g
+■ 5.1 mV/(m/s2)
+■ 0.7 to 5000 Hz
+■ 6.6 gm
+■ 1/4-28, 4-pin connector
+Model 333B
+■ Single axis ICP® accelerometer
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 2 to 1000 Hz
+■ Plug-in socket base
+Model 356A17
+■ Triaxial ICP® accelerometer
+■ 500 mV/g
+■ 51 mV/(m/s2)
+■ 0.3 to 4000 Hz
+■ 1/4-28, 4-pin connector
+Model 356B18
+■ Triaxial ICP® accelerometer
+■ 1000 mV/g
+■ 102 mV/(m/s2)
+■ 0.3 to 5000 Hz
+■ 25 gm
+■ 1/4-28, 4-pin connector
+Model 086C03
+■ Modally Tuned® ICP®
+Impact Hammer
+■ 10 mV/lbf
+■ 2.25 mV/N
+■ Frequencies to 8000 Hz
+■ 0.16 kg hammer mass
+Actual Size Actual Size
+Actual Size Actual Size Actual Size
+Model 356A15
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 1.4 to 6500 Hz
+■ 10.5 gm
+■ 1/4-28, 4-pin connector
+Actual Size Actual Size Actual Size
+Model 354C10
+■ 10 mV/g
+■ 1.02 mV/(m/s2)
+■ 2 to 8000 Hz
+■ 5 gm
+■ 1/4-28, 4-pin connector
+Triaxial ICP® Accelerometers
+■ Measure in three orthogonal directions
+■ Lightweight titanium construction
+■ Shear mode sensing geometry
+■ Single-point hookup for cable or connector
+Structural Testing &
+Modal Analysis Products
+■ ICP® accelerometers with excellent phase
+characteristics & lightweight construction
+to minimize mass loading effects
+■ Intelligent mounting, signal conditioning,
+& cable routing schemes
+■ TEDS options – sensors with on-board memory,
+which report their identity & sensitivity
+■ Ideal for large channel count and MIMO tests
+Model 333B32
+■ Single axis ICP® accelerometer
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.5 to 3000 Hz
+■ 4.0 gm
+■ 10-32 coaxial connector
+Actual Size
+Model 333B52
+■ Single axis ICP® accelerometer
+■ 1000 mV/g
+■ 102 mV/(m/s2)
+■ 0.5 to 3000 Hz
+■ 7.5 gm
+■ 10-32 coaxial connector
+Actual Size
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 9
+Vibration, Shock & Acceleration
+High Temperature,
+Charge Output Accelerometers
+■ Engines
+■ Environmental chambers
+■ Gas turbines
+■ Radioactive environments
+Model 357B06
+■ Through-hole mounted
+■ 5 pC/g
+■ 0.51 pC/(m/s2)
+■ Response to 15k Hz
+■ 2.3 gm
+■ -65 to +500 °F
+■ -54 to +260 °C
+Model 357A09
+■ 1.7 pC/g
+■ 0.17 pC/(m/s2)
+■ Response to 13k Hz
+■ 0.6 gm
+■ -100 to +350 °F
+■ -73 to +177 °C
+Model 357B81
+■ 20 pC/g
+■ 2.04 pC/(m/s2)
+■ Response to 9000 Hz
+■ 50 gm
+■ -65 to +500 °F
+■ -54 to +260 °C
+Model 357B53
+■ Radiation-hardened
+■ 100 pC/g
+■ 10.2 pC/(m/s2)
+■ Response to 3500 Hz
+■ 51 gm
+■ -95 to +500 °F
+■ -71 to +260 °C
+Model 357B03
+■ 10 pC/g
+■ 1.02 pC/(m/s2)
+■ Response to 12k Hz
+■ 11 gm
+■ -95 to +500 °F
+■ -71 to +260 °C
+Model 357C72
+■ Differential Output
+■ 50 pC/g
+■ 5.1 pC/(m/s2)
+■ Response to 2500 Hz
+■ 110 gm
+■ -65 to +900 °F
+■ -54 to +482 °C
+Model 340A50
+■ Triaxial, miniature
+■ 2.7 pC/g
+■ 0.28 pC/(m/s2)
+■ Response to 10k Hz
+■ 11.0 gm
+■ -94 to +500 °F
+■ -70 to +260 °C
+Actual Size 2x Actual Size
+Actual Size Actual Size Actual Size
+Model 357B61
+■ Radiation-hardened
+■ 10 pC/g
+■ 1.02 pC/(m/s2)
+■ Response to 5000 Hz
+■ 30 gm
+■ -65 to +900 °F
+■ -54 to +482 °C
+Actual Size Actual Size Actual Size
+10 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Vibration, Shock & Acceleration
+Shock ICP® Accelerometers
+■ Individually qualified with high-amplitude
+Hopkinson Bar test
+■ Versions with internal filters for resonance suppression
+Low Temperature
+ICP® Accelerometers
+■ Cryogenic pump testing
+■ Liquefied gas delivery systems
+■ Vacuum pump testing
+Low Frequency
+ICP® Accelerometers
+■ Bridges & civil structures
+■ Building vibration
+■ Floor & foundation monitoring
+■ Optical instrument studies
+■ Semiconductor manufacturing
+■ Site surveys for sensitive equipment
+Model 351B03
+■ 10 mV/g
+■ 1.2 mV/(m/s2)
+■ 0.7 to 9000 Hz
+■ 10.5 gm
+■ -320 to +250 °F
+■ -196 to +121 °C
+Model 351B14
+■ 5 mV/g
+■ 0.51 mV/(m/s2)
+■ 0.7 to 10k Hz
+■ 1.8 gm
+■ -320 to +250 °F
+■ -196 to +121 °C
+Actual Size Actual Size Actual Size Actual Size
+Actual Size Actual Size Actual Size
+Model 350B24
+■ 1.0 mV/g
+■ 0.1 mV/(m/s2)
+■ 0.4 to 10k Hz
+■ ± 5000 g pk
+■ Integral cable/
+case isolated
+Model 350C02
+■ 0.1 mV/g
+■ 0.01 mV/(m/s2)
+■ 4 to 10k Hz
+■ ± 50,000 g pk
+■ Integral cable/
+case isolated
+Model 350B03
+■ 0.5 mV/g
+■ 0.05 mV/(m/s2)
+■ 0.4 to 10k Hz
+■ ± 10,000 g pk
+■ 10-32 coaxial connector
+Model 350B50
+■ Triaxial
+■ 0.5 mV/g
+■ 0.05 mV/(m/s2)
+■ 3 to 10k Hz
+■ ± 10,000 g pk
+■ Integral cable
+Model 351B41
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.7 to 3500 Hz
+■ 40 gm
+■ -320 to +250 °F
+■ -196 to +121 °C
+1/2 Actual Size 1/2 Actual Size
+Model 393B05
+■ 10 V/g
+■ 1.02 V/(m/s2)
+■ 0.5 to 750 Hz
+■ 0.000004 g rms resolution
+■ 50 gm
+Model 393B31
+■ 10.0 V/g
+■ 1.02 V/(m/s2)
+■ 0.07 to 300 Hz
+■ 0.000001 g rms resolution
+■ 635 gm
+Model 393A03
+■ 1000 mV/g
+■ 102 mV/(m/s2)
+■ 0.3 to 4000 Hz
+■ 0.00001 g rms resolution
+■ 210 gm
+1/2 Actual Size
+MEMS DC Response Accelerometers
+PCB® MEMS DC response accelerometers, available in
+piezoresistive and capacitive types, measure static or constant
+acceleration without a low frequency cut-off restriction, as
+frequency response extends to 0 Hz.
+■ Aerospace satellite & launch vehicle vibration
+■ Automotive crash sled testing
+■ Automotive road & load measurements
+■ Aviation ground vibration & flight testing
+■ Centrifuges
+■ Gravitational force
+MEMS High Amplitude 20,000 g
+Shock Accelerometers
+PCB® MEMS high amplitude shock accelerometers, available in
+single and triaxial versions, can measure long duration transient
+motion, and respond to very fast rise times, typical of high-g shock
+events. Models offer a full active Wheatstone bridge, with 30,000
+g internal mechanical stops and + 60,000 g overshock limit, and
+are drop-in replacements for competitive models.
+■ Fuze / Safe & Arm applications
+■ Weapons data recorders
+■ Pile drying/Jackhammer testing
+■ Canon / mortar firings
+■ Crash / impact / drop testing
+■ Penetrator tests
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 11
+Vibration, Shock & Acceleration
+Model 3713D1FD3G
+Triaxial High Sensitivity DC Response
+■ 700 mV/g
+■ 71.4 mV/(m/s2)
+■ 0 to 100 Hz
+■ 78.1 gm
+■ Titanium housing
+■ Welded case, hermetically sealed
+Model 3741D4HB200G
+High Sensitivity DC Response
+■ 10 mV/g
+■ 1.02 mV/(m/s2)
+■ 0 to 1500 Hz
+■ 9.92 gm
+■ Anodized aluminum case
+Model 3711D1FA3G
+High Sensitivity DC Response
+■ 700 mV/g
+■ 71.4 mV/(m/s2)
+■ 0 to 100 Hz
+■ 14.5 gm
+■ Titanium housing
+■ Welded case, hermetically sealed
+Model 3991A1020KG
+Single Axis (ITAR Controlled)
+■ 1.28 gm
+■ Titanium housing
+■ Integral Kevlar cable (3 ft/0.9 m)
+■ Through-hole mounting
+Common Specifications
+■ 0 to ±20,000 g range
+■ 0.001 mV/V/g
+■ 5 % damping
+■ 2-15 VDC Excitation
+Model 3503A2020KG
+Triaxial
+■ 0.10 gm
+■ Ceramic LCC
+■ SMT mounting
+Model 3501A2120KG
+Single Axis
+■ 0.01 gm
+■ Flip Chip
+■ Solder ball mounting
+Model 3991A3020KG
+Single Axis (ITAR Controlled)
+■ 0.04 gm
+■ Substrate housing
+■ Adhesive mounting
+Model 3501A2020KG
+Single Axis
+■ 0.15 gm
+■ Ceramic LCC
+■ Leadless chip carrier
+■ SMT mounting
+Actual Size
+2 x Actual Size 2 x Actual Size 2 x Actual Size 2 x Actual Size
+Model 3503A1020KG
+Triaxial
+■ 2.5 gm
+■ Titanium housing
+■ Integral copper cable
+(10 ft/3.1m)
+■ Through-hole mounting
+Model 3501A1220KG
+Single Axis
+■ 3 gm
+■ Titanium housing
+■ Integral copper cable
+(10 ft/3.1m)
+■ 1/4-28 Thread
+Model 3601A11
+Single Axis
+■ 2 gm
+■ Aluminum housing
+■ Integral copper cable,
+side exit (23ft/7m)
+■ Through-hole mounting
+Model 3501A1320KG
+Single Axis
+■ 3 gm
+■ Titanium housing
+■ Integral copper cable
+(10 ft/3.1m)
+■ 1/4-28 Thread
+Actual Size Actual Size Actual Size Actual Size
+12 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Vibration, Shock & Acceleration
+Flight Test Accelerometers – For Civilian and Military Applications
+For 40 years, PCB® has assisted customers in the Aerospace and Defense industries, with the design and manufacture of sensors for flight
+testing and monitoring of fixed wing, rotary aircraft, missiles and launch vehicles. In addition, when testing and monitoring applications
+require specialized sensor packaging, testing, or performance, PCB® can provide sensors that are custom engineered to meet demanding
+or unusual tasks. The sensors below represent a small sample of such units.
+Quality Standards:
+AS9100:2004 certified; ISO 9001:2000 certified; A2LA accredited to
+ISO 17025; Manufacturing capabilities to certain MIL & aerospace
+standards; Some designs have been qualified to RTCA-160E.
+Recent Programs:
+Airbus A380; Boeing 787; Delta Launch; F-18 Flight Test;
+GEnx™ Engine; Ground Missile Defense (GMD); National Missile
+Defense; Titan launch vehicle.
+Model 337A31
+ICP® Accelerometer
+■ 10 mV/g
+■ 1.02 mV/(m/s2)
+■ 1 to 5000 Hz
+■ Temperature range
+-60 to +250 °F (-53 to +121 °C)
+■ HUMS/Mechanical Diagnostics
+Model 357C73
+Charge Output Accelerometer
+■ 100 pC/g
+■ 10.2 pC/(m/s2)
+■ Response to 2000 Hz
+■ Temperature range
+-65 to +900 °F (-54 to +482 °C)
+■ High temperature engine monitoring
+Actual Size
+Actual Size Actual Size
+Series 3741
+High Sensitivity DC
+Response Accelerometer
+■ Offered in ranges from 2 to 200 g
+■ Differential output
+■ Low-profile design, for mounting on
+restricted areas of aircraft wings
+■ Gas damped, temperature compensated for
+stable measurement in varying environments
+■ Isolated anodized aluminum housing
+■ Triaxial mounting block available
+■ Flutter measurements, extremely
+low frequency measurements
+Model 355B33
+Ring-Style,
+Quartz ICP® Accelerometer
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 2 to 5000 Hz
+■ Ring-style, stable quartz shear
+sensing element
+■ Vibration measurements
+on large fixed wing aircraft
+Model 352C43
+Low-profile, Miniature
+ICP® Accelerometer
+■ 10 mV/g
+■ 1.02 mV/(m/s2)
+■ 1 to 8000 Hz
+■ Ground isolated
+■ Optional high temperature
+■ Ground vibration testing; modal &
+structural vibration analysis; general
+shock & vibration measurement
+Actual Size Actual Size Actual Size
+Model 337A30
+ICP® Accelerometer
+■ 10 mV/g
+■ 1.02 mV/(m/s2)
+■ 1 to 1000 Hz
+■ Temperature range
+-30 to +250 °F (-35 to +121 °C)
+■ HUMS/Mechanical Diagnostics
+Accelerometers for On-board Diagnostics, Engine Monitoring, ROTABS
+& Health and Usage Monitoring Systems (HUMS)
+■ ICP® & charge output types; ceramic & quartz sensing elements
+■ Molded integral cable; case isolated to reduce ground loop interference/EMI
+■ Hermetically sealed, stainless steel or Inconel® housing
+■ Operating temperatures to +900 °F (+482 °C
+Sensors for Flutter, Buffeting & Load Factor Tests
+Model 394C06 Handheld Shaker
+■ Conducts field check of accelerometer sensitivity
+■ Offers end-to-end system testing and troubleshooting
+■ Generates 1 g pk or 1 g rms at 159.2 Hz
+■ Battery operated, AC adaptable
+■ Provides 80 to 1600 calibration cycles, depending
+on accelerometer weight
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 13
+Vibration, Shock & Acceleration
+Model HVM100 Human Vibration Meter
+■ Collects Hand-Arm&Whole-Body vibration data
+■ Meets ISO 5346/2631 & EU exposure directives,
+including 2002/44/EC & HSE (UK) recommended
+points system
+■ Connects to single axis, triaxial & ICP® accelerometers
+■ Offers filtering, integration & data storage
+■ Available with dedicated sensors & adaptors for
+hand tool & seat pad studies
+■ Provides instantaneous tool assessments with
+HVManager™ software
+■ Offloads data to PC for further analysis & reporting
+with Blaze® software.
+Model 356B41 Seat Pad
+Triaxial ICP® Accelerometer
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.5 to 1000 Hz
+■ Integral cable
+■ 7.87” W × 0.472” H (200 x 12 mm)
+■ Operates directly with HVM100
+for ride comfort studies
+underside
+HVManager™ Software
+■ Creates a tool-based human vibration level database
+■ Projects tool users daily cumulative vibration exposure
+■ Simplifies tool use management, to stay within legal limits
+■ Presents vibration exposure time history graphs for X,Y, Z sum
+■ Supports compliance with ISO and EC directives
+Special Purpose Products
+PCB® offers customers the option to tailor sensors and instrumentation to satisfy virtually any application requirement. Capabilities range
+from single-copy, exclusive-use devices, to high volume sensors. An extensive commitment of resources for the design, development,
+manufacture, and test of sensors and instrumentation allows PCB® to respond to customer's needs. Models offered in this section are only
+a minor representation of available special purpose products. For more information, please consult factory.
+1/2 Actual Size
+■ Meets ISO 10326-1, ISO 2631 & ISO 8041
+standards; supports compliance with EU
+Physical Agents Directives
+LaserTach™ ICP® Tachometer
+■ Simplifies acquisition of rotational speed signals
+■ Operates via ICP® sensor signal conditioning
+■ Easy to install – 20 in (0.5 m) range in a standard
+5/8-18 UNF threaded package
+■ BNC output
+14 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Industrial Vibration
+Monitoring
+Rugged Sensors & Instrumentation for Continuous Vibration Monitoring,
+Predictive Maintenance & Machinery Protection
+Machinery
+■ Bearings
+■ Compressors
+■ Cooling Towers
+■ Fans
+■ Gearboxes
+■ HVAC Equipment
+■ Machine Tools
+■ Motors
+■ Pumps
+■ Turbines
+Industries
+■ Aggregate & Concrete
+■ Assembly Plants
+■ Food, Dairy & Beverage
+■ Mining
+■ Navy
+■ Petrochemical
+■ Pharmaceutical
+■ Power Generation
+■ Pulp & Paper
+■ Steel & Aluminum
+■ Transportation
+■ Water&Waste Treatment
+Typical Applications
+Order Online @
+imi-sensors.com
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 15
+Industrial Vibration Monitoring
+Low-cost Industrial ICP® Accelerometers
+■ Ideal for permanent installations & use with continuous, on-line monitoring systems
+■ Promote safety when installed in hazardous or inaccessible locations
+■ Connect through switch or junction box for route-based data collection schemes
+■ NIST traceable, single-point calibration at 100 Hz
+■ Hazardous area approved versions available
+Industrial Vibration Monitoring
+The IMI Sensors division of PCB® offers a vast selection of industrial accelerometers, vibration sensors, vibration switches, vibration
+transmitters, switch boxes, cables, and accessories for industrial and shipboard machinery health monitoring, analysis, diagnostics, and
+protection. Sensors are available with choice of connector, integral cable, temperature signal output, velocity signal output, and hazardous
+area approvals. Determining machinery health through vibration monitoring has proven effective for maintenance planning, reducing
+downtime, and avoiding catastrophic loss. Whether it’s a cooling tower fan motor or a paper machine calendar bearing, we can help, with
+sensors that are off-the-shelf or custom designed for a specific application.
+What is an “industrial” accelerometer?
+Industrial accelerometers are built to endure the rigors of harsh factory environments. They are typically constructed with
+stainless steel housings to survive exposure to corrosive chemicals. Welded construction and hermetic sealing guard against any
+influx of dirt, oil, and other contaminants. Heavy duty electrical connectors are used to permit interface with strong, durable
+cables. Sealed, integral cables may be utilized to tolerate exposure to fluids, wash-down conditions, or submersion. Armored
+cables offer further protection frommetal chips or being pinched or crushed.
+Additionally, filtering is normally included to guard against RF interference caused by wireless communication equipment and
+high frequency saturation. Electrical case isolation and faraday shielding are used to protect against electromagnetic
+interference, surface noise pickup, and ground loop problems. Additional circuitry is normally included to guard against damage
+from mis-wiring and exposure to electrostatic discharge. These attributes permit industrial accelerometers to provide
+uncorrupted measurements and years of trouble-free, unattended service.
+About Accelerometer Specifications…
+The following specifications are common to all IMI Sensors accelerometers, unless otherwise noted:
+■ -65 to +250 °F (-54 to +121 °C)
+■ 1/4-28 mounting thread (M6 for metric versions)
+■ 2-pin MIL-C-5015 connector (Integral cable models also available with connector options)
+Model 602D01
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.5 to 8000 Hz
+■ 30 to 480k cpm
+■ 1.65” L × 0.74” W × 0.85” H
+(41.9 × 18.8 × 21.6 mm)
+■ 2.61 oz (74 gm)
+Model 603C01
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.5 to 10k Hz
+■ 30 to 600k cpm
+■ 11/16” hex × 1.65” (42 mm) H
+■ 1.8 oz (51 gm)
+Model 608A11
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.5 to 10k Hz
+■ 30 to 600k cpm
+■ 9/16” hex × 2.5” (63.5 mm) H
+■ 3.5 oz (99.3 gm) w/ 10ft cable
+Model 601A01
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.3 to 10k Hz
+■ 16 to 600k cpm
+■ 7/8” hex × 1.94” (49.3 mm) H
+■ 2.8 oz (80 gm)
+Precision Industrial
+ICP® Accelerometers
+■ Ideal for roving use with route-based data collectors
+■ Utilize for effective machinery analysis & fault diagnostics
+■ Velocity output, temperature output, high temperature
+(+325 °F/+163 °C), & hazardous area approved version available
+■ NIST traceable calibration through full frequency range
+Multi-axis Industrial ICP® Accelerometers
+■ Measure acceleration simultaneously in up to three axes
+■ Through-bolt mounting for simplified alignment
+■ Simultaneous radial & axial bearing vibration measurements
+■ Interface directly with vibration data collectors & FFT analyzers
+■ Hazardous area approved versions available
+16 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Industrial Vibration Monitoring
+Model 626B02
+Low Frequency
+■ 500 mV/g
+■ 51 mV/(m/s2)
+■ 0.2 to 6000 Hz
+■ 12 to 360k cpm
+■ 1-3/16” hex ×
+2.19” (55.6 mm) H
+■ 7.0 oz (199 gm)
+Model 622B01
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.2 to 15k Hz
+■ 12 to 900k cpm
+■ 7/8” hex ×
+2.06” (52.3 mm) H
+■ 3.3 oz (94 gm)
+Model 629A31
+Triaxial
+■ 100 mV/g (all axes)
+■ 10.2 mV/(m/s2)
+■ 0.8 to 8000 Hz (all axes)
+■ 48 to 480k cpm
+■ 1.5” L × 1.5” W × 0.82” H
+(38.1 × 38.1 × 20.8 mm)
+■ 4.9 oz (139 gm)
+Model 604B31
+Triaxial
+■ 100 mV/g (all axes)
+■ 10.2 mV/(m/s2)
+■ 0.5 to 5000 Hz (all axes)
+■ 30 to 300k cpm
+■ 1.38” Dia × 1” H
+(35.1 × 25.4 mm)
+■ 4.4 oz (124 gm)
+Model 605B61
+Biaxial
+■ 100 mV/g (all axes)
+■ 10.2 mV/(m/s2)
+■ 0.5 to 5000 Hz
+■ 30 to 300k cpm
+■ 1.38” Dia × 1” H
+(35.1 × 25.4 mm)
+■ 4.0 oz (113.3 gm)
+Model 621B40
+■ High Frequency,
+even with a magnet
+■ 10 mV/g
+■ 1.02 mV(m/s2)
+■ 1.6 to 30k Hz
+■ 96 to 1800k cpm
+■ 5-40 mounting thread
+■ M3 for metric versions
+■ 0.10 oz (2.8 gm)
+Model 623C01
+High Frequency
+■ 100 mV/g
+■ 10.2 mV(m/s2)
+■ 0.8 to 15k Hz
+■ 48 to 900k cpm
+■ 11/16” hex ×
+1.97” (50 mm) H
+■ 1.8 oz (51 gm)
+Model 625B01
+Low Frequency
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.2 to 10.5k Hz
+■ 12 to 630k cpm
+■ 1.38” Dia × 1.13” H
+(35.1 × 28.7 mm)
+■ 5.1 oz (145 gm)
+Model 625B02
+Low Frequency
+■ 500 mV/g
+■ 51 mV/(m/s2)
+■ 0.2 to 6000 Hz
+■ 12 to 360k cpm
+■ 1.38” Dia × 1.13” H
+(35.1 × 28.7 mm)
+■ 6.1 oz (173 gm)
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 17
+Industrial Vibration Monitoring
+Swivel-mount
+Industrial ICP® Accelerometers
+■ Easy-to-install, patented, swivel mount design (US Patent No. 6,435,902)
+■ Cable rotates to any desired orientation
+■ Smaller & less costly than ring-style sensors
+■ Electrically protected from saturation problems
+■ Excellent for use on high-speed rotating machinery & spindles
+■ Available with temperature output
+■ Hazardous area approved versions available
+High Temperature Accelerometers
+■ Survive elevated surface or ambient temperatures
+■ Ideal for monitoring paper machines, steam
+handling systems, gas turbines, engines,
+& in steel mills
+■ Operate up to +900 °F (+482 °C)
+Model 600A13
+(+900 °F/+482 °C)
+Accelerometer Kit
+■ Includes sensor, hardline cable
+& differential charge converter
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 2 to 8500 Hz
+■ 120 to 510k cpm
+■ -65 to +900 °F (-54 to +482 °C)
+Model 600A03
+(+500 °F/+260 °C)
+Accelerometer Kit
+■ Includes sensor, armor cable,
+& charge converter
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 1 to 10k Hz
+■ 60 to 600k cpm
+■ -65 to +500 °F (-54 to +260 °C)
+Model HT622A01
+(+325 °F/+163 °C)
+ICP® Accelerometer
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.2 to 8000 Hz
+■ 12 to 480k cpm
+■ -65 to +325 °F (-54 to +163 °C)
+■ 7/8” hex × 2.0“ (50.8 mm) H
+■ 3.3 oz (93 gm)
+Model 607A61 Spindler®
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.5 to 10k Hz
+■ 30 to 600k cpm
+■ 9/16” hex × 1.0” (25.4 mm) H
+■ 1.1 oz (31 gm)
+Model 607A11 Swiveler®
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.5 to 10k Hz
+■ 30 to 600k cpm
+■ 9/16” hex × 0.97” (24.6 mm) H
+■ 1.1 oz (31 gm)
+Model 607A01 Swiveler®
+■ 100 mV/g
+■ 10.2 mV/(m/s2)
+■ 0.5 to 10k Hz
+■ 30 to 600k cpm
+■ 7/8” hex × 1.23” (31.2 mm) H
+■ 3.7 oz (105 gm)
+18 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Industrial Vibration Monitoring
+4-20 mA Industrial Vibration Sensors
+■ Adapts analog vibration signals to process monitoring instruments
+■ Facilitates low-cost, continuous vibration monitoring
+■ Connects to PLC, alarm & SCADA systems
+■ Two-wire, loop-powered
+■ Outputs proportional to peak velocity, RMS velocity, or RMS acceleration
+■ Optional analog vibration output signal for diagnostics
+■ Optional temperature output signal
+■ Optional raw vibration output signal
+■ High temperature models available to +257 °F (+125 °C)
+Model 641B61
+■ 0.0 to 1.0 in/sec RMS
+■ 0.0 to 25.4 mm/sec RMS
+■ 600 to 60k cpm (10 to 1000 Hz)
+■ -40 to +185 °F (-40 to +85 °C)
+Model EX640B71
+■ 0.0 to 1.0 in/sec peak
+■ 0.0 to 25.4 mm/sec peak
+■ 180 to 60k cpm, (3 to 1000 Hz)
+■ -40 to +176 °F (-40 to +80 °C)
+Model 640B01
+■ 0.0 to 1.0 in/sec peak
+■ 0.0 to 25.4 mm/sec peak
+■ 180 to 60k cpm (3 to 1000 Hz)
+■ -40 to +185 °F (-40 to +85 °C)
+Model 640B11
+■ 0.0 to 1.0 in/sec peak
+■ 0.0 to 25.4 mm/sec peak
+■ 180 to 60k cpm (3 to 1000 Hz)
+■ -40 to +185 °F (-40 to +85 °C)
+Model 642A01
+■ 0.0 to 1.0 in/sec peak
+■ 0.0 to 25.4 mm/sec peak
+■ 180 to 60k cpm (3 to 1000 Hz)
+■ -40 to +185 °F (-40 to +85 °C)
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 19
+Industrial Vibration Monitoring
+Vibration Transmitters
+■ Interface vibration signals with PLC,
+alarm & SCADA systems
+Vibration Alarms
+■ Accept vibration sensor input signals, detect vibration
+threshold exceedance & provide relay outputs for
+alarm, annunciation, or emergency shutdown
+■ Versions for use with either ICP® or 4-20 mA
+vibration sensors. Digital display shows measured
+vibration level & provides visual alarm indication
+Series 683
+1/8 DIN Panel Mount Indicator/Alarm
+■ Provides loop power for two-wire 4-20 mA sensors
+■ Optional version provides ICP® sensor excitation
+■ Four-digit, high visibility LED display
+■ Offers up to four, user-programmable set points with relay outputs
+■ Time delay feature eliminates false alarms due to momentary upsets
+■ Optional 4-20 mA retransmission
+Series 684A
+Indicator/Alarm Enclosures
+■ Available in two sizes
+■ Accommodates up to eight Series 683A indicators/alarms
+■ Optional BNC outputs for analog vibration signals
+Model 682A03
+■ Accepts ICP® accelerometer input
+■ 4-20 mA output for rms acceleration,
+peak velocity, or peak-to-peak
+displacement with filtering options
+■ Analog vibration output signal
+for fault diagnostics
+■ Additional 4-20 mA output
+for temperature is available
+Model 682A05
+Bearing Fault Detector
+(US Patent No. 6,889,553)
+■ Accepts ICP® accelerometer input
+■ Detects impacting faults due to
+bearing & gear problems
+■ Provides dual 4-20 mA signals
+for peaks & overall vibration
+■ Provides analog vibration output
+signal for fault diagnostics
+Model 682A06
+Universal Transmitter
+■ Provides loop power for two-wire, 4-20 mA sensors & transmitters
+■ Accepts mA, VDC, RTD, TC, linear resistance & potentiometer inputs
+■ Delivers current & voltage output signals
+■ Offers two set points with Form A relay outputs (2 amp AC, 1 amp DC)
+■ Fully programmable via detachable push button display (Model 070A80)
+Model 649A01
+Reciprocating Machinery Protector
+(US Patent No. 7,171,313)
+■ Detects faults & mechanical looseness
+in reciprocating compressors
+■ Improves on existing impact
+monitoring technology
+■ Provides continuous trending, with alarm
+& alert levels for early warning
+■ Field programmable set points & alarm
+levels optimize performance
+■ Hermetically sealed, loop-powered design
+Vibration Switches
+■ Provide essential protection for critical machinery
+■ Fully self-contained with vibration sensor & relay
+for alarm or shutdown
+■ Explosion proof versions available
+■ Time delay included for all electronic versions
+■ Hermetically sealed versions available
+■ Remote reset options
+20 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Industrial Vibration Monitoring
+Models 685A07
+■ Spring-magnet actuated
+■ Single relay
+■ No power required
+■ NEMA 4 enclosure
+Models 685A08
+■ Spring-magnet actuated
+■ Single relay
+■ No power required
+■ CSA/UL approved
+explosion-proof enclosure
+Series 686B
+Smart Vibration Switch
+(patent pending)
+■ Universal, AC or DC-powered
+■ Hermetically sealed
+■ Built-in accelerometer
+■ Microprocessor controlled
+■ Two-wire simplicity
+■ Single relay
+■ Small footprint
+■ Magnetically Adjustable
+Vibration Threshold (MAVT™)
+■ USB programmable
+Series 685B
+■ Built-in or remote accelerometer
+■ Dual relays with time delay
+■ Analog output signal for diagnostics
+■ 4-20 mA overall vibration output
+■ Calibration signal insertion for accurate set-up
+■ AC or DC-powered (factory set)
+Series 685Ax1
+■ Built-in accelerometer
+■ Single relay with time delay
+■ DC-powered
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 21
+Industrial Vibration Monitoring
+Switch Boxes & Termination Boxes
+■ Simplify data collection by routing sensor cables
+to one central location
+■ Promote data collection safety by keeping workers
+out of hazardous areas
+■ Access more data points in less time
+■ Versions from 1 to 48 channels
+Model 687A01 Portable Vibration Meter Kit
+■ Measures rms vibration levels
+■ 3-1/2 digit LCD display
+■ Headphones offer audible monitoring
+■ Supplied with Model 603C01 industrial
+ICP® accelerometer, coiled cable & magnet
+Cables & Installation Accessories
+Calibration Shakers
+Magnetic Mounting Bases Spot Face Preparation Tools Cable Assemblies
+Model 699A02
+Handheld Calibration Shaker
+■ 1 g RMS or 1 g peak output
+@ 159.2 Hz
+■ Battery operated (4 AA) or
+DC power supply option for
+continuous use
+■ Supplied nylon carrying pouch
+with belt loop
+Model 699A04
+Portable Calibration Shaker
+■ Choice of acceleration, velocity,
+or displacement
+■ Variable frequency & amplitude
+■ Built in NIST traceable reference
+accelerometer
+■ Calibrates instruments up to
+8 lb (3.63 kg)
+■ Ideal for calibrating heavy
+instruments & switches
+22 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Acoustics, Sound,
+& Noise
+Sound Level Meters, Noise Dosimeters, Microphones, Software & Accessories for Precision
+Acoustic Measurements, Analysis, Troubleshooting & Noise Exposure Monitoring
+Product Testing
+■ Acoustic Chamber Testing
+■ Acoustic Mode Analysis
+■ Appliance Noise
+■ Audiometric Calibration
+■ Cabin Noise
+■ Engine Noise Analysis
+■ Exhaust Pressure Pulsations
+■ Near-field Acoustic Holography
+■ Reverberation
+■ Sound Insulation & Absorption
+■ Sound Intensity
+■ Sound Power Testing
+■ Sound Pressure Mapping
+■ Tool Noise
+■ Vibro-acoustic Testing
+■ Wildlife Studies
+Environmental Noise
+■ Aircraft Noise
+■ Airport Noise Monitoring
+■ Artillery Noise
+■ Building Acoustics
+■ Community Noise
+■ Factory Noise
+■ Industrial Hygiene
+■ Industrial Noise
+■ Jet Engine Noise
+■ Machinery Noise
+■ Noise Barrier Studies
+■ Noise Control Engineering
+■ Occupational Noise
+■ Sonic Boom
+■ Traffic Noise
+■ Transportation Noise
+■ Vehicle Passby
+Typical Applications
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 23
+Acoustics, Sound & Noise
+Sound Level Meters
+Model 831
+Sound Level Meter for Environmental Noise
+■ Exceedance based logging
+■ Multiple communication options, including wireless
+■ 2 GB data storage, including audio recording
+■ Small, lightweight, ergonomic design
+■ Interval 1/1 and 1/3 octave analysis
+■ Interfaces to outdoor microphones, up to 300 ft (91.4 m)
+■ Optional environmental enclosure
+■ Interfaces with DNA software for data reporting
+System 824
+Sound Level Meter & Real Time Analyzer
+■ Advanced sound level measurements
+■ Audiometer calibration (when used with AUDit™ software)
+■ Building acoustics
+■ Environmental noise monitoring
+■ Real-time FFT analysis
+■ Interfaces with DNA & AUDit™ software
+for data reporting
+SoundTrack LxT®
+Sound Level Meter for Safety
+& Health Professionals
+■ Real time 1/1 & 1/3 octave analysis
+■ Overall data capture with time history
+■ Simple operation – with just one hand
+■ Multiple dose & exposure calculations
+■ 16-hour battery runtime
+■ Available as Class 1 or Class 2
+■ 1/4” microphone for > 170 dB
+■ Interfaces with Blaze® & DNA software
+for data reporting
+Acoustics, Sound & Noise
+PCB® and Larson Davis offer some of the most innovative acoustic analysis instruments available anywhere. Advanced sound level meters
+offer intuitive operation and a host of features to support all types of measurement, analysis, and monitoring tasks. Microphones and
+preamplifiers are manufactured to exacting standards for conducting precision measurements. Intelligent occupational noise dosimeters
+help assess noise exposure, while straightforward software aids in data management and compliance reporting. Whether the sound or
+noise is audible, ultrasonic, subsonic, desired, or undesired – we can help, with sensors and instruments that will satisfy virtually any
+acoustic measurement and analysis requirement. Products shown are also available for rental through The Modal Shop.
+Spark® Occupational Noise Dosimeters
+■ Seven models, most with 100-hour battery life
+■ Universal noise exposure results with choice of multiple
+dose parameters
+■ Conforms to ANSI & IEC standards for dosimeters
+■ Conforms to MSHA, UL, ULC & ATEX standards
+for intrinsic safety
+■ High-speed IR data transfer to PC or 706RC
+■ Interfaces with Blaze® software
+24 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Acoustics, Sound & Noise
+Spark® Model Major Features
+703 Basic logging dosimeter (no LCD or keypad) Downloads basic and summary reports to PC, controlled with Blaze®
+703+ Logging dosimeter; remote response enabled (no LCD or keypad) Complete report generation with Blaze®; can be operated, interrogated by 706RC
+704 Stand-alone dosimeter for quick & easy measurements (with LCD and keypad) Displays complete data; 4 doses, each with unique user defined settings
+705 Logging dosimeter – super duty (no LCD or keypad) Downloads basic and summary reports to PC, controlled with Blaze®
+705+ Logging dosimeter – super duty; remote response (no LCD or keypad) Complete report generation with Blaze®; can be operated, interrogated by 706RC or PC
+706 Fully featured stand alone dosimeter, remote response Complete report generation with Blaze®; can be operated, interrogated by 706RC or PC
+706RC Fully featured dosimeter with LCD, keypad & remote control capability Full report generation using Blaze®; gives surrogate display for 703+ or 705+
+Remote control function allows setup & control of other remote response
+Spark® dosimeters; interrogates & stores data from multiple dosimeters
+Blaze®
+for Spark®, HVM100 & SoundTrack LxT®
+■ Provides set-up, data downloading
+& reporting for Spark® dosimeters, HVM100
+& SoundTrack LxT®
+■ Exposure data & work shift graph on
+a single page
+■ Integral exposure database
+■ “What if” analysis of administrative
+or engineering controls
+DNA (Data, Navigation & Analysis)
+for Series 831, 824 & SoundTrack LxT®
+& HVM100
+■ Recorded sound analysis
+■ Environmental noise analysis
+■ Provides data capture, analysis,
+& graphical reporting for sound level meters
+■ Remote data collection
+■ Room & building acoustics
+■ Statistical & spectral analysis
+■ Vibration analysis, including FFT
+AUDit™ & System 824
+Audiometric Calibration &
+Electro-Acoustic Test System
+■ Supra-aural, bone vibration, extended frequency
+earphone testing, TDH earphone & hearing
+aid testing
+■ Automatically correct RETSPL’s, microphone,
+coupler & other software adjustments
+■ Calibrate hearing level; linearity; frequency
+accuracy & total harmonic distortion
+■ Qualify booth ambient noise with real-time
+1/3 analysis & fast pass/fail results for
+ANSI S3.1-1999
+706 705+ 703+
+Software
+Larson Davis offers set-up utility and
+data analysis software to support
+sound level meters and noise
+dosimeters for remote noise
+monitoring & acoustic data logging.
+CORTITM
+for Hearing Conservation Program Improvement
+■ Assess & Manage Risk of Hearing Loss
+■ Benchmark HCP effectiveness
+■ Model future compensation costs
+■ Combines Audiometric & Exposure Data
+■ Quality Assurance for Audiometric Tests
+HPD Select©
+for Proper Selection of Hearing Protectors
+■ Uses NIOSH Compendium of HPD performance
+■ Provides recommendations by NRR, Type, Mfr.
+■ Use Octave Band, SLM or Dosimeter exposure
+data
+■ Continuous updates
+Preamplifiers
+■ Small and rugged
+■ Stainless steel housing
+■ Low noise floor
+■ Wide frequency bandwidth
+■ Compatible with ICP® or 200 V
+externally polarized microphones
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 25
+Acoustics, Sound & Noise
+Precision Acoustic Microphones
+■ Modern prepolarized (electret) or
+traditional externally polarized types
+■ Can be utilized with Type 1 systems Model 377C01
+■ 1/4” free-field response
+■ 41 to 170 dB dynamic range
+■ 3 Hz to 100k Hz (± 3 dB)
+Test & Measurement Microphones
+PCB® offers both externally polarized and prepolarized (also know as “electret”) microphones. Both types require a preamplifier for
+operation; however, prepolarized types may be powered with constant current (2-20 mA) ICP® sensor signal conditioners and coaxial cables
+for an overall lower cost-per-channel. Externally polarized microphones require a 200 V polarization voltage. Free-field, random incidence,
+and pressure response versions are available for each microphone type. All microphones are individually tested for performance. A2LA
+accredited microphone calibration services are also available, for both PCB® and competitor models.
+Model 377A12
+■ 1/4” pressure response
+■ 68 to 187 dB dynamic range
+■ 4 Hz to 20k Hz
+Model 426E01
+■ Compatible with
+ICP® prepolarized microphones
+■ 1/2” diameter
+■ 2-wire operation; operates from
+ICP® sensor power
+■ -0.04 dB attenuation
+■ 2.8 μ A-wt electrical noise
+Model 426B03
+■ Compatible with
+ICP® prepolarized microphones
+■ 1/4” diameter
+■ 0.08 dB attenuation
+Actual Size Actual Size
+Actual Size Actual Size Actual Size
+Model 426A30
+■ Compatible with 200 V
+externally polarized microphones
+■ 1/2” diameter
+■ -0.25 dB attenuation
+■ 2.8 μ A-wt electrical noise
+Model 377B02
+■ 1/2” free-field response
+■ 15 to 146 dB dynamic range
+■ 3.15 Hz to 20k Hz
+Model 377A60
+■ 1/2” externally polarized,
+random incidence
+■ 15 to 146 dB dynamic range
+■ 3.15 Hz to 10k Hz
+Model 377A42
+■ 1” free-field response
+■ 10 to 146 dB dynamic range
+■ 2.6 Hz to 20k Hz
+Model 426A11
+■ Compatible with
+ICP® prepolarized microphones
+■ 1/2” diameter
+■ Gain and filter switches
+1/2 Actual Size
+1/2 Actual Size
+1/2 Actual Size Actual Size
+1/2 Actual Size
+Model HT426E01
+■ HT to +120 ºC (+248 ºF)
+■ Compatible with
+ICP® prepolarized microphones
+■ 1/2” diameter
+■ 2-wire operation; operates from
+ICP® sensor power
+ICP® Array Microphones
+■ Cost-effective electret microphones
+for multi-channel measurements
+■ Integral preamplifier
+■ Operate from ICP® sensor power
+■ Interchangeable with
+ICP® accelerometer set-ups
+■ Array kits available for
+multi-channel applications
+■ TEDS compatible models (optional)
+Acoustic Calibrators
+■ For microphones that meet IEC & ANSI standards
+■ Lightweight, portable and battery operated
+■ Available with optional adaptors for a variety
+of microphone diameters
+26 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Acoustics, Sound & Noise
+Model 379A01
+Array Stand
+■ For sound pressure mapping, nearfield
+acoustic holography &
+vibro-acoustic testing
+■ Accommodates installing array
+microphones in a grid pattern
+■ Adjustable grid sizes & configurations
+■ Pivots and rotates to accommodate
+test requirements
+Model CAL250
+■ 1/8”, 1/4”, 1/2” & 1” microphones
+(with optional adaptors)
+■ 251.2 Hz ± 2.0 Hz frequency
+■ 114 dB, ± 0.1 dB output level
+(re 20 μPa)
+■ Automatic barometric
+pressure compensation
+■ 4.9” L x 1.75” Dia
+(124 x 44.5 mm)
+Model CAL200
+■ 1/8”, 1/4” & 1/2” microphones
+(with optional adaptors)
+■ 1 kHz ± 1% frequency
+■ 94 dB, 114 dB ± 0.2 dB
+output level (re 20 μPa)
+■ Type 1 & Type 2 versions
+■ 4.18” L x 2.5” W x 1.02” D
+(106.1 x 63.4 x 25.9 mm)
+Model 130D20
+■ 1/4” free-field response
+■ 30 to 122 dB range
+■ 20 Hz to 15k Hz
+■ BNC connector
+Model 130D22
+■ 1/4” free-field response
+■ 30 to 122 dB range
+■ 20 Hz to 15k Hz
+■ SMB connector
+Model 079A31
+■ 8-channel calibration coupler
+(for use with CAL250)
+Model 130D21
+■ 1/4” free-field response
+■ 30 to 122 dB range
+■ 20 Hz to 15k Hz
+■ 10-32 connector
+Specialty Microphones
+Microphone Accessories
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 27
+Acoustics, Sound & Noise
+High Amplitude Acoustic Pressure Sensors
+A-weight Filter
+Compatible with ICP® microphone preamplifiers
+Windscreens Nose Cones
+Cables
+Series 103
+ICP® Pressure Sensors
+■ 181 to 190 dB
+■ 13k Hz
+■ -100 to +250 °F (-73 to +121 °C)
+High Amplitude Acoustic Pressure Sensors
+High sensitivity piezoelectric pressure sensors are well-suited for high-amplitude acoustic measurements in gases and liquids. They
+are capable of surviving extreme temperatures and fluid environments in which condenser microphones would normally fail. Fluidborne
+noise, jet engine noise, air turbulence, automotive airbag deployment noise and pulsation detection represent just a few
+measurement capabilities of such piezoelectric pressure sensors.
+Adaptors/Holders
+Model 106B
+ICP® Pressure Sensor
+■ 189 db
+■ 60k Hz
+■ -65 to +250 °F (-54 to +121 °C)
+Series 106B52
+ICP® Pressure Sensor
+■ 170 db
+■ 40k Hz
+■ -65 to +250 °F (-54 to +121 °C)
+Series 116B
+Charge Output Pressure Sensor
+■ 211 db
+■ 60k Hz
+■ -400 to +750 °F (-240 to +400 °C)
+Model 377A26
+High Temperature Probe Microphone
+■ Designed for use in difficult measurement
+environments, small cavities, harsh environments,
+or high temperatures to +1,472 °F (+ 800 °C)
+■ Multiple probe tip lengths
+■ High acoustic input probe tip minimizes
+influence on acoustic field
+Microphone Stands
+Model 130A40
+Low-profile Surface Microphone
+■ For automotive, aeronautical & general acoustic,
+sound pressure level testing
+■ 20 Hz to 15k Hz
+■ 40 to 122 dB range
+■ Operates from ICP® sensor power
+28 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Pressure Sensors
+& Transmitters
+For Test, Measurement, Monitoring, Research & Development
+Combustion
+■ Combustion Profiles
+■ Compression
+■ Fuel Burn Instabilities
+■ Fuel Injection
+■ Knock Detection
+Explosives Testing
+■ Air Blast
+■ Ballistics
+■ Bubble Energy
+■ Closed Bombs
+■ Impulse
+■ Propellant Studies
+■ Shock Waves
+■ Time-of-arrival
+■ Underwater Blast
+Process Monitoring
+■ Compressor Tuning&Monitoring
+■ Engine Test Stands
+■ Gas & Stream Turbine Performance
+■ Hydraulic Systems
+■ Liquid Level
+■ Pump Monitoring
+■ Surges
+■ Valve Dynamics
+■ Wind Tunnels
+Product Testing
+■ Cavitation
+■ Flow Instabilities
+■ Fluctuations
+■ Fluid Pulsations
+■ Hydraulic Pulsations
+■ Pneumatic Pulsations
+■ Turbulence
+■ Water Hammer
+Typical Applications
+Dynamic General Purpose
+ICP® Pressure Sensors
+■ Adapt to any size mounting port
+■ Durable, welded, hermetically sealed construction
+■ Fast response, ≤ 1 μsec
+■ Ranges from 50 to 30k psi (345 to 207 MPa)
+■ Resolutions to 1 mpsi (0.007 kPa)
+■ Resonant frequencies to 500k Hz
+■ Rigid quartz sensing elements
+Dynamic Combustion Studies
+& Engine Design
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 29
+Pressure Sensors & Transmitters
+Pressure Sensors & Transmitters
+PCB® offers a wide variety of pressure sensors to satisfy a multitude of dynamic and static pressure measurement requirements.
+Piezoelectric, strain gage, thin film, and piezoresistive sensing technologies are offered. Whether it’s a pharmaceutical injection design
+application, an explosives test, or a combustion instability study of a rocket motor, we can helpwith sensors, that are off-the-shelf or custom
+designed for the specific application.
+Differences between static & dynamic pressure sensors.
+Static pressure sensors most often use strain gage, piezoresistive, or capacitive sensing technologies. Such devices are capable
+of measuring slowly changing or static pressures and are ideal for many process monitoring requirements. Although some
+specialty silicon based sensors can achieve higher frequencies and faster rise times, most static pressure sensors have a
+response limited to about 1000 Hz and a respective 1 msec rise time. Potentially damaging pressure changes that occur faster
+than this can be missed by these sensors.
+Dynamic pressure sensors are characterized by their ability to respond withinmicroseconds and achieve frequencies well beyond
+100k Hz. They most often use piezoelectric quartz sensing technology, however, other piezoelectric crystals may be used
+depending upon the application. Since piezoelectric sensors are AC coupled devices, they do not measure
+static pressure. This property provides these sensors with the unique ability to monitor low level dynamic pressures
+while being subjected to a high static background pressure level. Piezoelectric pressure sensors have no moving parts, are
+rigid, linear, durable, and extremely repeatable. They can withstand high static loads, yet accurately respond to small
+pressure fluctuations.
+Series 105C
+■ Miniature ICP® styles
+for fuel injection studies
+■ Cavitation
+Threaded Style
+■ With lock nut for flush
+diaphragm installations
+175A01
+■ Measurement Range:
+4000 psi (27580 kPa)
+■ Sensitivity: (±15%) 1.35
+pC/psi (0.195 pC/kPa)
+■ Temperature Range:
+(Operating) -100 to
++600 °F (-73 to +316 °C)
+65A
+■ Spark plug adaptor
+(Specify type of plug),
+short tube (for Series 112)
+Series 106B, 116B
+■ High temperatures to +750 °F (+400 °C)
+■ Series 116B charge output styles for exhaust
+pulsation studies & flue gas flow anomalies
+■ High sensitivity, high resolution
+■ 1 to 100 psi (6.895 to 689.5 kPa)
+■ ICP® resolution to 0.02 mpsi (0.00013 kPa)
+Model 108A02
+■ High range with durable, monolithic diaphragm
+withstands many
+repetitive cycles
+■ Measurements on hydraulic systems such as
+steering, braking & clutch
+■ Fuel injection
+Series 122, 123 & 124
+■ Rocket engine test sensors for
+burn instability detection
+■ Available with Helium purging
+& water cooling
+■ 1 to 5000 psi (6.895 kPa
+to 34.5 MPa)
+Series 101 & 102
+■ Probe installed into thread
+adaptors with ground isolation
+Series 111, 112 & 113
+■ Probe-style pressure sensors
+30 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Pressure Sensors & Transmitters
+Series 108, 109, 118, 119, 165 & 167
+■ Case mouth & shot shell ballistic pressure sensors
+■ Ranges to 120k psi (827 MPa)
+■ Variety of configurations to match existing test barrel ports
+■ Acceleration compensated versions
+Series 138
+■ ICP® underwater blast
+explosion pressure probes
+■ Ranges from 1000 to 50k psi
+(70 to 3500 bar)
+■ Rise time <1.5 μsec
+■ Resonant frequency >1M Hz
+Series 137
+■ ICP® free-field blast pencil probes
+■ Ranges from 50 to 5000 psi
+(3.5 to 350 bar)
+■ Rise time <4 μsec
+■ Resonant frequency >500k Hz
+Series 132
+■ Shock wave time-of-arrival
+ICP® microsensors
+■ 50 psi (3.5 bar) range
+■ Rise time <3 μsec
+■ Resonant frequency >1M Hz
+■ 0.124” (3.15 mm)
+diameter diaphragm
+Series 134
+■ Designed for reflected shock
+wave pressure measurement
+■ Unique non-resonating design,
+Tourmaline sensing element
+■ Pressure ranges from 1000
+to 20k psi (70 to 1380 bar)
+■ Rise time ≤ 0.2 μsec
+■ +5,000 °F flash temperature
+(+2,760 °C)
+Dynamic Turbine Monitoring
+■ Measure high-intensity acoustics
+& pulsations
+■ Measure combustion instability & onset
+of compressor surge
+■ Detect pressure fluctuations in turbines,
+pumps, furnaces & pipes
+Dynamic Diesel
+Engine Monitoring
+■ Continuously monitor combustion pressure
+in diesel or gas engines
+■ Allows for engine turning & load balancing
+via cylinder pressure
+■ Frequency response tailored for stable output
+during engine power adjustments
+■ Integral charge amplifier at end of cable
+Dynamic Explosion,
+Blast & Shock Wave Testing
+■ Atmospheric re-entry studies
+■ Detonations
+■ Shock tube research
+Dynamic Ballistics Testing
+■ Ammunition testing
+■ Propellant studies
+Series 171
+■ Sensitivities to 1200 pC/psi
+(174 pC/kPa)
+■ Ranges from 10 to 600 psi
+(70 to 4140 kPa)
+■ High temperatures to +500 °F (+260 °C)
+■ Case isolated; rugged, 2-pin MIL connector
+Series 176
+■ Sensitivities to 17 pC/psi
+(2.5 pC/kPa)
+■ 20 psi (140 kPa) dynamic,
+400 psi (2760 kPa) static
+■ High temperatures to +1,000 °F (+535 °C)
+■ Low-noise, in-line differential
+charge amplifier
+■ Case isolated
+Series 117
+■ Conformal ballistics pressure sensors
+■ Diaphragm curvatures to match any cartridge diameter
+■ Measures pressure without modifying cartridge cases
+■ SAAMI approved
+Series 175
+■ Ranges to 4000 psi (275 bar)
+■ High temperatures to +600 °F (+315 °C)
+■ M14 thread
+Dynamic Hazardous Area Approved
+Pressure Monitoring
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 31
+Pressure Sensors & Transmitters
+Test & Measurement Equipment Rental
+In addition to the sensors and instrumentation available for purchase, PCB® sister company The Modal Shop offers Test Equipment and Accessory Rental,
+which allows customers the added flexibility to expandmeasurement capabilities and "try before you buy." This program allows customers to quickly obtain
+the most advanced instrumentation and monitors, for short-term or one-time applications, at minimal cost and no down payment required.
+Products available for rental include:
+■ PCB Piezotronics and IMI Sensors ICP® & charge output piezoelectric,
+piezoresistive, TEDS, capacitive & DC response accelerometers
+■ Larson Davis Type 1 & Type 2 sound level meters; environmental kits;
+dosimeters; human vibration meters; microphones & preamplifiers
+■ Signal conditioners, shakers, cables & test supports
+■ Application engineering consulting
+A team of experienced application engineers is available to provide technical guidance and equipment recommendations. Stock products are available for
+overnight delivery. With The Modal Shop rental equity program, rental payments may also be applied toward eventual equipment purchase. For more
+information, please contact The Modal Shop at (513) 351-9919 or visit www.modalshop.com.
+Static Pressure Transducers & Transmitters
+Pressure sensors for static, or slowly changing, pressure measurements use highly stable, thin-film, piezoresistive sensing elements. These elements are
+constructed without use of adhesives or fluid filling. The results are robust units, possessing the accuracy required for testing applications, yet which are
+economically attractive for rigorous industrial process control requirements. A variety of process fittings, electrical connections, output signal formats,
+accuracies, and full-scale ranges are available. These units are ideally suited for process monitoring and control, liquid level measurements, hydraulic
+system performance studies and test cell requirements.
+Hazardous Area Approved Dynamic Pressure Sensors
+Sensors that offer hazardous area approved certifications are widely used on pumps, compressors, power generation equipment, and other machinery
+operating in harsh environments. PCB® can also assist with providing many other styles of dynamic and static pressure sensors with hazardous area
+approvals. Piezoelectric pressure sensors offer the capability to detect and monitor dynamic pressure spikes, pulsations, and surges in gaseous or liquid
+media.
+Series 102A4X
+■ Ranges 50 to 5000 psi
+(345 to 345 MPa)
+■ Invar ablative coated diaphragm
+■ Ground isolated
+■ +250 °F (+121 °C)
+■ 1/8” NPT process fitting
+■ 10-32 connector
+Series 121A4X
+■ Ranges 50 to 5000 psi
+(345 to 345 MPa)
+■ 316 stainless steel diaphragm
+■ Case isolated
+■ +250 °F (+121 °C)
+■ 1/4” NPT process fitting
+■ Robust 2-pin MIL connector
+Series 1500
+■ DC to ≤ 1 msec response time
+■ 17-4 stainless steel wetted parts
+■ Accuracies of 0.25%, or 0.5% full-scale
+■ All welded construction with no adhesives,
+seals, or fluid filling
+■ Amplified 0 to 5 VDC or 0 to 10 VDC outputs
+■ Loop-powered, 4-20 mA versions
+■ Gage, absolute, or compound pressure versions
+■ Ranges from 10 to 6000 psi (0.7 to 400 bar)
+■ Temperature range of -40 to +250 °F (-40 to +125 °C)
+■ Variety of connectors, submersible cables & process fittings
+32 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Force, Load & Strain
+Sensors for Testing, Process Monitoring, Research & Development
+Product Testing
+■ Aerospace Structural Testing
+■ Automotive Ride Simulation
+■ Cable Tension
+■ Durability Testing
+■ Ejection Forces
+■ Endurance Testing
+■ Engine&Machinery Mount Analysis
+■ Fatigue Testing
+■ Force Limited Vibration Testing
+■ Fracture Analysis
+■ Impact & Drop Testing
+■ Life Cycle Testing
+■ Material Penetration Studies
+■ Materials Strength Testing
+■ Reaction Forces
+Process Control &
+Quality Assurance
+■ Bearing Assembly & Test
+■ Clinching, Riveting, Orbital Forming
+■ Crimping
+■ Dynamic Balancing
+■ Machine Tool Cut Force Monitoring
+■ Machine Tool Wear Monitoring
+■ Metal Forming Press Monitoring
+■ Piercing & Punching
+■ Spot Welding
+■ Stamping
+■ Tablet Presses
+■ Wire Bonding
+Research & Education
+■ Biomechanics
+■ Sports Therapy
+■ Robotics
+Typical Applications
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 33
+Force, Load & Strain
+Dynamic Force Sensors
+■ Piezoelectric quartz sensing elements
+■ Solid-state construction with stainless steel durability
+■ High stiffness for fast transient response & high
+frequency response
+■ Survive repetitive cycles without fatigue
+■ Hermetically sealed for use in harsh environments
+■ Much smaller than comparably ranged strain gage
+load cells
+■ Offered in both ICP® & charge output designs
+General Purpose Configurations
+■ Compression, tension & impact
+■ Ranges from 10 to 5000 lb (45 to 22k N)
+■ Resolution to 0.0001 lb (0.00045 N)
+Force, Load & Strain – sensors for testing, monitoring & process control
+PCB® offers a vast selection of quartz piezoelectric and strain gage sensors for dynamic force, dynamic strain, and static load measurement
+requirements. The variety of available configurations supports a multitude of installation options. Whether it’s a mechanical component
+durability test, assembly force control requirement, or an end-of-line quality check, we can helpwith sensors that are off-the-shelf or custom
+designed for the specific application.
+Features & benefits of piezoelectric & strain gage force sensors.
+Piezoelectric force sensors are well suited for measuring dynamic and quasi-static force. They feature high stiffness, fast
+response, and repeatable performance, permitting them to capture high frequencies and follow fast transient events such as
+impacts. The high stiffness allows them to survive repetitive cycles without fatigue. Quasi-static applications may include slow
+acting press or mechanical linkage forces acting in a cyclic manner during a production process.
+Strain gage force sensors, or load cells, are well suited for measuring slowly changing or static force. They possess DC response
+and are appropriate for static applications. Fatigue rated versions are constructed of high-grade steel for surviving many
+repetitive cycles encountered during product durability testing. Strain gage load cells are not suitable for capturing frequencies
+in excess of several hundred Hz. They are also typically larger than similarly ranged piezoelectric force sensors.
+Impact Configurations
+■ Compression ranges from 10 to 50k lb
+(45 to 220k N)
+■ Resolution to 0.0002 lb (0.00045 N)
+Multi-component Configurations
+■ Simultaneous measurements in three orthogonal directions (Fx,Fy,Fz)
+■ Available in ring or link configurations
+■ Variety of sizes to fit most installations
+■ Compression ranges from 1000 to 10k lb (4500 to 45k N)
+■ Resolution to 0.002 lb (0.009 N)
+Ring Configurations
+■ Install beneath a base or platform between plates,
+or in line with linkages & actuators
+■ Compression ranges from 10 to 100k lb (45 to 450k N)
+■ Resolution to 0.0002 lb (0.00045 N)
+■ Variety of sizes to fit most installations
+Link Configurations
+■ Install in linkages or actuators
+■ Tension & compression ranges from
+10 to 50k lb (45 to 220k N)
+■ Resolution to 0.0002 lb (0.00045 N)
+■ Variety of sizes to fit most installations
+34 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Force, Load & Strain
+Series RHM240
+■ Ranges from 50 to 300 με
+■ 0.004 Hz low frequency response
+■ Resolution to 0.0001 με
+■ ICP® or charge output
+■ RoHs Compliant
+Model 410B01
+■ Delivers excitation power for ICP® sensors
+■ Provides +10 V peak hold & ± 10 V
+analog output signals
+■ Remote reset for synchronizing with
+machine cycles
+■ Eight gain settings
+■ 24V DC powered
+■ DIN rail
+Series 421A11 & 421A31
+■ Condition charge output sensors in
+harsh industrial environments
+■ ± 5 V analog output
+■ Long discharge time constant for quasistatic
+& low frequency measurements
+■ Offered in single or three-channel
+configurations
+■ 24V DC powered
+Series 421A25
+■ Condition charge output sensors in harsh
+industrial environments
+■ Long discharge time constant for quasistatic
+& low frequency measurements
+■ ± 10 V Analog, +10 V peak & two
+alarm outputs for monitoring applications
+■ 24V DC powered
+Series 1100 & 1200
+General Purpose Low Profile
+■ Capacities from 25 to 100k lb
+(110 to 450k N)
+Series 1400 Fatigue Rated
+■ Over 100 million fully reversed
+cycles guaranteed
+■ Capacities from 250 to 100k lb
+(1100 to 450k N)
+Series 1300 Rod Ends
+■ Capacities from 1000 to
+20k lb (4450 to 89k N)
+■ Male & female rod ends
+Model 1621-02A S-Type Load Cell
+■ Measurement Range: (Full Scale
+Capacity) 1000 lb (4.45 kN)
+■ Sensitivity: (±10%) (output at rated
+capacity) 2 mV/V
+■ Size - Height: 2.75 in (69.9 mm)
+■ Electrical Connector: 21R-10-6P
+Model 740B02 ICP®
+Dynamic Strain Sensor
+■ 50 mV/με
+■ 0.5 to 100k Hz
+■ 0.5 gm
+■ Integral cable
+■ Ideal for dynamic fatigue
+& structural health studies
+Dynamic ICP® Strain Sensors
+■ Measure longitudinal strain on machinery structures
+■ Offers indirect measurement of clamping
+& press forces
+■ Automates machinery processes for improved
+end product quality
+■ Detects tool wear
+■ High stiffness for repeatability
+■ Robust construction
+■ Easy to install
+ICP® & Charge Output Sensor
+Signal Conditioners
+Strain Gage Load Cells
+■ Combined accuracies to 0.07%
+■ General purpose & fatigue rated designs
+■ Variety of configurations & mounting schemes
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 35
+Force, Load & Strain
+Series 5400
+■ One-piece sensor
+■ Up to 8x faster and easier to mount, setup, align, and calibrate
+compared to other transducers in the market
+■ Maximum operating temperature of +302 °F (+150 °C) with superior
+temperature compensation of 0.003% FS/ºF (0.005% FS/°C)
+■ Exclusive application of fastener technology to achieve robust clamp
+load and assembly
+■ Cost-effective universal hub adapter option for alternating between
+European, USA, and military wheels
+■ Integral stops for 150% FS overload, simultaneously in all axes
+■ Superior sealing for water and dust ingress protection (IP 67)
+Model 8175-01A
+Multi-Axis Wheel Force Transducer Signal Conditioner
+■ Six 10 VDC analog inputs
+■ 14-bit A/D resolution
+■ 3 digital encoder inputs
+■ 8 analog outputs
+■ 5000 Hz signal bandwidth
+■ 90 kHz sample rate
+Series 5400
+Multi-Axis Wheel Force Transducer
+Multi-Axis Wheel Force Transducer
+PCB® Series 5400 Wheel Force Transducers are designed as rugged onepiece
+sensors that mount between the vehicle hub and the wheel rim,
+delivering highly accurate road load data measurement and superior
+performance in a durable water-resistant package. Possessing superior
+temperature compensation properties and integral overload stops, these
+sensors provide a high level of confidence in data acquired during
+aggressive road events, including heavy braking tests.
+Ideal for
+Road Load Data Acquisition; biaxial wheel test systems; and the
+development of stability control, brake systems, suspension and
+tires.
+■ Available in a variety of sizes - passenger to heavy
+vehicle (30 kN to 200 kN capacities)
+■ Offered in light-weight aluminum, high-strength stainless
+steel, and titanium
+■ Adaptable to single, dual, and super single wheel
+configurations
+36 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Torque Sensors
+For Test, Measurement, Research & Development
+■ Bearing Friction
+■ Brake Testing
+■ Electric Motors
+■ Engine & Chassis Dynamometer
+■ Fan & Blower Testing
+■ Gearbox Efficiency
+■ Hydraulic Pumps&Motors
+■ Pump Testing
+■ Stepper Motor Switch Torque
+■ Torsion Testing
+■ Transmission Development & Testing
+■ Viscosity & Lubrication Studies
+Typical Applications
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 37
+Torque Sensors
+Rotary Torque Sensors
+■ Choice of digital telemetry or non-contact rotary transformer signal transmission
+■ Tests rotating items such as drive shafts, motors, pumps & dynamometers
+Reaction Torque Sensors
+■ Conduct friction & viscosity studies
+■ No moving parts
+■ Responds to torsional loads
+■ Test braking systems
+Signal Conditioners
+■ Provides required carrier based sensor excitation
+■ Recommended for use with PCB® Series 4100,
+4115K & 4200 rotary transformer torque sensors
+■ When used with PCB® sensors, offers a complete
+NIST traceable torque measurement system,
+pre-calibrated to sensor requirements.
+Torque Sensors
+PCB® offers an extensive range of strain-gage torque sensors for test, measurement, monitoring, and research & development applications.
+Both rotary torque and reaction torque measurements are accommodated with a variety of sensor configurations. Whether it’s an
+automotive dynamometer test or a hydraulic pump end-of-line quality assurance check, we can help, with sensors standard or custom
+designed for your specific application.
+Features & benefits of rotary transformer & digital telemetry signal transmission.
+A primary challenge for rotary torque sensors is transferring the measurement signal from the rotating portion to the stationary
+portion of the sensor. Two techniques are used by PCB® for rotary torque sensor signal transmission – rotary transformer and
+digital telemetry. The rotary transformer is a non-contacting technique providing low maintenance and quiet operation. Digital
+telemetry offers noise-free operation. For installations where space is a premium, the TORKDISC ®, with digital telemetry,
+provides a shorter coupled installation.
+Series 5300 TORKDISC®
+■ 16-bit digital telemetry style
+■ Compact & lightweight
+■ Capacities from 250 to 550k in-lb
+(28 to 62k N-m)
+■ Combined accuracy to 0.1% FSO
+■ Flange mount
+■ Immune to RF interference
+■ DC to 8500 Hz
+■ AC Coupled Output
+■ DC Coupled Output
+Series 4100
+■ Rotary transformer style
+■ Capacities from 50 in-oz to 100k in-lb
+(0.35 to 11.3k N-m)
+■ Combined accuracies to 0.07% FSO
+■ Keyed shaft versions
+Series 4115K
+■ Rotary transformer style
+■ Capacities from 50 to 10k in-lb
+(5.6 to 1130 N-m)
+■ Combined accuracies to 0.07% FSO
+■ Splined shaft-flange combinations
+■ AND 10262 & 20002
+Series 2300
+■ Capacities from 5 to 300k in-lb
+(0.56 to 33.9k N-m)
+Series 8121
+■ AC bridge excitation
+■ ± 5 V analog output
+■ Shunt calibration
+■ 6 digit LED display
+■ Auxiliary ± 10 V & 4-20 mA outputs
+■ HI-LO set points
+■ Peak capture
+■ RS-232 interface
+38 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Signal Conditioners,
+Cables & Accessories
+Piezoelectric Sensor
+Signal Conditioning
+■ ICP® Sensor Power Supplies
+■ Alarm Relays
+■ Bank Switching Modules
+■ Battery Powered Signal Conditioners
+■ Display Meters
+■ Industrial Charge Amplifiers
+■ In-line Charge Converters
+■ In-line Electronic Filters
+■ Laboratory Charge Amplifiers
+■ Modular-style Signal Conditioners
+■ Peak Voltage Indicators
+■ Signal Converting Transmitters
+■ Summing Modules
+■ Telemetry Signal Conditioners
+Additional Sensor
+Signal Conditioning
+■ DC Response Sensor Signal Conditioners
+■ Microphone & Preamplifier
+Power Supplies
+■ Strain Gage Signal Conditioners
+■ Torque Sensor Signal Conditioners
+Accessories
+■ Installation Tools
+■ Mounting Hardware
+■ Nose Cones
+■ Patch Panels
+■ Tripods
+■ Windscreens
+Highlights
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 39
+Signal Conditioners, Cables & Accessories
+ICP® Sensor Power Supplies —Battery or line-powered signal conditioners that provide ICP® sensor excitation and coupling
+of the voltage measurement signal to readout, recording, and analysis instruments. Additional features include gain, filtering, integration,
+and zero clamping.
+Charge Amplifiers —Laboratory, industrial, and in-line charge amplifiers provide the necessary impedance conversion for
+high-impedance, charge output piezoelectric sensors, thus permitting usability with voltage readout, recording, and analysis instruments.
+Additional features include gain, filtering, integration, and ground reset.
+Additional Signal Conditioners
+Cables —The weakest link in a measurement chain is often interconnecting cables. PCB® offers many types of cables, designed to
+endure various adverse operating conditions. Choices include cables with the flexibility of silicone, the resilience of Teflon®, the
+high-temperature capability of welded hardline, and the submergibility of molded polyurethane.
+■ Armored
+■ Coaxial
+■ Low-noise
+■ Mineral-insulated hardline
+■ Multi-conductor
+■ Submersible
+Series 481 & 498
+■ AC-powered
+■ 8 or 16 channels
+■ Many options available
+including switched output
+■ Can operate with charge
+output sensors
+■ Daisy-link multiple racks for
+up to 256 channels
+Series 482C
+■ AC-powered
+■ 4-channel
+■ Variety of gain &
+filtering configurations
+■ Can operate with
+charge output sensors
+Series 480
+■ Battery powered
+portability
+■ Up to 3 channels
+■ Gain of x1, x10, x100
+Series 100A02
+■ Pressure indicator/controller
+■ AC or DC-powered
+■ Provides 24 VDC excitation
+■ Optional 4-20 mA output
+■ Optional programmable relays
+Series 8162
+■ DC-powered
+■ Provides strain gage excitation
+■ Strain gage signal conditioner
+■ Voltage & 4-20 mA outputs
+Series 8159
+■ Force indicator/controller
+■ AC-powered
+■ Provides strain gage excitation
+■ ± 10 VDC & 4-20 mA outputs
+■ Four programmable set points
+Series 421A11
+■ Rugged-duty industrial charge amplifiers
+■ DC-powered
+■ 1 or 3-channel configurations
+■ Electronic reset for machinery control applications
+■ Sealed aluminum enclosure
+Series 422E
+■ In-line charge converters
+■ Operate with ICP® sensor signal conditioners
+■ Choice of many charge conversion values
+■ Single ended & differential styles
+Series 443B
+■ Laboratory
+charge amplifiers
+■ AC-powered
+■ Ultra low noise
+■ Multiple filter settings
+■ Signal integration
+■ Serial communication to PC
+Signal Conditioners, Cables & Accessories
+PCB® provides the appropriate signal conditioning necessary for sensor excitation and to prepare measurement signals for readout,
+recording, analysis, or control. Available features include gain, integration, filtering, weighting, biasing, alarm relays, zero clamping, and
+conversion to rms or peak values. Additionally, essential cables and accessories to support a successful installation are typically available
+from stock for immediate delivery. Customized equipment is also available to satisfy unique requirements.
+Model 485B36
+USB Signal Conditioner
+■ Simplified data acquisition
+■ Utilizes USB port to provide
+2-channels of ICP® sensor
+power
+■ Interfaces directly to laptop
+sound card or uses BNC
+breakout cable
+Model 480A25 Preamplifier
+Power Supply
+■ 0 & 200 V polarization voltage
+■ 0, 20 & 40 dB gain
+■ 7-pin LEMO input connector
+■ Extended battery life (40 hours)
+■ Selectable flat(Z), A & C
+weighting
+■ 8.02” L × 4.10” W × 1.29” H
+(204 × 104 × 32.8 mm)
+Model 482C27
+■ Bridge/Differential and ICP
+■ AC powered
+■ 4-channel with gain
+■ Compatible with Full, ½, and ¼
+Bridge Sensors
+■ AC/DC Coupling, Auto Zero and
+Auto Balance
+40 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Calibration Test Services
+& Equipment
+Shock, Vibration, Acoustic, Pressure, Force & Torque Sensors
+■ Full in-house calibration capabilities
+of PCB® & competitor models
+■ A2LA accredited to ISO 17025
+for most services
+■ NIST & PTB traceability
+■ ISO 9001 certified
+■ Specialized testing services
+■ Sensor performance evaluation testing
+■ Expedited services upon request
+■ Calibration workstations
+& turnkey systems
+■ Environmental stress chamber testing
+for HALT/HASS/ESS
+■ High amplitude Hopkinson bar
+■ Acoustic & sound level meter testing
+■ Shock tube, hydraulic step, pneumatic
+pulse & absolute calibration
+■ Torque sensor, load cell & strain
+gage calibration
+Highlights
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 41
+Calibration Test Services & Equipment
+Vibration & Shock Sensor Testing
+■ Elevated & cryogenic temperatures
+■ High pressure static hydro
+■ Linearity determination
+■ Low amplitude back-to-back
+■ Piezoresistive calibration
+■ Primary calibration
+■ Random vibration screening
+■ Sensitivity & frequency response
+calibration
+■ Sensitivity & phase response
+■ Single point sensitivity
+■ Primary accelerometer calibration
+Acoustics &
+Instrument Testing
+■ Microphone Electrostatic Calibration
+■ Electrostatic actuator method
+■ Voltage insertion method
+(IEC 601094 compliant microphones)
+■ Sound Level Meter Calibration
+■ Calibration of sound level meters, dosimeters,
+HVM100 human vibration meter
+■ Pistonphone Method
+■ 134 dB SPL reference at 250 Hz
+■ Accuracy of 0.45 dB of reading
+Calibration Test Services & Equipment
+PCB® provides calibration and test services for sensors and signal conditioners, according to recommended practices, and to either NIST or
+PTB, and ISO 9001 standards. Additionally, a variety of calibration equipment is available for customers wishing to conduct their own sensor
+calibrations. PCB® can also provide calibration services for other manufacturers’ sensors. Most calibration services are accredited by A2LA
+to ISO 17025, as documented on the company’s A2LA “Scope of Calibration.” In addition, PCB® offers a number of portable, handheld sensor
+calibration instruments. For more information on available products and services, please consult the factory.
+Environmental Stress Chamber
+HALT, HASS & other thermal chamber
+tests on prototypes and production output
+Primary Accelerometer Calibration
+Accelerometer is mounted to an air-bearing
+shaker beneath a laser vibrometer
+High-amplitude Hopkinson Bar
+Linearity & zero shift tests with exposures
+to impact shocks of more than 100k g
+Low-frequency
+Accelerometer Calibrator
+6” (152 mm) stroke shaker provides
+displacement for calibrations to 0.5 Hz
+Microphone Electrostatic Calibration
+Test base & enclosure isolates unit under test
+from ambient noise and adjusts for barometric
+pressures, while voltage insertion generates
+excitation for comparative results
+Instrument Calibration
+Instrument calibrations are
+NIST traceable, with calibration services
+compliant with ISO 17025
+Pistonphone Kit - Model 915A01
+Generates a constant sound pressure level
+at a controlled frequency for calibrating
+high-intensity acoustic sensors in the field
+Dynamic Pressure Sensor
+Calibration Services
+■ Pneumatic Pulse Method (low pressure)
+Series 903B02
+■ Strain gage pressure sensor reference
+■ 0 to 100 psi (0 to 0.7 MPa) range
+■ Accuracy to 0.8% FS
+■ Dynamic Step Pressure Method
+(medium pressure)
+Series 907A07
+■ Aronson shockless step pressure generator
+■ Strain gage pressure sensor reference
+■ 0 to 1000 psi (0 to 7 MPa) range
+■ Accuracy to 1.3% FS
+■ Hydraulic, Dynamic Impulse Method
+(medium pressure)
+Series 913B02
+■ Piezoelectric pressure sensor reference
+■ 0 to 20k psi (0 to 138 MPa) range
+■ Accuracy to 1.3% FS
+■ Hydraulic, Step Method (high pressure)
+Series 905C
+■ Strain gage pressure sensor reference
+■ 0 to 100k psi (0 to 690 MPa) range
+■ Accuracy to 1.7% FS
+Static Pressure Testing &
+Calibration Services
+■ Hydraulic Deadweight Tester Method
+(medium pressure)
+■ 0 to 15k psi (0 to 138 MPa) range
+■ Accuracy of ± 1.0% FS
+■ Pneumatic Comparator (Nitrogen gas)
+■ 0 to 10k psi (0 to 69 MPa) range
+0.021% FS accuracy
+■ 0 to 1000 psi (0 to 7 MPa) range
+0.015% FS accuracy
+42 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Calibration Test Services & Equipment
+Hydraulic Step Pressure Calibrator
+Model 905C
+High-pressure pump exposes unit under test to
+graduated pressure steps with a dump valve
+for rapid, full-scale pressure release
+Pneumatic Pulse Calibrator
+Model 903B02
+Manually actuated poppet valve exposes
+sensor under test (installed in a small
+volume manifold) to the step reference
+pressure, contained & regulated within
+a much larger storage cavity
+Shock Tube - Model 901A10
+Helium shock wave is generated past a
+burst diaphragm to create sub-microsecond
+pressure steps for evaluating various sensor
+performance characteristics such as rise
+time & resonant frequency
+Medium Pressure Hydraulic Impulse
+Calibration (to 20k psi) -Model 913B02
+The piston rod on top is struck by a mass to
+generate a pressure pulse in the two-port
+manifold for reference comparative calibration
+Specialized Pressure Calibration & Testing
+In addition to the services listed below, PCB® is also able to perform a number of special calibration and testing services, upon request.
+These include acceleration sensitivity; Ballistics firing range; cold gas shock tube; discharge time constant; temperature effects from
+–320 to +1,000 °F (-196 to +535 °C); hydrostatic and hermeticity; mechanical shock; and PIND (Particle Impact Noise Detection).
+Static Pressure
+Comparison Calibration
+Pressure sensor is exposed to nitrogen
+pressurized manifold with output compared
+to reference standard sensor
+Aronson Step Pressure Calibrator
+Series 907A07
+A guided mass impacts a plate, which
+quickly opens a poppet valve. This exposes
+the sensor under test (installed in a small
+volume manifold) to the step reference
+pressure, which is contained & regulated
+within a much larger storage cavity.
+PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com 43
+Calibration Test Services & Equipment
+Dynamic Strain Sensor
+Calibration Services
+■ Strain gage reference
+■ For Series 240 & 740 ICP® strain sensors
+Dynamic Force Sensor
+Calibration Services
+■ Strain Gage Reference
+■ 10 to 100k lb (445 to 450k N range)
+■ 1.0 % FS accuracy
+Torque Sensor
+Absolute Calibration
+■ Torque arm method, where known
+weights are applied from a beam
+at known distances from the
+sensor's axis of symmetry
+■ 10 to 25k in-lb (1.10 to 2800 N-m) range
+0.04% FS accuracy
+■ 25k to 100k in-lb (11,300 to 56,500 N-m) range
+0.14% FS accuracy
+■ 100k to 300k in-lb (0 to 33,896 N-m) range
+0.09% FS accuracy
+Static Load Cell
+Absolute Calibration
+■ Deadweight 10 to 500 lb (45 to 2230 N),
+0.04 % FS accuracy
+■ Back-to-back to 100 to 10k lb (2230 to 45k N)
+0.06% FS accuracy
+■ Back-to-back to 10k to 100k lb (45 to 450k N)
+0.08% FS accuracy
+Dynamic Strain, Force & Strain Gage Torque & Load Calibrations
+PCB® offers calibration services for dynamic strain and force sensors, as well as strain gage torque sensors and load cells. Each dynamic
+strain or force sensor is provided with a five-point ascending compression calibration. Sensitivity and non-linearity data are reported.
+Tension calibration may be supplied upon request. Strain gage torque sensors are calibrated in both clockwise and counterclockwise
+directions. Strain gage load cells are calibrated in both tension and compression. Sensitivity, non-linearity, hysteresis, and shunt calibration
+data are provided for static sensors.
+Comparison Calibration
+A large, hydraulic press generates
+compressive loads for reference
+comparative testing
+Torque Sensor Absolute Calibration
+Otherwise know as a “torque arm”,
+known weights are suspended from
+the beam at known distances from the
+sensor’s axis of symmetry
+Load Cell Absolute Calibration
+Accurate dead weights are utilized for
+testing against basic physical parameters
+Dynamic Strain Sensitivity Calibrations
+A known strain input is placed on the sensor, and sensitivity measured via reference sensor
+Workstation & Turnkey Systems
+Calibration Test Services & Equipment
+44 PCB Piezotronics, Inc. Toll-Free in USA 800-828-8840 716-684-0001 www.pcb.com
+Calibration Workstations & Turnkey Systems
+In addition to the calibration and test services offered by PCB®, a number of calibration workstations and turnkey systems are available
+through sister company The Modal Shop. These systems are designed to offer automated, quality calibrations, which conform
+to recommended industry standards, and are available for rental or purchase. For more information on the products shown here, call
+(513) 351-9919 or visit www.modalshop.com.
+Model 9155C
+Turnkey Accelerometer Calibration Workstation
+■ Accurate NIST or PTB traceable calibrations from 0.5 Hz to 20k Hz in less than one minute per axis
+■ Supports variety of accelerometer sizes & types and prints certificates compliant with ISO 17025
+■ Automates TEDS sensor updating
+■ Achieves 0.85% uncertainty with primary laser calibration
+■ Configure a system for any budget with customizable options
+Model K394A30/31 Air Bearing Shaker (shown)
+■ High quality, calibration grade air bearing exciter easily adjusts to a wide range of sensor sizes
+■ 70k Hz mounted resonance of reference provides linearity over large frequency range
+■ Meets ISO 16063-21 recommendation for transverse motion
+Model 9155C-525
+PneuShock™ Shock Accelerometer Calibration System
+■ Provides calibration & linearity check from 20 to 10k g
+■ Pneumatically actuated exciter provides controlled & consistent impacts
+■ Electronic control of projectile drive pressure & pulse width
+■ Conforms to ISO 16063-22 shock calibration standard
+■ Stand-alone version available as Model 9525C PneuShock™
+Model 9100C
+Portable Vibration Calibration System
+■ Perform frequency & amplitude calibration with adjustable settings
+■ Acquire NIST traceable measurements with reliable instruments
+■ Displays information for acceleration, velocity & displacement
+■ Excel macro generates ISO 17025 compliant calibration certificates (K9100C)
+Model 9350C
+Turnkey Microphone Calibration Workstation
+■ Provides conformance testing for traditional & ICP® preamplifiers
+■ Ensures accurate NIST traceable calibrations up to 100k Hz
+■ Automates calibration of 1/4”, 1/2” & 1” precision condenser microphones & pistonphones
+■ Prints certificates compliant with ISO 17025
+Modal Shakers & Accessories
+■ 100 lbf modal shaker with through-hole armature for easy connection to stingers
+■ 5 lbf shaker with integral amplifier in compact portable package
+■ 6” long stroke shaker for ultra-low frequency applications
+■ Handheld 1g pk shaker for system sensor verification
+
+
+
+
+
+
+
+DuckDuckGo
+
+
+
+
+
+
+
+
+Images
+Videos
+
+⇶
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Region
+
+⬆
+
+
+
+
+
+
+
+
+
+
+
+
+PDF Automotive Sensors & Instrumentation☑
+
+PCBĂ manufactures accelerometers, force sensors, load cells, microphones, pressure transducers, strain sensors, torque sensors, signal conditioners control, and more Model 480B21 3-channel, battery powered with gain x1, x10, x100 Model 480E09 Single channel, battery powered with...
+
+
+pcb.com/Linked_Documents/PCB/Catalog/Auto_S_ICAT_...
+
+
+
+PDF Automotive Component & System Performance Sensors☑
+
+PCBĂ manufactures accelerometers, force sensors, load cells, microphones, pressure transducers, strain sensors, torque sensors, signal conditioners, cables and accessories designed to meet all your component and system performance testing requirements.
+
+
+pcbpiezotronics.co.uk/Linked_Documents/AutomotiveSensors/AUTO_P...
+
+
+
+PDF Larson Davis☑
+
+PCB specializes in the design and manufacture of all types of sensors (pressure, force, load, vibration, and strain). They will also function with any existing ICPĂ sensor power supply. The 130D20 and 130D21 are array microphones with integral preamplifiers.
+
+
+pcenvironmental.co.uk/Downloads/Brochures and Spec...
+
+
+
+PDF Data & Telecommunications☑
+
+The clamp can be used with any measurement instrument which has a BNC input and an impedance of 1MΩ, <100pF. Fluke 80K-40 High Voltage Probe FLU,80K-40 (1219) AU 1000 watt electronic load. 2 x 4 digital input types. 2 x serial sensor ports, Modbus capability, 4 x SDI12 channels, USB memory...
+
+
+techrentals.com.au/pdf_files/TechRentals-Equipment-Solutions...
+
+
+
+Patent US7623987 - ...employing one or more of accelerometers...☑
+
+Also, strain gages and load cells (which are usually made using strain gage bridges) can also be incorporated into sensors herein: the former 45, a force measuring sensor such as a microphone or accelerometer generates a voltage signal indicative of the spectra such as within FIGS.
+
+
+encrypted.google.com/patents/US7623987
+
+
+
+PDF Meggitt Sensing Systems☑
+
+Accelerometers · Acoustics · Pressure sensors · Signal conditioners · Electronics · Calibration · LVDTs · Cables Test and measurement product catalog Meggitt PLC Meggitt Sensing Systems The Meggitt group, comprising a 10,000-plus workforce over 40 operating sites worldwide...
+
+
+endevco.com/download/Meggitt-Sensing-Systems-2012-cat...
+
+
+
+PDF Sensor Technologies & Instrumentation☑
+
+WWW.PCB.COM Sensor Technologies & Instrumentation Sensors for Acceleration, Acoustics, Force, Load, Pressure, Shock, Strain, Torque & Vibration PCB Piezotronics, Inc. manufactures accelerometers, force sensors, load cells, microphones, pressure transducers and transmitters...
+
+
+mediaserver.voxtechnologies.com/FileCache/PCB-352C22-datasheet1-123678651...
+
+
+
+PDF User's Manual: Hardware☑
+
+21 Chapter 9. Headers 9.1. PMODTM Interfaces Two Digilent PMODTM (Interface Type 2A, expanded SPI) Contributors include: Analog Devices supplied the ADXL345 3-Axis Accelerometer, SSM2167 microphone preamplifier and ADMP401 digital microphone as well as the ADT75 temp sensor and...
+
+
+arrownac.com/solutions/renesas-bug-labs/files/renesas_...
+
+
+
+PDF Analog & Memory Companion Chips for STM32☑
+
+conditioning amplifier Pressure sensors LPS001WM: MEMS pressure sensor:300 The outputs of the STM32 can be configured as open drain and, depending on the reference 5ppm after 2 reflows (performed at ST fab for snaphat RTC versions) ¸ 100th and 10th of seconds time granularity ¸ Allows.
+
+
+element14.com/community/servlet/JiveServlet/previewBody...
+
+
+
+PDF Operation Manual for☑
+
+Piezotronics Inc., e.g. 393A03 (1V/g) or 393B31 (10V/g) · Microphone 40AE with preamplifier 26CA from G.R.A.S. Sound and Vibration The connection of any other device may cause Accelerometer/Microphone Inputs The ICPÒ interface connectors supply a constant DC current to the sensors.
+
+
+gmw.com/magnetic_measurements/Bartington/pdf/OM20...
+
+
+
+PDF Renesas Demonstration Kit (RDK) for RX63N☑
+
+Axis Accelerometer (Digital) User pushbutton switches • Communications o o o o o o 10/100 Ethernet Digital Temp Sensor The RDK has component placement options for two Analog Devices digital The serial port is configured in DCE mode allowing direct connection to a PC without a Null modem.
+
+
+farnell.com/datasheets/1674424.pdf
+
+
+
+PDF Monitoring Instrumentation and Techniques Background document D5.1☑
+
+21 Sustainable Bridges SB-5.1 2007-11-30 Rev. 6.6 Other applications Barometric pressure sensors, light sensors as well as gas sensors are available and still used in practice. The operating ranges of the pressure cells are 0-50 kPa, 0-100 kPa and 0-500 kPa.
+
+
+transport-research.info/Upload/Documents/201203/20120302_100848_4...
+
+
+
+PDF TCS5500☑
+
+20. VGA connector: service applications only 21. A number of external devices, like a CD player or a microphone with preamplifier, could be connected to the auxiliary input. One loudspeaker is connected to port 1 and the other to port 3. When so configured in the operational control suite...
+
+
+listentech.com/static/media/uploads/support...
+
+
+
+PDF National Instruments UK UK Price List☑
+
+SCXI-1349 USB-232/2, 2-PORT USB to RS232 converter drivven esttl module kit Ratio GRAS 1/4" Pressure response microphone: 1.6MV/pa GRAS 1/2" pressure 100M at-gpib/tnt, NI-488.2 for windows nt(intel), 2M X2 cable labview internet...
+
+
+download.ni.com/pub/branches/uk/pricelist/uk_pricelist.pdf
+
+
+
+PDF ARTA | 1.5.3 Calibration of the Microphone☑
+
+3) Microphone, microphone preamplifier and microphone calibrator have to be in the class defined in standard IEC 61672-1. Cheap electret microphone can be used for IEC class II measurements in restricted SPL range ( LA = 40-120 dB).
+
+
+artalabs.hr/download/arta-user-manual.pdf
+
+
+
+PDF User's Manual☑
+
+Strap hook LEDs Light sensor Microphone Speaker Following installation of the TinyOS tools, the Plug one of the units into your USB port. If Windows displays the "Found New Hardware Wizard" The power is related to the peak voltage by 20 Hz 0.01 0.01 V PL = Peak 2 RL 0.001 20 100 1k f...
+
+
+automatica.dei.unipd.it/public/Schenato/PSC/2010_2011/gruppo4-Bui...
+
+
+
+Technical Articles: Category wise listing-Articles segregated amongst...☑
+
+This sensor can measure forces between 1kN and 100kN. Source: Non EFY. Portable Battery Charger via USB Port Almost all devices like mobile phones or iPods can be charged by this tiny USB battery charger through USB and by using only two AA cells.
+
+
+electronicsforu.com/Electronicsforu/articles/categoryTree.asp...
+
+
+
+PDF Owners Manual and Set-up Guide Genesis 2.2 Loudspeaker System☑
+
+The technology has been constantly updated and refined over the past 40 years. The concept of our servo bass system is an easy one to understand: It employs an accelerometer as a sensor to constantly monitor the movement of the woofer cone and continuously compares it to the input signal.
+
+
+genesisloudspeakers.com/ownersmanuals/G2.2_Owners_Manual_v2.pdf
+
+
+
+PDF To view our item listings on eBay, click here.☑
+
+Input Modules can have bandwidths of either 25 kHz or 100 kHz. Single-channel input modules are IEC 68-2-3: Damp Heat: 20 to 90% RH (non-condensing at 40°C) Non-operating: IEC 68-2-6 range of microphones, accelerometers, shakers, force-transducers and impact-hammers Type 3541...
+
+
+pearl-hifi.com/07_Facility_Tour/B_K_2035.pdf
+
+
+
+XLSX blogs.msdn.com/cfs-filesystemfile.ashx/__key/communityserver...☑
+
+Demonstrates how to load a custom font embedded in an application using DirectWrite. This application Demonstrates how to use the Portable Device APIs to work with portable devices. Windows 7 Sensor and Location API Part 2 - Accelerometer as a Joystick.
+
+
+blogs.msdn.com/cfs-filesystemfile.ashx/__key/communityse...
+
+
+
+Download Browse Nodes for Amazon.com AWS☑
+
+0.5W 5.1V DIP Zener Diodes Voltage Regulator 100 Pcs. 4PORT Intelligent Sms Server Guad Band Gsm/sprs Cell for Gb/ie. 4PORT USB 2.0 Hub Drive Bay Dark Gray. AUTO-VOX B40 A118 G-sensor Night Vision Motion Detection Dash Cam.
+
+
+browsenodes.com/listcategory-cetitle.html
+
+
+
+PDF International Doctorate School in Information and Communication...☑
+
+MEMS sensors (accelerometers) utilize analog force-feedback [65, 69, 70] by making use of the symmetry in their micro-mechanical structure. Simulink Model of MEMS Microphone & + bx & + k ( x − x0 ) = m& x εA(VB − VFB ) 2 x 2 This is due to 100 the single-ended structure of the MCM sensor.
+
+
+eprints-phd.biblio.unitn.it/82/1/thesis_mems_microphone_readout.pdf
+
+
+
+ADSP-21367 | datasheet and product info High-Performance 32-bit...☑
+
+High Output Current Amplifiers ≥ 100mA (Parametric Search). Analog Devices microphone preamplifiers provide a high fidelity, high performance solution ADI magnetic field sensors combine integrated bulk Hall cell technology and instrumentation circuitry to minimize temperature related drifts.
+
+
+analog.com/en/products/processors-dsp/sharc/adsp-213...
+
+
+
+PDF User's Manual: Hardware☑
+
+The serial port is configured in DCE mode allowing direct connection to a PC without a Null modem. Analog Devices supplied the ADXL345 3-Axis Accelerometer, SSM2167 microphone preamplifier and ADMP401 digital microphone as well as the ADT7420 temp sensor and ADM3101E RS-232 line...
+
+
+documentation.renesas.com/doc/products/tools/r20ut2533eu0100_yrdkrl...
+
+
+
+PDF Operating Manual and Programming Reference☑
+
+The reference graph can be loaded by copying the current live data or by copying a stored trace. The SR550 has an input impedance of 100 MΩ and is AC coupled above 1 Hz. Transducers (such as accelerometers or microphones) convert a physical quantity (such as acceleration or pressure) into...
+
+
+thinksrs.com/downloads/PDFs/Manuals/SR780m.pdf
+
+
+
+Patent US7092846 - Systems and methods for determining...☑
+
+24. A system of claim 1, the sensors comprising a pressure sensor. Also, strain gages and load cells (which are usually made using strain gage bridges) can also be incorporated into sensors herein A motion sensor, e.g., a microphone or accelerometer, attaches to the vehicle, preferably pointing...
+
+
+google.com.cu/patents/US7092846
+
+
+
+PDF GE Security☑
+
+RJ31X Jack, Owner's Video, (3) SAW Door/Window Sensors and (1) SAW Pet Immune PIR Motion Terminal Block Included w/Sensor, 10-Pack SAW 4-Button Keychain Touchpad Provides Portable (1) Serial Port, (4) Alarm Input, (2) Alarm Output, 4 Input x 2 Output Audio Ch UltraView Recorder 40...
+
+
+americanalarm.com/documents/prices/American_Alarm_GE_Securi...
+
+
+
+PDF Acc M Icro☑
+
+...MAX 5000 Family • 600-3,750 usable gates • High register count • 24-100 pins • Performance: 83.3MHz • 0.65 Ám The company also offers 64K, 213K, and 1M EPROMs designed to configure its. It is a leading developer and manufacturer of pressure sensors, accelerometers, valves, and custom...
+
+
+smithsonianchips.si.edu/ice/cd/PROF97/NORTHAM.pdf
+
+
+
+PDF User's Manual: Hardware☑
+
+The serial port is configured in DCE mode allowing direct connection to a PC without a Null modem. Contributors include: Analog Devices supplied the ADXL345 3-Axis Accelerometer, SSM2167 microphone preamplifier and ADMP401 digital microphone as well as the ADT7410 temp sensor...
+
+
+microelectronicos.com/datasheets/RDKRL78-Manual.pdf
+
+
+
+PDF Imb-9454g-r40☑
+
+...purposes only and may be trademarks and/or registered trademarks of their respective owners. ATA 100 devices Eight USB 2.0 connectors supported Six COM ports Page 5 IMB-9454G-R40 Serial Ports The IMB-9454G has six high-speed UART serial ports, configured as COM1, COM2, COM3...
+
+
+lima.com.tr/IEI/Single Board...
+
+
+
+
+
+
+PDF Quality Ceramics Start Here☑
+
+End markets include oxygen sensors, fuel cells, advanced plasma coatings, textile machinery, wire drawing, and seals. Imerys Refractory Minerals 100 Mansell Ct E Ste 615 Roswell GA US 30076 770-225-7923 Fax: 770-225-7901 877-800-4629 Fax...
+
+
+ceramics.org/wp-content/uploads/2014/12/ceramicSOURCE2...
+
+
+
+PDF For the Life Sciences☑
+
+It's possible to simultaneously measure EMG with signals from force plates, load cells, and pressure transducers. Analog outputs from chart recorders, preamplifiers, oscilloscopes, force plates, chromatographs, etc. can be connected to the UIM100C module.
+
+
+biopac.com/Manuals/research_catalog.pdf
+
+
+
+EBV Makes Sense☑
+
+Patented online diagnoses for pressure cells Circuitry with low-noise accelerometers offer a wide range of performance for portable devices. At only 2 x 2 mm 14 High accuracy pressure sensing up to +/- 1.0 kPa Integrated temperature sensor Pressure ranges 40...115 kPa and 60...165 kPa Wide...
+
+
+ebv.com/fileadmin/design_solutions/php/download.p...
+
+
+
+Scientific satellites☑
+
+Typical satellite-borne sensors are micrometeor- oid microphones, magnetometers The basic solar-cell sandwich-transparent cover, n-layer, n-p junction region, p-layer, 1- x 2-centimeter area (fig. The skeleton is the satellite's load-bearing foundation, upon which equipment and sensors are mounted.
+
+
+slideshare.net/cliffordstone/scientific-satellites
+
+
+
+PDF Analog & Memory Companion Chip for STM8 & STM32☑
+
+3MHz USB Switching charger for Li-Ion & Li-Polymer STBC21* - 1.2A Linear conditioning amplifier Pressure sensors LPS001WM: MEMS pressure sensor:300 - 1100 mbar absolute digital The outputs of the STM32 can be configured as open drain and, depending on the reference voltage of...
+
+
+emcu.it/STM8and32companionChip/STM8and32_associat...
+
+
+
+lisleelectric.com/inventory/Electrical/1504_Miscellaneous☑
+
+New fluke 719 100G portable electric pressure calibrator us auth. Price: $36.81. Price: $40. Really easy data - red data collectors - force sensor - vwr inte. Price: $168.21. Kistler charge amplifier 5038 for accelerometer or load cell sen.
+
+
+lisleelectric.com/inventory/Electrical/1504_Miscellaneous/
+
+
+
+Microphone | QuickiWiki☑
+
+Certain ribbon and dynamic microphones are exceptions, due to the designers' assumption of a certain load impedance being part of the internal electro-acoustical damping circuit of the microphone.[40][dubious - discuss]. Yaw-rate sensor. Position, angle, displacement. Accelerometer.
+
+
+quickiwiki.com/en/Microphone
+
+
+
+PDF Connecting minds for global solutions☑
+
+The DS Sentry can be integrated with seismic accelerometers and microphones and user-programmed to continuously monitor for signals with The sensors were mounted in different layers of a shock tube, side by side with the reference sensors, to measure a rapidly increased pressure.
+
+
+spie.org/Documents/ConferencesExhibitions/DSS11...
+
+
+
+STMicroelectronics Overview☑
+
+USB6B1 - USB port protection. USBLC6-2 - Very low capacitance ESD protection. LPY410AL - MEMS motion sensor: dual-axis pitch and yaw ±100 dps analog gyroscope. MP45DT01 - MEMS audio sensor omni-directional digital microphone.
+
+
+angliacomponents.com/st/index.asp
+
+
+
+AES Los Angeles 2014 » 137th AES Convention Exhibitors & Sponsors☑
+
+CharterOak uses a 100% made in the U.S.A. production model including the raw materials. PCB Piezotronics is a designer, manufacturer, and global supplier of accelerometers, microphones, and force, torque, load, strain, and pressure sensors, as well as the pioneer of ICP® technology.
+
+
+aes.org/events/137/exhibitors/list.cfm
+
+
+
+Index☑
+
+24Bit Onboard Effects ALLEN & HEATH ZED-18 10 Mono Mic/Line + Stereo, USB I/O 4 Aux Sends 100mm Pro Taper Faders. Extremely strong for heavier loads of lighting. Quick release pins for easy assembly. Dymanic Instrument Microphone w/ X2u XLR-to-USB Signal Adapter (SM58) SHURE...
+
+
+sixstardj.com/ind.html
+
+
+
+Multiple adc output - edaboard.com☑
+
+Analog Circuit Design :: 02-13-2014 21:37 :: mtwieg :: Replies: 1 :: Views: 317. Im reading a accelerometer with adc on port PA0 on a Atmega16. Im reading only X-axes. Hello, i have to redesign an existing multifunctional adc board (pressure sensors).
+
+
+search.edaboard.com/multiple-adc.html
+
+
+
+XLSX wheresgus.com/Field_content_BOM.xlsx☑
+
+Language. Desktop Apps. How Do I: Better Understand Using Pointers and References? C++. Language. Learn. How Do I: Use MFC to Implement Owner List Boxes and Combo Boxes? Windows 7 Sensor and Location API Part 2 - Accelerometer as a Joystick.
+
+
+wheresgus.com/Field_content_BOM.xlsx
+
+
+
+Retired - SparkFun Electronics☑
+
+Barometric Pressure Sensor Breakout - BMP180 Retail. Retired RTL-12623. PIC 40 Pin 48MHz 16K 13A/D USB - 18F4550. Retired COM-00233. We don't carry a direct replacement for this sensor but check out the flex/force category for more sof…
+
+
+sparkfun.com/categories/retired?page=all
+
+
+
+PDF UM0896 User manual☑
+
+...17 3 Microphone shutdown (PB2) G0 gain select for TS2012 (PD2) Analog output from microphone preamplifier (PB1) (ADC12_IN9). Signal USART_RDX_LX VCC_LV SCLK0_LV SSN0_LV 20/43 Doc ID 17009 Rev 2 UM0896 Table 21. To perform MEMS sensor data acquisition, one of the compatible...
+
+
+emproj.com/Documents/ARM/Application/UM0896.pdf
+
+
+
+DIPOL☑
+
+The 12 V 100 mA (output) stabilized power supply and the preamplifier (to be installed in the UHF antenna's box) are included in the set. The adapter/card is connected to USB port, so it is well suited for portable computers. Mobile DVR Protect 104 (4-ch, 2x SD slot, GPS, accelerometer).
+
+
+dipolnet.com/4344
+
+
+
+ISSUU - 2010 Chroma Product Catalog by Scott Pickus☑
+
+Power: 100W x 2(Dual), 300W & 400W Voltage Range: up to 80V High power density for mainframe Window Strobe Width VOL/VOH Reference Level Band Width Programmable Load IOL/IOH Setting chamber): to -40�C MEMS: Microphone, Accelerometer 6-15 All specifications are subject to...
+
+
+issuu.com/chroma/docs/products_2010
+
+
+
+VR-Zone Tech News for the Geeks May 2012 Issue☑
+
+The integrated sensors detect linear and angular motion so it doesn't matter which direction you fall or Gigabit Ethernet, a pair of USB 2.0 ports, a memory card reader,aDisplayPort(DP++compatible) Upgradable Other 2.5'' 8 9.6" x 9.6" (Micro ATX), 12" x 9.6" (ATX) USB 3.0 x 2, USB 2.0 x 2, eSATA x...
+
+
+slideboom.com/presentations/650361/VR-Zone-Tech-News-fo...
+
+
+
+Nouveaux circuits☑
+
+* Industry first 40A PMBus-compliant point-of-load single-in-line voltage regulator * Designed for The Magnalight EPL-FL1524-LED-100-1523 Hazardous Area LED Work light is U.L. approved Class 1 Division... LSM330DL: Linear Sensor Module: 3D Accelerometer Sensor And 3D Gyroscope Sensor.
+
+
+abcelectronique.com/composants/nouveaux_circuits.php?d=201108
+
+
+
+capacitance: Topics by WorldWideScience.org☑
+
+A design for a microphone preamplifier for application in hearing aids is presented. The amplifier operates at a supply of 1-1.5 V, the current drain is 40 ?A. The maximum sound level The gas slug velocity is determined through a cross-correlation technique using two identical capacitance sensors.
+
+
+worldwidescience.org/topicpages/c/capacitance.html
+
+
+
+Samsung Téléphone Mobile Smartphones Samsung Galaxy...☑
+
+3 Select Portable Wi-Fi hotspot settings→ Configure portable Wi-Fi hotspot to configure network settings to use your device as an access point. Panel posterior RANURA DE DISCO USB HOST PANTALLA SENSOR DE MANDO A DISTANCIA O produto tenta verificar a ligação à rede e falha.
+
+
+audentia-gestion.fr/SAMSUNG/Samsung-Telephone-Mobile-Smartpho...
+
+
+
+PDF Audiometer Calibration System☑
+
+Audiometers and their many sensor types will also be entered. The Larson Davis AEC100 artificial ear coupler is ideal for a lightweight portable calibration system. A microphone measures forces not pressures. We would like the microphone to measure sound pressure (force per unit area)...
+
+
+grom.com.br/downloads/larson_davis/SYS/MANUAL/Audit_M...
+
+
+
+PDF UM0896 User manual☑
+
+...17 3 Microphone shutdown (PB2) G0 gain select for TS2012 (PD2) Analog output from microphone preamplifier (PB1) (ADC12_IN9). 20/43 Doc ID 17009 Rev 2 www.BDTIC.com/ST UM0896 Table 21. Web server showing pages with pictures and also data acquired from MEMS sensor Server/clients...
+
+
+bdtic.com/DownLoad/ST/UM0896.pdf
+
+
+
+December 2012 - Silicon Chip Online☑
+
+Rather, this is achieved by configuring its ADC to sample its internal (nominal) 1.024V reference in relation to its supply voltage. 433MHz wireless transmission up to 40m • Includes 2 x D batteries for transmitter • Display unit uses mains power or requires 3 x AAA batteries • Max sensor current: 100A...
+
+
+siliconchip.com.au/Issue/2012/December
+
+
+
+argonofficesupplies.com☑
+
+Cord Part Number: PS240406 4-port 10/100 Ethernet Switch HWIC Part Number: HWIC-4ESW Part Number: PMSA20 50 Watts Portable, USB Waist-Band Portable Pa System With A Headset G b&g b&g 508 wind sensor for triton, IS20 and IS40 systems b&g H50 wireless handset...
+
+
+argonofficesupplies.com/ind.html
+
+
+
+PDF IMB-9454G Motherboard☑
+
+...two Ultra ATA 100 devices Eight USB 2.0 connectors supported Six COM ports One PCIe x16 graphic port One PCIe and 2.88MB 2.10 Serial Ports The IMB-9454G has six high-speed UART serial ports, configured as COM1, COM2 I/O control devices including sensors, lights, alarms and switches.
+
+
+orbitmicro.com/download/resources/IMB-9454G_Manual.pdf
+
+
+
+Discover Wi-Fi User Manual | Forum☑
+
+...ST MEMS audio sensor, omnidirectional digital microphone • CS43L22, audio DAC with integrated. Connect the module to your PC using the USB to serial cable, a serial port should be detected on 26 | P a g e Hyper-terminal will display the receving confirmation of 100UDP packets on CLIENT side.
+
+
+electronix.ru/forum/index.php?act=attach&id=82909&type=...
+
+
+
+ANALOGandDSP - News and Technical Information about Analog...☑
+
+STMicroelectronics Unveils Pressure Sensor Technology for Portable Devices Featuring Supertex Introduces Two AEC-Q100 Compliant LED Drivers for Automotive Solid-State Lighting. 11/21/2006. Ultra-Low-Power Precision Temperature Sensor from STMicroelectronics is Ideal for 3G Cell Phones.
+
+
+analoganddsp.com/results.asp?entryid=3844
+
+
+
+Electronic and Electrical Components☑
+
+The 5V output accuracy at the USB port is 1.0 per cent over the -40ºC to +125ºC temperature range. Application note: closed-loop 100A active load brute force marries controlled speed download. Linear Technology |Wed, 24 Sep 2014.
+
+
+source.theengineer.co.uk/electronic-and-electrical-components/3.su...
+
+
+
+PDF Pilot's Operating Handbook☑
+
+owner to maintain this handbook in a current status when it is being used for operational purposes. The oil pressure transducer, connected to the engine forward oil pressure port The unit contains accelerometers, tilt sensors and rate sensors that replace spinning mass gyros used in other aircraft.
+
+
+axenty.com/resources/PIM/C182T PIM (NAV III).pdf
+
+
+
+PDF UM0896 User manual☑
+
+...17 3 Microphone shutdown (PB2) G0 gain select for TS2012 (PD2) Analog output from microphone preamplifier (PB1) (ADC12_IN9). Signal USART_RDX_LX VCC_LV SCLK0_LV SSN0_LV 20/43 Doc ID 17009 Rev 2 UM0896 Table 21. To perform MEMS sensor data acquisition, one of the compatible...
+
+
+st.com/web/en/resource/technical/document/user_m...
+
+
+
+Electronics Jobs | | net-lancer.com☑
+
+Need you to integrate a USB male input into a AUX microphone design. Bosch BMP085 barometric pressure sensor predicting the likelihood of rainfall - repost Job Type: Electronics Design an amplifier circuit with 100V output on a 1K Ohm load Job Type: Electronics Employer: BerabinSystems.
+
+
+net-lancer.com/jobs/Electronics
+
+
+
+PDF Operation Manual for☑
+
+Microphone 40AE with preamplifier 26CA from G.R.A.S. Sound and Vibration. 2) 6. Charging indicator light 7. Charging socket for mains adaptor 8. USB port Figure 3: Spectramag-6 front panel. Figure 21 shows data before and after applying a filter.
+
+
+bartington.com/Literaturepdf/Operation Manuals/OM2021...
+
+
+
+Instrumentation engineers handbook☑
+
+Vibrating element pressure sensor cross-sectional diagram. They are so designed that each segment of the cross-section is provided with both an impact and a static pressure port. Impedance-based transducers such as strain-gage-based load cells, pressure transducers, accelerometers, and...
+
+
+everyspec.com/ARMY/UDS-and-RCC/download.php?spec=DOCUME...
+
+
+
+PDF The Draper Technology Digest☑
+
+...gyroscopes, accelerometers, hydrophones, microphones, angular displacement sensors, chemical sensors the first silicon micromechanical gyroscope to demonstrate resolution better than 100 deg/h in 60 Hz. to build gyroscopes, accelerometers, pressure sensors, and other high-volume products.
+
+
+draper.com/Documents/tech_digest_01.pdf
+
+
+
+Electrical Measurement & Instrumentation☑
+
+Generalized Instrumentation System. Novel pressure sensors. 40. What is a heat sink and how it improves the power rating of a resistor? 41. How an axial resistor behave at high frequencies? Batteries are the multiple-cell entities. The electrical driving force or across the terminals of a cell is...
+
+
+scribd.com/doc/122736037/Electrical-Measurement-Inst...
+
+
+
+PDF Acoustic Noise Associated with the MOD .. 1 Wind Turbine: Its Source...☑
+
+30 31 3-21 32 3-22 4-1 4-2 4-3 span total span lift Mach number order of total pressure barometric pressure acoustic (dynamic) pressure, reference pressure, 100 kPa The same preamplifier was also used with a back-sealed, Type 4144 microphone with a minimum frequency response of 0.1 Hz.
+
+
+nrel.gov/docs/legosti/old/1166.pdf
+
+
+
+Short question and answers | bibin chidambaranathan...☑
+
+If x is the ratio of actual load to full load then copper loss = x2(F.L copper loss) here Wc = (0.5)2 - 1600=400W. Digital (Touch ) Sensor and Analogue (Force) Sensor 48.What is a touch sensor? Load cell are devices that convert force into pressure , which are then measured.
+
+
+academia.edu/1741690/SHORT_QUESTION_AND_ANSWERS
+
+
+
+PDF VIBRONET Ž Signalmaster | Catalog☑
+
+Sensors (e.g. for temperature, pressure, flow, power, RPM, torque, acceleration, etc.) can Notes on the preamplifier For the multiplexer VIB 5.818-N and the multiplexer VIB 5.819-8x2, a preamplifier 40V) Recovery diode DC power supply Port_x FET GND_x Note When switching inductive loads (e.g...
+
+
+pruftechnik.com/fileadmin/user_upload/COM/Condition_Monit...
+
+
+
+PDF Instruction Manual☑
+
+PNEUMATIC SENSORS Note The 9110TH/M displays all pressures in inches of mercury absolute (inHg-A), i.e. absolute pressure referenced against zero (a perfect vacuum). Terminating resistors (100 kΩ ) on each of the inputs prevent cross-talk between the sensor signals.
+
+
+teledyne-ai.com/manuals/man_9110th.pdf
+
+
+
+PDF MEA Meeting 2012☑
+
+The key overall electronic performance parameters of the 100-channel prototype of the broadband wireless NI The small cross-section of the microchannels prevents the movement of cells between The fabrication process for strain, temperature and pressure sensors is identical to the stretchable...
+
+
+nmi.de/fileadmin/PDF/Broschueren/MEA2012_Proceed...
+
+
+
+PDF Guidebook on Detection Technologies and Systems for Humanitarian...☑
+
+650 g 4x1.5 V rechargeable 8 Ahrs D cells Yes Alkaline D-Cells Power 39. Power consumption: 40. Power supply/source: 41. Receiver characteristics: 21. Safety issues: 22. Other sensor specifications: Varies, most of the work to date has involved COTS electrodynamic shakers with 20 to 100 lb force...
+
+
+reliefweb.int/sites/reliefweb.int/files/resources/28886...
+
+
+
+PDF Meggitt Sensing Systems | Catalog☑
+
+Accelerometers · Acoustics · Pressure sensors · Signal conditioners · Electronics · Calibration · LVDTs · Cables Test and measurement product catalog Meggitt PLC Meggitt Sensing Systems The Meggitt group, comprising a 10,000-plus workforce over 40 operating sites worldwide...
+
+
+radiant.su/files/catalog/post/57_endevco.pdf
+
+
+
+PDF The Illustrated Dictionary of Electronics☑
+
+the one-port, cross-field, nonlinear type using a magnetron. circuit 1. A closed path through which current A configured-in device is available; a configured-out device is available, but is restricted to certain It uses machine vision, tactile sensors, pressure sensors, or high-precision displacement...
+
+
+rollanet.org/~n0klu/Ham_Radio/(ebook) Electronics -...
+
+
+
+PDF Earth Observation History on Technology Introduction☑
+
+18-21, 1999, pp. 267-272, ESA/ESTEC, Noordwijk, The Netherlands, (ESA SP-425, Feb. In addition to temperatures, TRIOs are used with pressure sensors in the propulsion system, and for 10---22, 2006) contains a remote sensor box, two tri---axial accelerometers, and two antenna assemblies as...
+
+
+read.pudn.com/downloads126/ebook/533128/Earth...
+
+
+
+PDF Composing with parameters for synthetic instruments☑
+
+129 Pressure sensors, commonly force-sensing resistors (FSR's), offer continuous control in one dimension. They can be combined into an isometric joystick (two degrees of freedom, three if twist is also measured) or a spaceball (six degrees of freedom, strongly cross-coupled; typical latency 40...
+
+
+citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.9697&rep=r...
+
+
+
+Repair Briefs 4 - 1☑
+
+1.5V 10KHz with no loading, so for general ESR use add 2x Ge diodes, crossed, over the input For "ESR" version 18R on probes 40mm from light meter sensor gave 1200 Lux. The Win7 complient driver opens ok under win7 and established a serial port as COM3 (in Device Manager) on plugging in.
+
+
+divdev.fsnet.co.uk/repair4_1.htm
+
+
+
+PDF Lecture Notes☑
+
+Strain, force, pressure and flow measurements. High impedance sensors. Electronics and Circuits 2014 12B.21 High Impedance Sensors Many popular sensors have output impedances They are popular in portable applications for measurement of battery and other critical system temperatures.
+
+
+services.eng.uts.edu.au/pmcl/ec/Downloads/LectureNotes.pdf
+
+
+
+Q478 datasheet & application note - Datasheet Archive☑
+
+Q478 datasheet, cross reference, circuit and application notes in pdf format. Field Configurable Output Ranges The Q478 can be field configured for virtually any frequency ... 529-592 Rotary Position Sensor and SinglFuseTM Thin Film Chip Fuses . . . sixteen CMOS 1M x 8 b its x 2 banks S D RAM s in 50-pin 40 ... OCR Scan.
+
+
+datasheetarchive.com/Q478-datasheet.html
+
+
+
+PDF Information to users☑
+
+References to the ports listed in Tables 6 and 7 are found throughout the software. A. Quinnell, "Silicon accelerometers tackle cost-sensitive applications", Electronic Design News 3 September 1992, p The scanner tubes were manufactured by Stavely Sensors Inc., of East Hartford, Connecticut.
+
+
+arizona.openrepository.com/arizona/bitstream/10150/186346/1/azu_td_9...
+
+
+
+
+
+
+todddunkel.com/isbn/isbnindex2042.html☑
+
+...ISBN: B0006WWPGY; TITLE: Wind tunnel force and pressure tests of a 21% thick general aviation Blunk; ISBN: B0006WYM60; TITLE: Workbook for approximate calibration of solar radiation sensors AUTHOR: Marcia Cervi; ISBN: B0006X2U4U; TITLE: Calibrating a six-port reflectometer with four...
+
+
+todddunkel.com/isbn/isbnindex2042.html
+
+
+
+PDF D ata A cquisition☑
+
+...example, a load cell with a 10 V excitation supply and a 2 mV/V gain factor generates an output of 20á mV at full load, whether the load cell was designed to handle 10, 100, or 1,000 lbs. TEDS capability was originally intended for piezoelectric sensors such as accelerometers and pressure sensors, but...
+
+
+mccdaq.com/pdfs/anpdf/Data-Acquisition-Handbook.pdf
+
+
+
+SysTEK | The catalogue of electronic components☑
+
+The ADMP621 is a high sound pressure level (SPL), ultralow noise, low power, digital output, bottom ported omnidirectional MEMS microphone. It can also be configured as a voltage mode controller with low noise and crosstalk for sensitive loads. The A. AD8306S, Aerospace 5 - 400 MHz, 100 dB...
+
+
+systek.ru/news.php
+
+
+
+PDF Manufacturing Profiles☑
+
+Presence sensors and motion measurement devices: Limit switches (positioning sensors) 1,219,626 r 121,255 126,810 3,902 7-46 Electronics 1998 Manufacturing Profiles U.S. Census Bureau Table 21. A pump in which the pressure is developed principally by the action of centrifugal force.
+
+
+census.gov/prod/2001pubs/mp98.pdf
+
+
+
+PDF TM7300 Series Notebook Computer☑
+
+...minijack speaker-out/line-out jack One USB port Optional External IR adapter Microphone or line-in device. disc format Loading mechanism Power Requirement Power supply voltage (V) 1.6.21 Table. It shall operate in shut down mode for the shorting of any de output pins. BMCVCC (5V) 0 ~ 0.5 100...
+
+
+tim.id.au/laptops/acer/travelmate 7300.pdf
+
+
+
+Патент US7984651 - Transducer array imaging system | Google Books☑
+
+Cross-reference to related applications. This application is related to U.S. patent application Ser. Probe 100 receiver circuitry (not shown in FIG. 1) may include a low-noise, high-gain preamplifier 206 for each receive channel Portable ultrasonic Doppler System. US4604697. 5 сер.
+
+
+google.com.ua/patents/US7984651
+
+
+
+PDF Product Catalog☑
+
+USB USB battery operating time >100 h microphone with LEMO7 microphone with LEMO7 alternative range 24 ... Therefore, the force transmission to the hand should be measured with an additional force sensor on a fourth measurement channel.
+
+
+sinusmess.de/download/Katalog_Web_E.pdf
+
+
+
+Quick search: T , Index 615 - SiteMap - ExChangeIC.com☑
+
+Each port configured as an LED... Complete with video controls (Sync, Blank, Reference White [Force High], Bright), the SPT1018 It includes microphone supply, preamplifier, 16-bit ADC, 16-bit DAC, serial audio interface, power management and clock management for the ADC and the DAC.
+
+
+exchangeic.com/mapList/T/615.html
+
+
+
+Full text of "Radio Electronics (May 1991)"☑
+
+osc. Undervoltage sensor -. 5V reference regulator. Heat and pressure will melt the toner and force it into the paper, giving you a fairly durable final hard copy. I remember seeing a JVC preamplifier with pink-noise source and multiband equalizer on sale in Macy's radio department.
+
+
+archive.org/stream/radio_electronics_1991-05/Radio_El...
+
+
+
+PDF G1000 Nav III Line Maintenance Manual☑
+
+The unit contains advanced tilt sensors, accelerometers, and rate sensors. Replace that sensor (reference Cessna Aircraft Maintenance Manual for instructions). HIGH RES & HIGH RNG LOAD CELL CAL: Shows the condition of the high resolution and high range load cells on the monitor board.
+
+
+redskyventures.org/doc/cessna-maintenance-manuals/G1000-Cess...
+
+
+
+PDF Stock No☑
+
+Software form clothing, speci book, reference light, portable tape tape cartridge Switch, with 2 gigabit port anemometer, with 100' of cable silicone Lb rating load cell **load cell digital weight indicator, with optional live...
+
+
+nsf.gov/about/contracting/rfqs/support_ant/docs/f...
+
+
+
+Biomedical Engineering and Design Handbook - V1 | Docs for Facebook☑
+
+More specifically, systems such as optoelectronic motion capture (to track anatomical positioning) and sensors such as accelerometers (to measure acceleration or vibration), inclinometers (to measure displacement or position), load cells or force sensitive resistors...
+
+
+docs.com/CCYE?doc_text=1
+
+
+
+PDF For the Life Sciences☑
+
+It's possible to simultaneously measure EMG with signals from force plates, load cells, and pressure transducers. Analog outputs from chart recorders, preamplifiers, oscilloscopes, force plates, chromatographs, etc. can be connected to the UIM100C module.
+
+
+sporteka.lt/brochures/research_catalog.pdf
+
+
+
+PDF S ignal☑
+
+...example, a load cell with a 10 V excitation supply and a 2 mV/V gain factor generates an output of 20á mV at full load, whether the load cell was designed to handle 10, 100, or 1,000 lbs. TEDS capability was originally intended for piezoelectric sensors such as accelerometers and pressure sensors, but...
+
+
+controlglobal.com/assets/12WPpdf/120423-measurement-computi...
+
+
+
+PDF Honeywell international inc.☑
+
+An optional data port is provided to enable a USB connection to the EFB (see below for further detail). Airspeed 40 to 400 knots. 7002353-913 AIR DATA SENSOR $15,373.00 $11,530.00 Solid-state sensor which receives inputs of static and pitot pressure and provides DC voltage outputs proportional...
+
+
+honeywell.com/aero/common/documents/myaerospacecatalog-...
+
+
+
+WAFER-LX | Forum☑
+
+150Mb/sec Memory BIOS SSD Super I/O Audio LAN IDE Floppy Parallel Port SATA Page 21 WAFER-LX KB/MS Watchdog Timer 2.11 Serial Ports The WAFER-LX has two high-speed UART serial ports, configured as COM1 and COM2. devices including sensors, lights, alarms and switches.
+
+
+cnczone.ru/forums/index.php?act=attach&id=5809&type=...
+
+
+
+PDF Qualification and Interpretation of Sensor Data from STS-107☑
+
+In all cases, the sensor reads lower pressures as the reference vacuum chamber pressure ME449-0141, and 40 different dash numbers are used to enumerate the many different geometrical The strain gauges can be configured as single, double, or triple sensors, involving two, three, four, or six...
+
+
+nasa.gov/columbia/caib/PDFS/VOL2/D19.PDF
+
+
+
+Commerce Business Daily 2001☑
+
+High Pressure vales are made with patented Make-Before-Break (MBB) technology. III. SOFTWARE same software platform for use with both F10 and F40 The Defense Advanced Research Projects Agency (DARPA), Advanced = Technology Office, and the Air Force Research Laboratory's Sensors...
+
+
+fedmine.us/freedownload/CBD/CBD-2001/CBD-2001-16au01...
+
+
+
+PDF Industrial Hygiene and Safety Instrumentation☑
+
+Smart sensors are pre-calibrated, and auto-configure at setup. Reflex bounces electrical signals into the E3Point electrochemical sensor cell at regular intervals. points (three max) CO2, CO, HCl • Built-in auto-calibration, dynamic dust load compensation (up to Measuring 0-5 ppm to 0-5% 100...
+
+
+raeco.com/downloads/RAECO_Catalog2010.pdf
+
+
+
+PDF Major Facilities 2013☑
+
+Each SEPTR contains a CTD, optical sensors, ADCP, and wave/tide gauge. The VMP contains a pressure sensor, 3-axis, high-accuracy accelerometer, SPM-38-1 shear The load applications system can support up to 20 independent load strings with force capabilities from 3,000 to 100,000 lb.
+
+
+nrl.navy.mil/content_images/2013_Major_Facilities.pdf
+
+
+
+infolab.stanford.edu/~cysuen/nifty/day/daily/deleted_clusters_2012-04...☑
+
+that only serve to burden lawful gun owners. president obama has not; i will http rider's basically hot-wiring your cells so that as soon as they get infected by a virus, that trips a 00 2012-04-17 16:00:00 T 2012-04-17 2012-04-17 1 5 1 21 attraction and retention of employees would be severely impacted if...
+
+
+infolab.stanford.edu/~cysuen/nifty/day/daily/deleted_clusters_...
+
+
+
+PDF An investigation into improving speech intelligibility using☑
+
+The intention was to force the listener to switch from using simultaneous grouping to using x1(i) and x2(i) simulate the input signals to a pair of sensors, which in this application are microphones. is its low computational load, allowing it to be used in low power portable devices, such as hearing aids.
+
+
+etheses.whiterose.ac.uk/1141/1/Thesis_V104.pdf
+
+
+
+PDF A pplied t echnology I nstitute , LLC☑
+
+12. Force, Load & Weight Sensors. Accelerometer Types, 4-20 Milliamp Transmitters, Capacitive Sensors, Intrinsically Safe Sensors, Mounting Considerations. Fundamentals of Pressure Sensing Technology, Piezoresistive Sensors, Piezoelectric Sensors, Specialized Applications.
+
+
+aticourses.com/ATI_Short_Technical_Development_Courses_C...
+
+
+
+PDF U.s. army submission of proposals☑
+
+The electronics should include preamplifiers for each pixel, multi-channel analysis and photon counting for each pixel. Design and demonstrate a plan for building a portable pathogen sensor unit based on these results. Most of these sensors are configured as back reflectors.
+
+
+acq.osd.mil/osbp/sbir/solicitations/sbir20012/army012...
+
+
+
+Electrical - Battery Products☑
+
+Uses a USB port for connection to the computer. Supports a wide range of PIC Microcontrollers from 8-Pin to 40-Pin. 4-Port USB Relay Controller + 6 Ch sensors - the holy grail of accelerometers. The ADXL335 is a triple axis accelerometer with extremely low noise and power consumption - only 320uA!
+
+
+technobotsonline.com/index.php?attachment_id=568&dispatch=atta...
+
+
+
+PDF Vehicular instrumentation/transducer committee telemetry group range...☑
+
+Vibrating element pressure sensor cross-sectional diagram. Impedance-based transducers such as strain-gage-based load cells, pressure transducers, accelerometers It is possible, by means of pneumatic switching, to connect both input ports of such transducers to line pressure (reference 7-e).
+
+
+electrical-designer-guide.com/support-files/instrument-control-handbook...
+
+
+
+PDF Noise & vibration measurement handbook☑
+
+...Triaxial Accelerometers - 2 x Uniaxial Accelerometers - 1 x Ignition Lead Pickup Tachometer Sensor - 1 9.4") 4 channels plus tacho input 100k samples/sec per channel (24 bit) 400k samples/sec per Pneumatic load cells operate on the force balance principle; they use multiple dampener chambers to...
+
+
+itestmeasure.com/pdf/prosigNoiseAndVibrationHandbook.pdf
+
+
+
+PDF The Agilent 35670A at a Glance (Front Panel)☑
+
+GPIB parameters are set in the [Local/GPIB] and [Plot/Print] menus. 2-The SERIAL PORT and the PARALLEL PORT link The impact hammer has a load cell that measures the level of force during the impact. The output signal from a microphone preamplifier usually has a significant dc offset.
+
+
+cp.literature.agilent.com/litweb/pdf/35670-90053.pdf
+
+
+
+PDF Part #☑
+
+Kit: Battery, Transformer, Phone Cord, Owner's Guide, (2) SAW Door/Window Sensors and (1) 4-Button Disconnects Load If Battery Falls Below 7.5Vs Power Disconnect Low Battery Cutoff Module, Drops Supports (3) USB Option Modules ultraView 60 Hybrid DVR, 8 Analog Video Channels, 40 IP...
+
+
+galaxyintegrated.com/wp-content/uploads/2013/07/GE-Security-Pr...
+
+
+
+resonance transmission analysis: Topics by Science.gov☑
+
+noise, APD multiplication noise, and preamplifier circuit noise. Fiber-optic SPR sensor is easy for miniaturization, so it is commonly used in the development of portable detection equipment. Force Transmission Error Analysis for a High-Pressure Single-Sinker Magnetic Suspension Densimeter.
+
+
+science.gov/topicpages/r/resonance+transmission+analy...
+
+
+
+PDF Industrial vibration sensors for condition monitoring and predictive...☑
+
+IMI SENSORS DIVISION TOLL-FREE ñ 800-959-4464 21 High Frequency Industrial ICP« Accelerometers Series 623CX1 100 mV/g sensitivity Small (AR-19) Calibration of Piezo Sensors - Calibration systems for dynamic pressure sensors, force sensors, and accelerometers with typical...
+
+
+vitek.com.br/imi/catalogo_imi.pdf
+
+
+
+megagoods.com/datafeed.txt☑
+
+...br>* Natural Response Drum Head with 128 Level Force Velocities Sensor <br> * Sound Generator QFX 120W Inverter with USB Port Accessories Accessories 120 Watt Continuous Power Output<br Alarm Output-1 <br> * Serial Connectors-2 USB 2.0 <br> * Network Connection-10/100 Ethernet(RJ-45)...
+
+
+megagoods.com/datafeed.txt
+
+
+
+lseditkconfig.googlecode.com/svn/trunk/lseditkconfig/kconfig_files/x86/...☑
+
+config MODULE_FORCE_LOAD bool "Forced module loading" default n help Allow loading of modules Those dongles plug in the USB port of your computer, are plug and play, and support SIR and FIR config BLK_DEV_CELLEB tristate "Toshiba's Cell Reference Set IDE support" depends on...
+
+
+lseditkconfig.googlecode.com/svn/trunk/lseditkconfig/kconfig_files/x86...
+
+
+
+Calaméo - Eshbach's Handbook of Engineering Fundamentals☑
+
+xii CONTENTS 16. Microphones and Loudspeakers 1195 References 1198 Suggested Further 38 Mass [M] and Weighta 80 Table 39 Density or Mass per Unit Volume [ML−3 ] 81 Table 40 Force [MLT −2 ] or [F] Uses Automotive (transmission components, throttle bodies, ignition components, sensors...
+
+
+calameo.com/books/000327265eccbccdef883
+
+
+
+PDF Page 1 of 700☑
+
+...G10-21 Monitor infrared carbon dioxid sterilizer magna-clave frame straining model 162 gage mechanical force load rea Port hub 3624TRS port hub 3624TRS 10-METER cell, fixed length pentium 100MHZ PCI computer sy modular furniture...
+
+
+rm.fs.ucf.edu/ENT/surplus/property_write_off_tags_2011.pdf
+
+
+
+PDF Asphalt Surface Aging Prediction (ASAP) System☑
+
+The Mission Plan is loaded into the StreetSweeper application prior to driving the road segment. The control information is collected from the geo-referenced mosaic collected with With the new detector, this amplification saturated the preamplifier output necessitating a change to the x100 amplification.
+
+
+ntl.bts.gov/lib/42000/42300/42380/FinalReport.pdf
+
+
+
+PDF Practical design techniques for sensor signal conditioning☑
+
+sensor is designed to measure. Thus we have temperature sensors, force sensors, pressure sensors, motion sensors, etc. INT1 VREF 8 CREF 7 buf (SPI or I2C) 20 34 47 21 35 48 SCLK 26 SDATA/ 27 MOSI MISO 19 SS 12 ALE 42 PSEN 41 EA 40 RESET 15 AVDD 5 AGND 6 (UART) RxD...
+
+
+kelm.ftn.uns.ac.rs/literatura/mpi/pdf/Practical Design...
+
+
+
+smarc☑
+
+Sensors - 1x Temperature, Humidity & Pressure Sensor, 1x Accelerometer on SoM, 1x Temperature and Connectivity - 2 x 10/100 Mbps Ethernet (vertical RJ45). 6 x RS232s (transceiver onboard, two with handshaking and one can be configured as RS422/RS485), 2 x SPIs, 2 x I2C.
+
+
+cnx-software.com/tag/smarc/
+
+
+
+PDF Larson Davis Inc.☑
+
+Dual Channel Standard, Cross or Intensity Analysis Mode When the 3000+ is configured to the dual 3-30 3000+ Reference Manual 6/14/01 Effect of Microphone Extension Cable Following calibration with microphone being excited 70 60 50 dB dB Reference Level 40 30 20 10 0 1000 100 125 160...
+
+
+modalshop.com/filelibrary/3000_Manual_D.pdf
+
+
+
+2d | Web Page Owner | Whois Lookup☑
+
+id. Website. Owner. Title. Description. temperatura,pressure,temperature sensors,NTV,PT100,PT1000,TCK,infarossi,infrared,potenziometri lineari rotativi,rotary linear potentiometer,regulator,regolatori,accelerometer,accelerometri,GPS,UEGO,lambda,load cell,celle,carico,strain,gauge,detonazione...
+
+
+webpageowner.com/keywords.php?tag=2d
+
+
+
+PDF TM7300 Series Notebook Computer☑
+
+...minijack speaker-out/line-out jack One USB port Optional External IR adapter Microphone or line-in device. disc format Loading mechanism Power Requirement Power supply voltage (V) 1.6.21 Table. It shall operate in shut down mode for the shorting of any de output pins. BMCVCC (5V) 0 ~ 0.5 100...
+
+
+notebook-manuals.com/laptop-manuals/service_manual_for_ACER_Tr...
+
+
+
+PDF ROCKY-6614 CPU Card☑
+
+Support for ANSI/VT100 terminals 5.3.10 USB Configuration 1-10 107 7 CKY-6614 WSB- Card The USB Configuration menu (BIOS Menu 15) gives you information on the USB configuration and allows you to configure some USB features.
+
+
+digitaltechinc.com/ROCKY-6614_user_manual.0.pdf
+
+
+
+PDF A low-noise, extended dynamic range 1.3 Megapixel InGaAs array☑
+
+The USB port also gives users access to its internal frame capture memory of up to 100 lossless images. The need is especially acute for Air Force applications, which use high-resolution Infrared (IR) sensors in their onboard imaging, sensing, and targeting systems.
+
+
+iee.or.jp/ver2/smas/19-calender/rireki_files/DSS13...
+
+
+
+PDF Solve the following equations using Gauss elimination method☑
+
+[8] OR Explain working of Piezoresistive pressure sensor with neat diagram.[8] Explain working [8] Z = 2x1 + 5x2, Maximize x1 + 4x2 ≤ 24, Subject to 3x1 + x2 ≤ 21, x1 + x2 ≤ 9, x1, x2 ≥ 0. OR Q2) a) Compare on the basis of accuracy?[8] Q5) For a load cell based weighing machine designed to display...
+
+
+unipune.ac.in/university_files/pdf/old_papers/April2012...
+
+
+
+PDF PCT Gazette - Section I - Gazette du PCT☑
+
+(74) KENNEDYS PATENT AGENCY LIM ITED ; Floor 5, Queens House, 19-29 St Vincent Place, Glasgow G1 2DT (GB). (71) M ASIM O CORPORATION [US/US]; 40 Parker, Irvine, California 92618 (US) Pressure sensors a un mouvement de tonneau au moyen de capteurs de...
+
+
+wipo.int/edocs/pctdocs/en/2005/pct_2005_6-section1...
+
+
+
+PDF Solve the following equations using Gauss elimination method☑
+
+[8] OR Explain working of Piezoresistive pressure sensor with neat diagram.[8] Explain working [8] Z = 2x1 + 5x2, Maximize x1 + 4x2 ≤ 24, Subject to 3x1 + x2 ≤ 21, x1 + x2 ≤ 9, x1, x2 ≥ 0. OR Q2) a) Compare on the basis of accuracy?[8] Q5) For a load cell based weighing machine designed to display...
+
+
+dypcoeambi.com/downloads/etc-que-paper/B.E - ( 2008 Patt.
+
+
+
+PDF TM7300 Series Notebook Computer☑
+
+...minijack speaker-out/line-out jack One USB port Optional External IR adapter Microphone or line-in device. disc format Loading mechanism Power Requirement Power supply voltage (V) 1.6.21 Table. It shall operate in shut down mode for the shorting of any de output pins. BMCVCC (5V) 0 ~ 0.5 100...
+
+
+printertec.com.br/arquivos_download/acer/acertravelmate7300...
+
+
+
+PDF Trade marks journal trade marks journal singapore singapore☑
+
+air); Accelerometers; Accelerometers integrated with global positioning apparatus; Access control of sale transaction terminals; Electronic pressure sensors; Electronic process apparatus babies; Load break isolators; Load cell digitizers; Load cells; Load cells for measuring force; Load cells for...
+
+
+intellect-worldwide.com/wp-content/uploads/images/e-gazette_singa...
+
+
+
+PDF Instruction Manual☑
+
+If IEPE sensors are present in the setup when switching the Nor136 on, or if IEPE sensors are chosen Load impedance : >16 Ω Output impedance : <10 Ω, AC-coupled with 100 ľF. I/O port ITT Cannon 5% to 95% RH, dewpoint less than 40°C Atmospheric pressure : 500 hPa to 1080 hPa Warm-up...
+
+
+schallmessung.com/images/stories/Norsonic/Manual/133_136_ma...
+
+
+
+Nuts and Volts March 2012 by koldbris☑
+
+It can't be beat! LTS1 Laser Trip Sensor Alarm Kit $29.95 K2639 Liquid Level Controller Kit $21.95 LAB1U 3-In1 Multifunction Solder Lab $134.95. If you know a few "secrets" you can also see if the tire pressure sensors/transmitters are those devices still utilize the SPI portable USB instrument.
+
+
+docstoc.com/docs/115804636/Nuts-and-Volts-March-2012
+
+
+
+
+
+
+PDF Physiology☑
+
+that will operate with a wide variety of transducers, including: pressure, force, strain, displacement, thermocouplers, piezo sensors, light sensors, microphones and nearly any other active or passive sensor or transducer. The DA100C provides variable gain settings...
+
+
+harvardapparatus.com/hapdfs/HAI_DOCCAT_3/BS4_I_Physiology.pdf
+
+
+
+PDF Wisconsin Highway Research Program☑
+
+Omni Instruments. www.omniinstruments.co.uk 120-122 King Street, Broughty Ferry, Dundee, DD5 1EW, Scotland Tel: +44 (0)8700 43 40 40 Fax: +44 (0)8700 43 40 45 Sensor type Displacement, accelerometer, humidity and temperature sensors, load cells, etc.
+
+
+intrans.iastate.edu/reports/health_monitor_wi_vol2.pdf
+
+
+
+PDF Com Express☑
+
+The way Cell-ID positioning works is by cross-referencing the current The answer is clearly not identification of the cell towers abandoning satellite-based that the device can "see," with a positioning, but augmenting global database of the world's more than 40 million cell-IDs.
+
+
+eproductalert.com/digitaledition/transportation/2013/Engine...
+
+
+
+PDF Poster Sessions☑
+
+A 4-Element Receive Array with Integrated Preamplifiers for Mouse Brain Imaging in a 14T Vertical Bore This study will help in addressing the need of portable MR systems. 1550. MR Compatible Sensor 1874. Improved Detection of Iron-Loaded Cells by Combining Balanced Steady-State Free...
+
+
+ismrm.org/10/program/TRADITIONALPOSTER.pdf
+
+
+
+Product News Studio and Recording Equipment - Thomann UK☑
+
+...cone, 1" treated silk dome tweeter, Front-loaded slot port, Class-AB bi-amplified, 40W (LF), 30W (HF) Manley Force, 4-Channel Tube Microphone Preamplifier, Features of each Channel: 120 Hz High Tascam DP-24 SD, 24-Track Digital Portastudio, portable Multitrack-Recorder with 12 Mono Tracks...
+
+
+thomann.de/gb/prodnews_GF_studio_equipment_HL_prodne...
+
+
+
+MIROM Medical & Research Equipment Ltd.☑
+
+Workload 7-750 Watt with a maximum peak load of 999 Watt during 6 minutes. The workload is independent of pedal speed between 40-120 rpm. Barometric pressure compensated gas sensors, 16 bit A:D Data conversion, O2 has dual range (0-25% FS and 0-100% FS), USB and analog output...
+
+
+mirom.co.il/search.phtml
+
+
+
+PDF Del: del: del: del: del: del: del☑
+
+The Sangean ATS-505 is the most affordable portable SW rx with single sideband on the market today. Isls Fr 6135 250 NoMOZ Port KinyaRwanda; Sat/Sun En Affiliated Media Group 0430-0630 6115 100 SoAF (RippelVA, NU Aug 19) 12579 USB unknown-QTH 2137 American Forces Network.
+
+
+dokufunk.org/upload/bcdx_2000.pdf
+
+
+
+PDF Marks published for opposition☑
+
+100 and 101). First use 3-1-1990; in commerce 3-1-1990. Owner of u.s. reg. Nos. 21, 23, 26, 36 and 38). Transnav for computer software for use in configuring Systems, power supplies, fiber optic interface systems, load cells...
+
+
+uspto.gov/web/trademarks/tmog/20031014_OG.pdf
+
+
+
+PDF Sandia National Laboratories 2011 LDRD Annual Report☑
+
+A pressure test was executed to determine the maximum sealing pressure by the cell and was found to be in the neighborhood of 100 psi, well above the More importantly, there is no currently field-deployed technology to detect such HMEs, and therefore, this project's work with portable sensors...
+
+
+sandia.gov/research/laboratory_directed_research/_as...
+
+
+
+PDF DIVISION☑
+
+Application Porting Linux serial driver - Ethernet driver - I2C subsystem - USB gadgets - Watchdog timer - Kernel Modules - Application porting roadmap - Programming 4. M.H.Bao "Micromechanical transducers: Pressure sensors, accelerometers and gyroscopes", Elsevier, Newyork, 2000.
+
+
+karunya.edu/academics/syllabus/eie.pdf
+
+
+
+Abstracts of the 37TH annual midwinter meeting of the☑
+
+Hair cells were loaded with FM4-64, and the cultures then received 1 mM kanamycin. Methods Two methods for sealing and holding the pressure sensors were compared: {1} Results The data indicate rupture forces of ~36pN for a single tip-link pair at loading rates equivilant to 100-200 Hz stimulation.
+
+
+cns.nyu.edu/events/earclub/artfiles/ARO2014
+
+
+
+PDF UNCLASSIFIED☑
+
+- Investigate techniques for load balancing and service placement optimization. • • MEMS-based accelerometer capable of surviving and operating in the near 100,000 G accelerations generated by firing artillery Demonstrate miniature aerodynamic pressure sensors on a flexible, adhesive tape.
+
+
+upload.wikimedia.org/wikipedia/commons/9/97/Fiscal_Year_2000_D...
+
+
+
+https://admin.qsl.net/pipermail/elecraft/2009-March.txt☑
+
+I'll vouch for the K2 mojo, but with the KPA100... Managed the #10 slot SOAB LP in ARRL DX CW. The K2 is now configured more as a QRP mobile/portable rig. I have both interfaces plugged into seperate USB ports, and in the > microham router software I have 2 tabs, one for each interface. > >
+
+
+admin.qsl.net/pipermail/elecraft/2009-March.txt
+
+
+
+PDF Meggitt Sensing Systems☑
+
+Accelerometers · Acoustics · Pressure sensors · Signal conditioners · Electronics · Calibration · LVDTs · Cables Test and measurement product catalog Meggitt PLC Meggitt Sensing Systems The Meggitt group, comprising a 10,000-plus workforce over 40 operating sites worldwide...
+
+
+ferret.com.au/ODIN/PDF/Showcases/105765.pdf
+
+
+
+PDF J. Clarke, A. I. Braginski (Eds.)☑
+
+The feedback loop automatically locks at a state with equal pulse probability for sensor and reference. Prototypes of an optimized 100-MHz 4.4 The rf This inversion temperature depends on the pressure, the maximum value of which (i.e., at P = 0) for helium is 40 K, for hydrogen it is 205 K, for neon, 250 K...
+
+
+chemistry-chemists.com/chemister/Spectroscopia/The-SQUID-Handboo...
+
+
+
+PDF Temperature-Controlled, NV, I 2 C, Logarithmic Resistor☑
+
+...Resistance (kω) 1.6 rgnd = 0V rw open force 1.25V on rh and measure current 40 wiper 75 100 125 wipe setting (dec) 10 conversions complete LUT value loaded to wr 0 0 0.5 1: Enables serial port and configures SCK, SDO, and SCI pins as serial port pins.
+
+
+favorit-ec.ru/files/catalog/imc/ADC-DAC.pdf
+
+
+
+libsysdigi.library.uiuc.edu/oca/books2008-08/illinoistechnogr/...☑
+
+More than 100 fellowships are awarded annually. Scientists have tracked the ash plume from the Mexican The magnitude and direction of torque is equal to the cross product of the lever arm and force The accuracy of the sensor can be increased if it is made insensitive to seismic or pressure...
+
+
+libsysdigi.library.uiuc.edu/oca/books2008-08/illinoistechnogr/illinoi...
+
+
+
+PDF Thesis No: 1☑
+
+The specially designed conductivity cell (2 cm x 0.65 cm x 2 cm) This system can also be portable to other sensor applications. The results obtained show that the prototype instrument developed is able to measure pressure in 100% agreement with the reference while it can measure gas-flow within 95...
+
+
+bme.boun.edu.tr/docs/M.Sc. THESES.pdf
+
+
+
+PDF Common Field Test Display Data And Layout☑
+
+2 (10) 3 (11) S40 Data display S40 HELP display E A H C a b c d EC 2Ter h i I BR e fg MB G j k Serving Cell Value range 0 18. c WCDMA_ DSP_CS Gain of preamplifier. Accelerometer display This display shows accelerometer information for the configured sensor S40 Data display S40.
+
+
+cosconor.fr/GSM/Nokia/Netmonitor/Manuale/Series 40.pdf
+
+
+
+PDF TM7100 Series Notebook Computer☑
+
+...jack One USB port Optional LAN card or other PC cards External IR adapter Microphone or line-in Flash ROM with boot block protection 256KB 40-pin TSOP Yes Yes PCI V2.1, APM V1.1, E-IDE and Loading mechanism Power Requirement Power supply voltage (V) 1.6.21 Table 1-32 Diskette Drive...
+
+
+diagramas.diagramasde.com/laptop-notebook/TM7100SG.PDF
+
+
+
+PDF The Illustrated Dictionary of Electronics☑
+
+the one-port, cross-field, nonlinear type using a magnetron. circuit 1. A closed path through which current A configured-in device is available; a configured-out device is available, but is restricted to certain It uses machine vision, tactile sensors, pressure sensors, or high-precision displacement...
+
+
+mf1.dpu.edu.tr/~altuncu/elektronik/Dictionary of...
+
+
+
+PDF Disclaimer☑
+
+Assorted pots, photoresistors, pressure sensors, etc. • Some hookup wire. • Accelerometers map the movement of hands and bodies. Many pretty sophisticated sensors are surprisingly cheap. 5 preamplifier circuit, 152-154 dynamic, 17-18 headphone/speaker as microphone, 17-18...
+
+
+samoletuvvp.narod.ru/vto/Handmade_electronic.pdf
+
+
+
+PDF Johnson controls products☑
+
+...Sensor- 22' high temperature sensor analog daughter card accelerometer 100MV/g 485 P20HA-6C P21CAC-14C P21CCB-10C P21CCB-2C P21CCB-5C. Description 8-port Server Switch 12V, 40AH Rechargeable Sealed Lead Acid Battery Camera Cameleon Video...
+
+
+ogs.state.ny.us/purchase/spg/pdfdocs/3822119110pl.pdf
+
+
+
+August 2012 - KeelyNet News 2012 - Free Energy / Gravity Control...☑
+
+They say atmospheric pressure is one of the most powerful known forces in nature. A magnetic dipole being connected to the load, there arises the sensor / ground circuit, causing the current generated Audio amplification took place in a battery-powered, low-noise op-amp type preamplifier.
+
+
+keelynet.com/news/indexdec13.html
+
+
+
+PDF Charlie collins michael D. galpin matthias käppler☑
+
+...Temperature sensors Pressure sensors Note that not all sensor. Google's first Android phone, the G1 (a.k.a. HTC Dream), only has GPS, accelerometer, magnetic field, and orientation sensors. Instead we hold a final static reference to it B and do the custom TECHNIQUE 43 Configuring a...
+
+
+csie.ntu.edu.tw/~b97094/Android in Practice.pdf
+
+
+
+kias.dyndns.org/sysadmin/Kconfigs-2.6.32.txt☑
+
+config ETRAX_USB_HOST_PORT1 bool "USB port 1 enabled" depends on ETRAX_USB_HOST default n. You can force loading on other models by passing the parameter `force=1' to the module. ThinkPads starting with the R50, T41, and X40 are supported.
+
+
+kias.dyndns.org/sysadmin/Kconfigs-2.6.32.txt
+
+
+
+PDF Android ™ Hacker's Handbook☑
+
+Using a USB port requires a special USB driver whereas using a console port requires access to a serial port on the device itself. SPI EEPROM Much like the SPI devices mentioned earlier in this chapter (accelerometers and temperature sensors, for example), SPI EEPROM makes use of SPI.
+
+
+files.cnblogs.com/files/jiayy/Android_Hacker_s_Handbook.pdf
+
+
+
+PDF Model T200H/M nitrogen oxides analyzer☑
+
+When the COM2 port is configured for RS-485 communication, the rear panel USB port is disabled. The test forces all four analog output channels to produce signals ranging from 0% to 100% of the full scale range in 20% increments. 3-Port Reaction Cell Oriented to the Sensor Housing 4. Remove...
+
+
+teledyne-api.com/manuals/07270B_T200H-M.pdf
+
+
+
+PDF Kinect for Windows SDK Programming Guide☑
+
+sensor Different ways to get a Kinect sensor's reference Developing an application with multiple The default USB port that is plugged into the system doesn't have the power capabilities required by Then we will force the skeleton engine to track that particular skeleton as long as the sensor has...
+
+
+lirec.ict.pwr.wroc.pl/~jkedzier/urbi/Kinect for Windows SDK...
+
+
+
+PDF Epi manual codes part 2☑
+
+Includes e.g. pressure sensitive (see also S02-F04B3), piezoresistive, and chemical sensors. RS-232, serial port, USB, universal serial bus, IEEE1394, Firewire®, i-link®, RS-485, parallel port Separation, shield, repeater, receiver, desensitizing General RF preamplifiers Covers amplifiers...
+
+
+ip-science.thomsonreuters.com/m/pdfs/epi_manualcodes2.pdf
+
+
+
+AKTAKOM - Test & measuring devices, USB & LAN instruments...☑
+
+Tektronix Delivers New BERTScope Model Addressing 100G Optical Receiver Test Requirements. The first-to-market microwave switch driven by a USB port, the Agilent U1810B will provide Rohde & Schwarz introduces the world's first USB-capable wideband power sensors that can measure up to 40...
+
+
+aktakom.com/?SHOWALL_1=1
+
+
+
+ehow.com☑
+
+USB to Serial Port Adapter Software | eHow.com.
+
+
+carrierpac.biz.statsdomain.com/about/ehow.com
+
+
+
+PDF Siemens industry, inc☑
+
+$21.62 kit programming cable kit $27.87 cell checker $411.92 Differential pressure sensor 5"wc differential pressure sensor in conduit differential 1315SB-R/1SXX DesignLine Garage Door Sensor, White High Security Cable, 100Ų Roll Raw...
+
+
+txmasonline.com/pages/SiemensBT/TXMAS Updated Schedule...
+
+
+
+PDF Hardware Hacker☑
+
+But, to get you started, the Nova Sensor people recently had an $11 in quantity one sale on their new NPS-100 pressure sensors. The (+) and (-) input impedances are both very high, while the reference input will appear like a 7K load impedance. There are three pins on the output side.
+
+
+tinaja.com/glib/hackar1.pdf
+
+
+
+MS Electronics☑
+
+Patent-Pending - The patent-pending slider design allows for easy loading and unloading of the iPhone and provides a secure fit for your device. Peripheral Interface: RJ-45 Ethernet jack (10/100Mbps). Micro SD card reader, support HDMI-CEC. USB 2.0 port x 2. IR receiver.
+
+
+mstronics.com/group.php?product_category=/
+
+
+
+PDF A Guide to Electrophysiology & Biophysics Laboratory Techniques☑
+
+C Rf If I Rf + A1 +1 -1 A2 BOOST VI Vcmd Figure 3.21: Resistive headstage. Major producers of semiconductor pressure sensors include Honeywell, Inc. (Minneapolis, MN). USB PORT In just a few years, USB has lived up to its name and become the Universal Serial Bus.
+
+
+culturacientifica.org/textosudc/Axon_Guide.pdf
+
+
+
+PDF IMB-9454G Motherboard☑
+
+...two Ultra ATA 100 devices Eight USB 2.0 connectors supported Six COM ports One PCIe x16 graphic port One PCIe and 2.88MB 2.10 Serial Ports The IMB-9454G has six high-speed UART serial ports, configured as COM1, COM2 I/O control devices including sensors, lights, alarms and switches.
+
+
+datasheets.pl/motherboards/MOTHERBOARD_IMB9454G_R20.pdf
+
+
+
+2SD series:2SD0601A/2SD0601A0L/2SD0601ARL Price|Datasheet pdf...☑
+
+This megapixel CMOS image sensor features Digita. 2SD1113(K) 2SD1113(K). 2SD1991AQTA 2SD1991AQTA. Three of the preamplifiers, A, C and D are capabl. CAN3. 04+. Although the Motorola accelerometers conta. 2SD689 2SD689. TOS. Analog ground Downstream port 2 USB data- Down.
+
+
+seekchip.com/icstock-index/2SD.html
+
+
+
+The Illustrated Dictionary of Electronics | Forum☑
+
+the one-port, cross-field, nonlinear type using a magnetron. circuit 1. A closed path through which current A configured-in device is available; a configured-out device is available, but is restricted to certain It uses machine vision, tactile sensors, pressure sensors, or high-precision displacement...
+
+
+kazus.ru/forums/attachment.php?attachmentid=59397&...
+
+
+
+Test & Measuring Instruments and Solutions - T&M Atlantic☑
+
+Tektronix Delivers New BERTScope Model Addressing 100G Optical Receiver Test Requirements. The first-to-market microwave switch driven by a USB port, the Agilent U1810B will provide Rohde & Schwarz introduces the world's first USB-capable wideband power sensors that can measure up to 40...
+
+
+tmatlantic.com/?PAGEN_1=5&SHOWALL_4=1
+
+
+
+PDF The Axon Guide☑
+
+For example, in a microphone amplifier the tiny output from the microphone is first coupled into an extremely low-noise preamplifier. Acceleration Measurements Accelerometers from Pennwalt Corporation (Valley Forge, PA) consist of piezoelectric pressure sensors attached to a test mass.
+
+
+psychiatry.wustl.edu/zorumski/Axon_Guide.PDF
+
+
+
+PDF The Agilent 35670A at a Glance (Front Panel)☑
+
+GPIB parameters are set in the [Local/GPIB] and [Plot/Print] menus. 2-The SERIAL PORT and the PARALLEL PORT link The impact hammer has a load cell that measures the level of force during the impact. The output signal from a microphone preamplifier usually has a significant dc offset.
+
+
+bee.mif.pg.gda.pl/ciasteczkowypotwor/HP/35670-90053.pdf
+
+
+
+PDF Manufacturing Profiles☑
+
+Presence sensors and motion measurement devices: Limit switches (positioning sensors) 1,219,626 r 121,255 126,810 3,902 7-46 Electronics 1998 Manufacturing Profiles U.S. Census Bureau Table 21. A pump in which the pressure is developed principally by the action of centrifugal force.
+
+
+istmat.info/files/uploads/43349/manufacturing_profile...
+
+
+
+PDF ARTA☑
+
+3) Microphone, microphone preamplifier and microphone calibrator have to be in the class defined in standard IEC 61672-1. Cheap electret microphone can be used for IEC class II measurements in restricted SPL range (LA = 40-120 dB).
+
+
+files.domcxem.ru/infocenter/АкустическиеСистемы/ARTA/ARTA-...
+
+
+
+PDF Analog Products☑
+
+GHz logarithmic RMS power detector with 45 dB dynamic range 52 52 2.5V, 5V, 10V precision shunt voltage reference Dual, 14-bit, 3 MSPS to 40 142 28 enabled national.com 5 Industrial Sensing and Control Bridge Sensors — Pressure, Load, Force Photoconductive/Photovoltaic CF 2.5V RF.
+
+
+promelec.ru/pdf/APG12162010_FINAL.PDF
+
+
+
+XLS jsts.org/html/journal/journal_files_total/JSTS_PaperList(2001-2012).xls☑
+
+A new midpoint-reference generation circuit is adopted for the reference cell to improve the ECG, touch sensor, dry electrode, portable, equivalent sensing circuit model, instrumentation amplifier. It shows a voltage gain of 40 dB and a noise figure (NF) lower than 4.5 dB over the entire DSRC band.
+
+
+jsts.org/html/journal/journal_files_total/JSTS_Pap...
+
+
+
+copyleft hardware planet☑
+
+Above 100k', the MS5607 barometric sensor is out of range. Below is an example of how a circuit looks in the book — in this case, the DIY pressure sensor tutorial (click The new version uses better sensors (MS5607 baro sensor, MMA6555 accelerometer) and a higher power radio (CC1120 40mW).
+
+
+en.qi-hardware.com/planet/
+
+
+
+PDF IMB-9454G Motherboard☑
+
+...two Ultra ATA 100 devices Eight USB 2.0 connectors supported Six COM ports One PCIe x16 graphic port One PCIe and 2.88MB 2.10 Serial Ports The IMB-9454G has six high-speed UART serial ports, configured as COM1, COM2 I/O control devices including sensors, lights, alarms and switches.
+
+
+datasheets.home.pl/datasheets/motherboards/MOTHERBOARD_IMB94...
+
+
+
+PDF American ceramic society☑
+
+The abstract of the provisional patent application says, in part, "By extracting the most common and more needed minerals from these waste streams, a 100% renewable glass, glass-ceramic, and/or Manufactures piezoelectric ceramics, transducers, sensors, accelerometers, and microphones.
+
+
+americanceramicsociety.org/bulletin/2013_pdf_files/dec13/pdf/dec13.pdf
+
+
+
+PDF Results of Research - Development - Innovation in INCDMTM Bucharest☑
+
+NANO TECHNOLOGIES for MECATRONICS, SENSORS AND ROBOTS performed between Universal testing equipment INSTRON 8872 Loading Force from 2N up to 10KN; Working speed: from The sound level meters: Hand-held Analyzer Type 2250; microphones and preamplifiers, sound...
+
+
+incdmtm.ro/editura/documente/catalog_2009.pdf
+
+
+
+
+
+No more results.
+
+
+
+
+
+
+
+
+XThemes
+
+
+
+
+
+More Themes
+Advanced Settings
+Menu
+About
+Tour
+Privacy
+Bangs
+App
+
+
+
+
+
+
+
+
+
+
+
+ 
